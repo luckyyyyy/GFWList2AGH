@@ -117,7 +117,7 @@ function GenerateRules() {
                 # "https://dns.alidns.com:443/dns-query"
                 # "https://dns.ipv6dns.com:443/dns-query"
                 # "https://doh.360.cn:443/dns-query"
-                "202.101.172.35"
+                "127.0.0.1"
                 # "tls://dns.alidns.com:853"
                 # "tls://dns.ipv6dns.com:853"
                 # "tls://dot.360.cn:853"

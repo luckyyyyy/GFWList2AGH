@@ -1,0 +1,23 @@
+{
+  "name": "gfwlist2agh",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Personal and specific purpose, please do not use.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyyyyy/GFWList2AGH.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckyyyyy/GFWList2AGH/issues"
+  },
+  "homepage": "https://github.com/luckyyyyy/GFWList2AGH#readme",
+  "dependencies": {
+    "got": "^12.6.0"
+  }
+}

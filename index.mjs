@@ -12,7 +12,7 @@ const cn = [
   "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt",
   "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/China/China_Domain.list",
 ]
-const domains = { cn: true };
+const domains = { cn: true, lan: true };
 // Promise.all并发请求 获取域名数据
 const getDomain = async () => {
   const res = await Promise.all(cn.map(url => Got(url)));

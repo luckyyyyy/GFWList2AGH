@@ -41,10 +41,14 @@ try {
 } catch (error) {}
 await fs.mkdir('./AdGuardHome', { recursive: true });
 await fs.writeFile('./AdGuardHome/domains.txt',
-  remote_dns + '\n' + Object.keys(domains).map((item) => {
+  remote_dns + '\n' + Object.keys(domains).sort((a, b) => {
+    return a.charCodeAt(0) - b.charCodeAt(0);
+  }).map((item) => {
     return `[/${item}/]${local_dns}`;
   }).join('\n')
 );
 await fs.writeFile('./AdGuardHome/domains-min.txt',
-  remote_dns + '\n' + '[/' + Object.keys(domains).join('/') + '/]' + local_dns
+  remote_dns + '\n' + '[/' + Object.keys(domains).sort((a, b) => {
+    return a.charCodeAt(0) - b.charCodeAt(0);
+  }).join('/') + '/]' + local_dns
 );

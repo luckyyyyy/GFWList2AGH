@@ -1909,6 +1909,7 @@
 [/114la.com/]127.0.0.1
 [/1188.com/]127.0.0.1
 [/11h5.com/]127.0.0.1
+[/123aa.com/]127.0.0.1
 [/123hala.com/]127.0.0.1
 [/123juzi.net/]127.0.0.1
 [/1377.com/]127.0.0.1
@@ -5083,7 +5084,6 @@
 [/51lesheng.com/]127.0.0.1
 [/51znyx.com/]127.0.0.1
 [/504pk.com/]127.0.0.1
-[/5066.net/]127.0.0.1
 [/50bang.org/]127.0.0.1
 [/50union.com/]127.0.0.1
 [/50zera.com/]127.0.0.1
@@ -12541,6 +12541,7 @@
 [/bilibilijj.com/]127.0.0.1
 [/bilibilipay.com/]127.0.0.1
 [/bilibilis0.one/]127.0.0.1
+[/bitiful.net/]127.0.0.1
 [/bjcathay.com/]127.0.0.1
 [/bjmantis.net/]127.0.0.1
 [/bla01.com/]127.0.0.1
@@ -17820,6 +17821,7 @@
 [/cangnews.com/]127.0.0.1
 [/cdnmaster.com/]127.0.0.1
 [/chance-ad.com/]127.0.0.1
+[/chembk.com/]127.0.0.1
 [/chengadx.com/]127.0.0.1
 [/cherimm.com/]127.0.0.1
 [/chnci.com/]127.0.0.1
@@ -39016,6 +39018,7 @@
 [/linkvans.com/]127.0.0.1
 [/lishibu.com/]127.0.0.1
 [/liuliguo.com/]127.0.0.1
+[/lixin.ee/]127.0.0.1
 [/lkme.cc/]127.0.0.1
 [/lmx7.com/]127.0.0.1
 [/lnk0.com/]127.0.0.1
@@ -41768,6 +41771,7 @@
 [/mbxt.net/]127.0.0.1
 [/mdfull.com/]127.0.0.1
 [/mediav.com/]127.0.0.1
+[/meetyoumuseum.com/]127.0.0.1
 [/megajoy.com/]127.0.0.1
 [/meiqia.com/]127.0.0.1
 [/mgc-games.com/]127.0.0.1
@@ -48260,6 +48264,7 @@
 [/rrys2020.com/]127.0.0.1
 [/rrysapp.com/]127.0.0.1
 [/reserve-prime.apple.com/]127.0.0.1
+[/ranfenghd.com/]127.0.0.1
 [/rdtuijian.com/]127.0.0.1
 [/readdsp.com/]127.0.0.1
 [/reebbwi.cyou/]127.0.0.1
@@ -52876,6 +52881,7 @@
 [/sundxs.com/]127.0.0.1
 [/support.lenovo.com/]127.0.0.1
 [/synacast.com/]127.0.0.1
+[/szzhaodaxin.com/]127.0.0.1
 [/safebrowsing.googleapis.com/]127.0.0.1
 [/se-edge.itunes.apple.com/]127.0.0.1
 [/se2.itunes.apple.com/]127.0.0.1
@@ -60012,6 +60018,7 @@
 [/winasdaq.com/]127.0.0.1
 [/winbaicai.com/]127.0.0.1
 [/wjxcdn.com/]127.0.0.1
+[/wjzpgz.com/]127.0.0.1
 [/wkanx.com/]127.0.0.1
 [/wl.dlservice.microsoft.com/]127.0.0.1
 [/wmsjsteam.com/]127.0.0.1

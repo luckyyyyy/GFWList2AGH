@@ -5094,6 +5094,7 @@
 [/51ads.com/]127.0.0.1
 [/51kaowang.com/]127.0.0.1
 [/51la.net/]127.0.0.1
+[/51xinhu.com/]127.0.0.1
 [/51xumei.com/]127.0.0.1
 [/51y5.net/]127.0.0.1
 [/51yes.com/]127.0.0.1
@@ -23863,6 +23864,7 @@
 [/feitian001.com/]127.0.0.1
 [/fengbuy.com/]127.0.0.1
 [/fengkongcloud.com/]127.0.0.1
+[/fengyang.fun/]127.0.0.1
 [/fengyx.com/]127.0.0.1
 [/fenqihome.com/]127.0.0.1
 [/ffbon.com/]127.0.0.1
@@ -29900,6 +29902,7 @@
 [/hapying.com/]127.0.0.1
 [/hashnest.com/]127.0.0.1
 [/hbbaidu.com/]127.0.0.1
+[/hbn68.com/]127.0.0.1
 [/hbtxbaidu.com/]127.0.0.1
 [/hdypw.com/]127.0.0.1
 [/he2d.com/]127.0.0.1
@@ -29907,6 +29910,7 @@
 [/heygugu.com/]127.0.0.1
 [/heytapimage.com/]127.0.0.1
 [/hgame.com/]127.0.0.1
+[/hhhtfin.com/]127.0.0.1
 [/higame123.com/]127.0.0.1
 [/hiido.com/]127.0.0.1
 [/hly.com/]127.0.0.1
@@ -34702,6 +34706,7 @@
 [/jmp.gd/]127.0.0.1
 [/jcelyj.com/]127.0.0.1
 [/jddaw.com/]127.0.0.1
+[/jdhmediajd.com/]127.0.0.1
 [/jesgoo.com/]127.0.0.1
 [/jiankongbao.com/]127.0.0.1
 [/jiaohezhen.com/]127.0.0.1
@@ -43026,6 +43031,7 @@
 [/nvsip.com/]127.0.0.1
 [/n4x8.xyz/]127.0.0.1
 [/najnus.com/]127.0.0.1
+[/nasack.net/]127.0.0.1
 [/nasimobi.com/]127.0.0.1
 [/networkbench.com/]127.0.0.1
 [/newapi.com/]127.0.0.1
@@ -43863,6 +43869,7 @@
 [/oscdn.apple.com/]127.0.0.1
 [/oscdn.origin-apple.com.akadns.net/]127.0.0.1
 [/osxapps.itunes.g.aaplimg.com/]127.0.0.1
+[/o6s.net/]127.0.0.1
 [/o7h.net/]127.0.0.1
 [/oadz.com/]127.0.0.1
 [/offerstrack.net/]127.0.0.1
@@ -45459,6 +45466,7 @@
 [/pincai.com/]127.0.0.1
 [/playcvn.com/]127.0.0.1
 [/pnxs.com/]127.0.0.1
+[/pocidian.com/]127.0.0.1
 [/podaaec.cyou/]127.0.0.1
 [/pop800.com/]127.0.0.1
 [/poseidon.dl.playstation.net/]127.0.0.1
@@ -45471,6 +45479,7 @@
 [/pushauction.com/]127.0.0.1
 [/pushcfg.com/]127.0.0.1
 [/pv4b.com/]127.0.0.1
+[/pxhuiben.com/]127.0.0.1
 [/p1-juejin.byteimg.com/]127.0.0.1
 [/p2-juejin.byteimg.com/]127.0.0.1
 [/p3-juejin.byteimg.com/]127.0.0.1
@@ -48264,6 +48273,7 @@
 [/rrys2020.com/]127.0.0.1
 [/rrysapp.com/]127.0.0.1
 [/reserve-prime.apple.com/]127.0.0.1
+[/raina.tech/]127.0.0.1
 [/ranfenghd.com/]127.0.0.1
 [/rdtuijian.com/]127.0.0.1
 [/readdsp.com/]127.0.0.1
@@ -65699,6 +65709,7 @@
 [/ymapp.com/]127.0.0.1
 [/ymbaidu.com/]127.0.0.1
 [/ynbojie.com/]127.0.0.1
+[/yongfan99.com/]127.0.0.1
 [/yooli.com/]127.0.0.1
 [/youle55.com/]127.0.0.1
 [/youmi.net/]127.0.0.1
@@ -65720,6 +65731,7 @@
 [/yunshipei.com/]127.0.0.1
 [/yximgs.com/]127.0.0.1
 [/yxmspx.com/]127.0.0.1
+[/yxtk.xyz/]127.0.0.1
 [/yiliao.hupan.com/]127.0.0.1
 [/zuoyebao.com/]127.0.0.1
 [/zuoyebao.net/]127.0.0.1

@@ -1904,6 +1904,7 @@
 [/17usoft.net/]127.0.0.1
 [/10010mx.com/]127.0.0.1
 [/155.com/]127.0.0.1
+[/1.fish/]127.0.0.1
 [/100669.com/]127.0.0.1
 [/107788.com/]127.0.0.1
 [/114la.com/]127.0.0.1
@@ -9557,6 +9558,7 @@
 [/appleid.cdn-apple.com/]127.0.0.1
 [/apps.apple.com/]127.0.0.1
 [/apps.mzstatic.com/]127.0.0.1
+[/a5b.cc/]127.0.0.1
 [/a9377j.com/]127.0.0.1
 [/abbyychina.com/]127.0.0.1
 [/abeacon.com/]127.0.0.1
@@ -9698,6 +9700,7 @@
 [/allyes.com/]127.0.0.1
 [/anfeng.com/]127.0.0.1
 [/anquan.org/]127.0.0.1
+[/antfans.com/]127.0.0.1
 [/anysdk.com/]127.0.0.1
 [/aomeng.net/]127.0.0.1
 [/appadhoc.com/]127.0.0.1
@@ -9723,6 +9726,7 @@
 [/atomhike.com/]127.0.0.1
 [/atpanel.com/]127.0.0.1
 [/autobaidu.com/]127.0.0.1
+[/avyeld.com/]127.0.0.1
 [/amp-api-search-edge.apps.apple.com/]127.0.0.1
 [/amp-api.apps.apple.com/]127.0.0.1
 [/aod.itunes.apple.com/]127.0.0.1
@@ -12518,6 +12522,7 @@
 [/baike.biz/]127.0.0.1
 [/baizhu.cc/]127.0.0.1
 [/banmamedia.com/]127.0.0.1
+[/banyuetanapp.com/]127.0.0.1
 [/bartender.cc/]127.0.0.1
 [/bayescom.com/]127.0.0.1
 [/bayimob.com/]127.0.0.1
@@ -17825,6 +17830,7 @@
 [/chembk.com/]127.0.0.1
 [/chengadx.com/]127.0.0.1
 [/cherimm.com/]127.0.0.1
+[/china51766.com/]127.0.0.1
 [/chnci.com/]127.0.0.1
 [/chong-wu.net/]127.0.0.1
 [/chunmiaosh.com/]127.0.0.1
@@ -17837,6 +17843,7 @@
 [/cmpassport.com/]127.0.0.1
 [/cnbanbao.com/]127.0.0.1
 [/cnkok.com/]127.0.0.1
+[/cnnic.pub/]127.0.0.1
 [/cnspeedtest.com/]127.0.0.1
 [/cnspeedtest.net/]127.0.0.1
 [/cnxad.com/]127.0.0.1
@@ -17850,6 +17857,7 @@
 [/compass-fit.jp/]127.0.0.1
 [/coocaatv.com/]127.0.0.1
 [/coreldrawchina.com/]127.0.0.1
+[/cosbuluo.com/]127.0.0.1
 [/cpatrk.net/]127.0.0.1
 [/cpc.cc/]127.0.0.1
 [/cqjjlsy.com/]127.0.0.1
@@ -20658,6 +20666,7 @@
 [/dydab.com/]127.0.0.1
 [/dyhnbgtsl.xyz/]127.0.0.1
 [/dzxwnews.com/]127.0.0.1
+[/dzzui.com/]127.0.0.1
 [/discussionschinese.apple.com/]127.0.0.1
 [/downloaddispatch.itunes.apple.com/]127.0.0.1
 [/dl-vip.pcfaster.baidu.co.th/]127.0.0.1
@@ -29928,6 +29937,7 @@
 [/huluxia.com/]127.0.0.1
 [/huodonghezi.com/]127.0.0.1
 [/huoying666.com/]127.0.0.1
+[/hurbai.com/]127.0.0.1
 [/hwanjia.com/]127.0.0.1
 [/hysdknb.com/]127.0.0.1
 [/hzbxm.com/]127.0.0.1
@@ -36310,6 +36320,7 @@
 [/kuyinxiuxiu.com/]127.0.0.1
 [/kuyinyun.com/]127.0.0.1
 [/ka5188.com/]127.0.0.1
+[/kamokamogo.com/]127.0.0.1
 [/kanshuapp.com/]127.0.0.1
 [/kdweibo.com/]127.0.0.1
 [/kejet.com/]127.0.0.1
@@ -45451,6 +45462,7 @@
 [/pancake.cdn-apple.com.akadns.net/]127.0.0.1
 [/prod-support.apple-support.akadns.net/]127.0.0.1
 [/publicassets.cdn-apple.com/]127.0.0.1
+[/paasmi.com/]127.0.0.1
 [/pagechoice.com/]127.0.0.1
 [/pagechoice.net/]127.0.0.1
 [/pangolin-sdk-toutiao-b.com/]127.0.0.1
@@ -52847,6 +52859,7 @@
 [/sdxitong.com/]127.0.0.1
 [/seefarger.com/]127.0.0.1
 [/seeingcare.com/]127.0.0.1
+[/sendpioneer.com/]127.0.0.1
 [/setbbts.cyou/]127.0.0.1
 [/sg92.com/]127.0.0.1
 [/sgdmobile.com/]127.0.0.1
@@ -52868,6 +52881,7 @@
 [/simengadx.com/]127.0.0.1
 [/sinawap.com/]127.0.0.1
 [/sjgnskf.com/]127.0.0.1
+[/sjmwsw.com/]127.0.0.1
 [/sljkj.com/]127.0.0.1
 [/slupdate.dlservice.microsoft.com/]127.0.0.1
 [/smabye.com/]127.0.0.1
@@ -57173,6 +57187,7 @@
 [/vitamio.tv/]127.0.0.1
 [/valid.apple.com/]127.0.0.1
 [/valid.origin-apple.com.akadns.net/]127.0.0.1
+[/v0719.com/]127.0.0.1
 [/v4dwkcv.com/]127.0.0.1
 [/vamaker.com/]127.0.0.1
 [/veryweibo.com/]127.0.0.1
@@ -60001,6 +60016,7 @@
 [/wanfumei.net/]127.0.0.1
 [/wannianli.mobi/]127.0.0.1
 [/wapadv.com/]127.0.0.1
+[/wasee.com/]127.0.0.1
 [/weareqy.com/]127.0.0.1
 [/webdissector.com/]127.0.0.1
 [/webterren.com/]127.0.0.1
@@ -62671,6 +62687,7 @@
 [/xulizui6.com/]127.0.0.1
 [/xwdsp.com/]127.0.0.1
 [/xwuad.com/]127.0.0.1
+[/xxue100.com/]127.0.0.1
 [/xxxfeng.com/]127.0.0.1
 [/xxxmeng.com/]127.0.0.1
 [/xy.com/]127.0.0.1
@@ -65691,6 +65708,7 @@
 [/yflive.net/]127.0.0.1
 [/yuyin.tv/]127.0.0.1
 [/yytiflytek.com/]127.0.0.1
+[/y8jhmm6gn.moe/]127.0.0.1
 [/yalayi.net/]127.0.0.1
 [/yandui.com/]127.0.0.1
 [/yanjunbo.com/]127.0.0.1
@@ -65718,6 +65736,7 @@
 [/youxicool.net/]127.0.0.1
 [/yowbbxi.cyou/]127.0.0.1
 [/yoyi.tv/]127.0.0.1
+[/yrsm.net/]127.0.0.1
 [/ys630.com/]127.0.0.1
 [/ysx8.vip/]127.0.0.1
 [/yt1a.icu/]127.0.0.1
@@ -68528,6 +68547,7 @@
 [/zhy333.com/]127.0.0.1
 [/zhzzx.com/]127.0.0.1
 [/zichenit.com/]127.0.0.1
+[/zkyl.vip/]127.0.0.1
 [/zlongad.com/]127.0.0.1
 [/zonst.com/]127.0.0.1
 [/zoosnet.net/]127.0.0.1

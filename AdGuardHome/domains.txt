@@ -7240,6 +7240,7 @@
 [/9377s.com/]127.0.0.1
 [/94lm.com/]127.0.0.1
 [/94nw.com/]127.0.0.1
+[/955yx.com/]127.0.0.1
 [/9669.com/]127.0.0.1
 [/9800.com/]127.0.0.1
 [/98158.com/]127.0.0.1
@@ -9560,6 +9561,7 @@
 [/apps.mzstatic.com/]127.0.0.1
 [/a5b.cc/]127.0.0.1
 [/a9377j.com/]127.0.0.1
+[/aaxinwen.net/]127.0.0.1
 [/abbyychina.com/]127.0.0.1
 [/abeacon.com/]127.0.0.1
 [/ad-survey.com/]127.0.0.1
@@ -9593,6 +9595,7 @@
 [/adxvip.com/]127.0.0.1
 [/adyun.com/]127.0.0.1
 [/agrantsem.com/]127.0.0.1
+[/ahemi.com/]127.0.0.1
 [/aiclk.com/]127.0.0.1
 [/aili.com/]127.0.0.1
 [/aiqiyi.com/]127.0.0.1
@@ -12527,6 +12530,7 @@
 [/bayescom.com/]127.0.0.1
 [/bayimob.com/]127.0.0.1
 [/bbgstatic.com/]127.0.0.1
+[/bbxinwen.net/]127.0.0.1
 [/bcweibo.com/]127.0.0.1
 [/behe.com/]127.0.0.1
 [/bengbeng.com/]127.0.0.1
@@ -20628,6 +20632,7 @@
 [/datacaciques.com/]127.0.0.1
 [/ddgjjj.com/]127.0.0.1
 [/deeptechchina.com/]127.0.0.1
+[/derucci.com/]127.0.0.1
 [/develenv.com/]127.0.0.1
 [/developer.microsoft.com/]127.0.0.1
 [/dfghaqea.xyz/]127.0.0.1
@@ -26192,6 +26197,7 @@
 [/gxbaidutg.com/]127.0.0.1
 [/gz-data.com/]127.0.0.1
 [/gzcl999.com/]127.0.0.1
+[/gzdjy.org/]127.0.0.1
 [/gzpinda.com/]127.0.0.1
 [/gzspeedtest.com/]127.0.0.1
 [/g0.gstatic.com/]127.0.0.1
@@ -41800,6 +41806,7 @@
 [/microad.jp/]127.0.0.1
 [/microadinc.com/]127.0.0.1
 [/microsoft-yuncdn.com/]127.0.0.1
+[/midongtech.com/]127.0.0.1
 [/miduoke.net/]127.0.0.1
 [/mieyisi.com/]127.0.0.1
 [/mindmanager.cc/]127.0.0.1
@@ -43883,6 +43890,7 @@
 [/o6s.net/]127.0.0.1
 [/o7h.net/]127.0.0.1
 [/oadz.com/]127.0.0.1
+[/oemssl.cn.cdn.cloudflare.net/]127.0.0.1
 [/offerstrack.net/]127.0.0.1
 [/officecdn.microsoft.com/]127.0.0.1
 [/officesoftcn.com/]127.0.0.1
@@ -52870,6 +52878,7 @@
 [/shouyoutan.com/]127.0.0.1
 [/showcoopda.xyz/]127.0.0.1
 [/showcoorcb.xyz/]127.0.0.1
+[/shtutian.com/]127.0.0.1
 [/shuiguo.com/]127.0.0.1
 [/shuihulu.com/]127.0.0.1
 [/shujupie.com/]127.0.0.1
@@ -57193,6 +57202,7 @@
 [/veryweibo.com/]127.0.0.1
 [/videojj.com/]127.0.0.1
 [/videozhishi.com/]127.0.0.1
+[/vipyz-cdn1.com/]127.0.0.1
 [/vjie.com/]127.0.0.1
 [/vpie.net/]127.0.0.1
 [/vpser.net/]127.0.0.1
@@ -60020,7 +60030,6 @@
 [/weareqy.com/]127.0.0.1
 [/webdissector.com/]127.0.0.1
 [/webterren.com/]127.0.0.1
-[/wegowan.com/]127.0.0.1
 [/weibo.co/]127.0.0.1
 [/weibo.com/]127.0.0.1
 [/weibocdn.com/]127.0.0.1
@@ -60064,7 +60073,6 @@
 [/www.thinkpad.com/]127.0.0.1
 [/wxlagame.com/]127.0.0.1
 [/wy213.com/]127.0.0.1
-[/wydfghjjh.live/]127.0.0.1
 [/wyx365.com/]127.0.0.1
 [/wzdy.xyz/]127.0.0.1
 [/wear.googleapis.com/]127.0.0.1
@@ -65717,6 +65725,7 @@
 [/ycxjtd.com/]127.0.0.1
 [/ydmob.com/]127.0.0.1
 [/yellowjm.com/]127.0.0.1
+[/yeyezhenxuan.com/]127.0.0.1
 [/yhzm.cc/]127.0.0.1
 [/yidu.cc/]127.0.0.1
 [/yigao.com/]127.0.0.1

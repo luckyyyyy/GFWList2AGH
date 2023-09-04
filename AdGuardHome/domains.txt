@@ -20628,6 +20628,7 @@
 [/dabaicai.com/]127.0.0.1
 [/dabaoku.com/]127.0.0.1
 [/dakawm.cc/]127.0.0.1
+[/daodoc.com/]127.0.0.1
 [/dashet.com/]127.0.0.1
 [/datacaciques.com/]127.0.0.1
 [/ddgjjj.com/]127.0.0.1
@@ -43908,6 +43909,7 @@
 [/optimix.asia/]127.0.0.1
 [/oss-cn-beijing-aliyuncs.com/]127.0.0.1
 [/oueia.xyz/]127.0.0.1
+[/ourdlbs.com/]127.0.0.1
 [/overturechina.com/]127.0.0.1
 [/ox11.com/]127.0.0.1
 [/ocsp2-lb.apple.com.akadns.net/]127.0.0.1
@@ -60023,6 +60025,7 @@
 [/www.apple.com/]127.0.0.1
 [/walibao.com/]127.0.0.1
 [/wancai.com/]127.0.0.1
+[/wanchuweilai.com/]127.0.0.1
 [/wanfumei.net/]127.0.0.1
 [/wannianli.mobi/]127.0.0.1
 [/wapadv.com/]127.0.0.1
@@ -65736,6 +65739,7 @@
 [/ymapp.com/]127.0.0.1
 [/ymbaidu.com/]127.0.0.1
 [/ynbojie.com/]127.0.0.1
+[/yobolove.com/]127.0.0.1
 [/yongfan99.com/]127.0.0.1
 [/yooli.com/]127.0.0.1
 [/youle55.com/]127.0.0.1

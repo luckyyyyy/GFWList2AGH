@@ -7247,6 +7247,8 @@
 [/9669.com/]127.0.0.1
 [/9800.com/]127.0.0.1
 [/98158.com/]127.0.0.1
+[/985ks.com/]127.0.0.1
+[/985ks.net/]127.0.0.1
 [/9898c.com/]127.0.0.1
 [/99886aaa.com/]127.0.0.1
 [/99888aaa.com/]127.0.0.1
@@ -9606,6 +9608,7 @@
 [/aiqiyi.com/]127.0.0.1
 [/aiqiyivip.com/]127.0.0.1
 [/aiwen.cc/]127.0.0.1
+[/aixiu.net/]127.0.0.1
 [/aj4j.icu/]127.0.0.1
 [/aliapp.org/]127.0.0.1
 [/alicdn.com/]127.0.0.1
@@ -12557,6 +12560,7 @@
 [/bilibilijj.com/]127.0.0.1
 [/bilibilipay.com/]127.0.0.1
 [/bilibilis0.one/]127.0.0.1
+[/bitgo.tech/]127.0.0.1
 [/bitiful.net/]127.0.0.1
 [/bjcathay.com/]127.0.0.1
 [/bjmantis.net/]127.0.0.1
@@ -23908,6 +23912,7 @@
 [/fsdnp.cyou/]127.0.0.1
 [/fucnm.com/]127.0.0.1
 [/fugetech.com/]127.0.0.1
+[/fujfu.com/]127.0.0.1
 [/fuz.cc/]127.0.0.1
 [/fides-pol.apple.com/]127.0.0.1
 [/firebase-settings.crashlytics.com/]127.0.0.1
@@ -34752,8 +34757,10 @@
 [/jintonghua.com/]127.0.0.1
 [/jisucn.com/]127.0.0.1
 [/jiubuhua.com/]127.0.0.1
+[/jjfuzu.com/]127.0.0.1
 [/jjyx.com/]127.0.0.1
 [/jmlk.co/]127.0.0.1
+[/jodeibel.com/]127.0.0.1
 [/jojog.com/]127.0.0.1
 [/jpush.io/]127.0.0.1
 [/jpushoa.com/]127.0.0.1
@@ -36350,6 +36357,7 @@
 [/kdweibo.com/]127.0.0.1
 [/kejet.com/]127.0.0.1
 [/kejet.net/]127.0.0.1
+[/kendingde.com/]127.0.0.1
 [/keydot.net/]127.0.0.1
 [/keyshot.cc/]127.0.0.1
 [/kf3msfm.com/]127.0.0.1
@@ -41854,6 +41862,7 @@
 [/mskjf.com/]127.0.0.1
 [/msm.moe/]127.0.0.1
 [/mt4v4.com/]127.0.0.1
+[/mwtee.com/]127.0.0.1
 [/myalicdn.com/]127.0.0.1
 [/mycleanmymac.com/]127.0.0.1
 [/myhard.com/]127.0.0.1
@@ -48323,6 +48332,7 @@
 [/rdtuijian.com/]127.0.0.1
 [/readdsp.com/]127.0.0.1
 [/reebbwi.cyou/]127.0.0.1
+[/regengbaike.com/]127.0.0.1
 [/reptilesworld.com/]127.0.0.1
 [/reyun.com/]127.0.0.1
 [/rgyun.com/]127.0.0.1
@@ -52932,6 +52942,8 @@
 [/souid.com/]127.0.0.1
 [/speedtest.im/]127.0.0.1
 [/sspsky.com/]127.0.0.1
+[/ssxcycy.com/]127.0.0.1
+[/ssxpxjt.com/]127.0.0.1
 [/stargame.com/]127.0.0.1
 [/starrails.com/]127.0.0.1
 [/steamchina.com/]127.0.0.1
@@ -60083,6 +60095,7 @@
 [/wifidown.com/]127.0.0.1
 [/winasdaq.com/]127.0.0.1
 [/winbaicai.com/]127.0.0.1
+[/wjtzyg.com/]127.0.0.1
 [/wjxcdn.com/]127.0.0.1
 [/wjzpgz.com/]127.0.0.1
 [/wkanx.com/]127.0.0.1
@@ -62691,6 +62704,7 @@
 [/xa9t.com/]127.0.0.1
 [/xanbhx.com/]127.0.0.1
 [/xchmai.com/]127.0.0.1
+[/xcpxssx.com/]127.0.0.1
 [/xcy8.com/]127.0.0.1
 [/xdrig.com/]127.0.0.1
 [/xdwan.com/]127.0.0.1

@@ -12532,6 +12532,7 @@
 [/baigm.com/]127.0.0.1
 [/baihuwang.com/]127.0.0.1
 [/baike.biz/]127.0.0.1
+[/bailepin.com/]127.0.0.1
 [/baizhu.cc/]127.0.0.1
 [/banmamedia.com/]127.0.0.1
 [/banyuetanapp.com/]127.0.0.1
@@ -12543,6 +12544,7 @@
 [/bcweibo.com/]127.0.0.1
 [/behe.com/]127.0.0.1
 [/bengbeng.com/]127.0.0.1
+[/besteduchina.com/]127.0.0.1
 [/betterzip.net/]127.0.0.1
 [/betterzipcn.com/]127.0.0.1
 [/beyondcompare.cc/]127.0.0.1
@@ -12576,6 +12578,7 @@
 [/btyou.com/]127.0.0.1
 [/bugtags.com/]127.0.0.1
 [/buzzads.com/]127.0.0.1
+[/bvfcdn.com/]127.0.0.1
 [/bxsnews.com/]127.0.0.1
 [/bytedapm.com/]127.0.0.1
 [/bytegecko.com/]127.0.0.1
@@ -17891,6 +17894,7 @@
 [/cudaojia.com/]127.0.0.1
 [/cupaaki.cyou/]127.0.0.1
 [/cupfox.app/]127.0.0.1
+[/cupfox.com/]127.0.0.1
 [/cvnad.com/]127.0.0.1
 [/cxzudwk.com/]127.0.0.1
 [/cz.cc/]127.0.0.1
@@ -29930,6 +29934,7 @@
 [/h6295.com/]127.0.0.1
 [/haizhangs.com/]127.0.0.1
 [/hamedal.com/]127.0.0.1
+[/hangdaxinli.com/]127.0.0.1
 [/hanlinzhijia.net/]127.0.0.1
 [/hao222.com/]127.0.0.1
 [/hao61.net/]127.0.0.1
@@ -29940,6 +29945,7 @@
 [/hbbaidu.com/]127.0.0.1
 [/hbn68.com/]127.0.0.1
 [/hbtxbaidu.com/]127.0.0.1
+[/hchbsb.com/]127.0.0.1
 [/hdypw.com/]127.0.0.1
 [/he2d.com/]127.0.0.1
 [/heima8.com/]127.0.0.1
@@ -32234,6 +32240,7 @@
 [/ieeod0.com/]127.0.0.1
 [/igetui.com/]127.0.0.1
 [/igexin.com/]127.0.0.1
+[/igtm-e101.com/]127.0.0.1
 [/ihowguide.com/]127.0.0.1
 [/iiad.com/]127.0.0.1
 [/ikuailian.com/]127.0.0.1
@@ -34754,6 +34761,7 @@
 [/jiazhua.com/]127.0.0.1
 [/jiedaibao.com/]127.0.0.1
 [/jiehunmishu.com/]127.0.0.1
+[/jimetec.com/]127.0.0.1
 [/jintonghua.com/]127.0.0.1
 [/jisucn.com/]127.0.0.1
 [/jiubuhua.com/]127.0.0.1
@@ -36399,6 +36407,7 @@
 [/kzerr.com/]127.0.0.1
 [/kzett.com/]127.0.0.1
 [/kzeww.com/]127.0.0.1
+[/kzyzz.com/]127.0.0.1
 [/km.support.apple.com/]127.0.0.1
 [/kprv4ewxfr9cpxcc7joo6apn8a.xn/]127.0.0.1
 [/lan/]127.0.0.1
@@ -39064,6 +39073,7 @@
 [/lianwangtech.com/]127.0.0.1
 [/limei.com/]127.0.0.1
 [/linezing.com/]127.0.0.1
+[/lingsoul.com/]127.0.0.1
 [/linkvans.com/]127.0.0.1
 [/lishibu.com/]127.0.0.1
 [/liuliguo.com/]127.0.0.1
@@ -52918,6 +52928,7 @@
 [/shuiguo.com/]127.0.0.1
 [/shuihulu.com/]127.0.0.1
 [/shujupie.com/]127.0.0.1
+[/shunchangzhixing.com/]127.0.0.1
 [/shuqistat.com/]127.0.0.1
 [/shuqw.com/]127.0.0.1
 [/si9377.com/]127.0.0.1
@@ -55609,6 +55620,7 @@
 [/taobaocdn.net/]127.0.0.1
 [/taobaozxw.com/]127.0.0.1
 [/taobc.com/]127.0.0.1
+[/taopb.com/]127.0.0.1
 [/tapas.net/]127.0.0.1
 [/tapdb.com/]127.0.0.1
 [/tapdb.net/]127.0.0.1
@@ -57244,8 +57256,10 @@
 [/veryweibo.com/]127.0.0.1
 [/videojj.com/]127.0.0.1
 [/videozhishi.com/]127.0.0.1
+[/vigtm-meeting-tencent.com/]127.0.0.1
 [/vipyz-cdn1.com/]127.0.0.1
 [/vjie.com/]127.0.0.1
+[/volcmcdn3.com/]127.0.0.1
 [/vpie.net/]127.0.0.1
 [/vpser.net/]127.0.0.1
 [/vsnoon.com/]127.0.0.1

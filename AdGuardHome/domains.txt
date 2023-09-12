@@ -12582,6 +12582,7 @@
 [/bugtags.com/]127.0.0.1
 [/buzzads.com/]127.0.0.1
 [/bvfcdn.com/]127.0.0.1
+[/bxcqd.com/]127.0.0.1
 [/bxsnews.com/]127.0.0.1
 [/bytedapm.com/]127.0.0.1
 [/bytegecko.com/]127.0.0.1
@@ -36367,6 +36368,7 @@
 [/kuyinxiuxiu.com/]127.0.0.1
 [/kuyinyun.com/]127.0.0.1
 [/ka5188.com/]127.0.0.1
+[/kaiyuanweilaikeji.com/]127.0.0.1
 [/kamokamogo.com/]127.0.0.1
 [/kanshuapp.com/]127.0.0.1
 [/kdweibo.com/]127.0.0.1
@@ -48358,6 +48360,7 @@
 [/rnhqxh.com/]127.0.0.1
 [/rtbasia.com/]127.0.0.1
 [/ru4.com/]127.0.0.1
+[/ruiyuanobserve.com/]127.0.0.1
 [/regioninfo-pa.googleapis.com/]127.0.0.1
 [/rj.m.taobao.co/]127.0.0.1
 [/ru-northwest-2.myhuaweicloud.com/]127.0.0.1
@@ -65813,6 +65816,7 @@
 [/yobolove.com/]127.0.0.1
 [/yongfan99.com/]127.0.0.1
 [/yonghe2008.com/]127.0.0.1
+[/yongxinji.com/]127.0.0.1
 [/yooli.com/]127.0.0.1
 [/yooojie.monster/]127.0.0.1
 [/youle55.com/]127.0.0.1
@@ -68616,6 +68620,8 @@
 [/zamplus.com/]127.0.0.1
 [/zantainet.com/]127.0.0.1
 [/zbrushcn.com/]127.0.0.1
+[/zctpt.com/]127.0.0.1
+[/zdgzc.com/]127.0.0.1
 [/zdpeanut.com/]127.0.0.1
 [/ze5.com/]127.0.0.1
 [/zeus.dl.playstation.net/]127.0.0.1

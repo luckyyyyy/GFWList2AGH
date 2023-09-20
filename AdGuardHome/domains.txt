@@ -5106,11 +5106,9 @@
 [/51y5.net/]127.0.0.1
 [/51yes.com/]127.0.0.1
 [/5251.net/]127.0.0.1
-[/528791725.com/]127.0.0.1
 [/5293.com/]127.0.0.1
 [/52alipay.com/]127.0.0.1
 [/52xiyou.com/]127.0.0.1
-[/537882736.com/]127.0.0.1
 [/5399.com/]127.0.0.1
 [/53kf.com/]127.0.0.1
 [/54kefu.net/]127.0.0.1
@@ -5518,7 +5516,6 @@
 [/6071.com/]127.0.0.1
 [/609999.xyz/]127.0.0.1
 [/612.com/]127.0.0.1
-[/616182863.com/]127.0.0.1
 [/6318537ccc.com/]127.0.0.1
 [/65688qp.com/]127.0.0.1
 [/6617398ccc.com/]127.0.0.1
@@ -5953,6 +5950,7 @@
 [/7676.com/]127.0.0.1
 [/7759.com/]127.0.0.1
 [/7794.com/]127.0.0.1
+[/77bike.com/]127.0.0.1
 [/7dah8.com/]127.0.0.1
 [/7gongzhu.net/]127.0.0.1
 [/7moor-fs1.com/]127.0.0.1
@@ -12587,6 +12585,7 @@
 [/bm999999.com/]127.0.0.1
 [/bob4885.com/]127.0.0.1
 [/bobo.com/]127.0.0.1
+[/book1993.com/]127.0.0.1
 [/bozhihua.com/]127.0.0.1
 [/bqg99.cc/]127.0.0.1
 [/bqgyy.com/]127.0.0.1
@@ -17874,6 +17873,7 @@
 [/china51766.com/]127.0.0.1
 [/chnci.com/]127.0.0.1
 [/chong-wu.net/]127.0.0.1
+[/chuangke.tv/]127.0.0.1
 [/chunmiaosh.com/]127.0.0.1
 [/chunyuqiufeng.com/]127.0.0.1
 [/ciimg.com/]127.0.0.1
@@ -17884,6 +17884,7 @@
 [/cloud-rtc.com/]127.0.0.1
 [/cm-analysis.com/]127.0.0.1
 [/cmpassport.com/]127.0.0.1
+[/cmviking.com/]127.0.0.1
 [/cnbanbao.com/]127.0.0.1
 [/cncells.net/]127.0.0.1
 [/cnkok.com/]127.0.0.1
@@ -17905,13 +17906,13 @@
 [/cosbuluo.com/]127.0.0.1
 [/cpatrk.net/]127.0.0.1
 [/cpc.cc/]127.0.0.1
-[/cqjjlsy.com/]127.0.0.1
 [/cqqiyi.com/]127.0.0.1
 [/cr-nielsen.com/]127.0.0.1
 [/crossoverchina.com/]127.0.0.1
 [/csaimall.com/]127.0.0.1
 [/csbew.com/]127.0.0.1
 [/csqqym.com/]127.0.0.1
+[/ctiot.info/]127.0.0.1
 [/ctldl.windowsupdate.com/]127.0.0.1
 [/ctobsnssdk.com/]127.0.0.1
 [/ctrip.com/]127.0.0.1
@@ -20678,6 +20679,7 @@
 [/ddgjjj.com/]127.0.0.1
 [/deeptechchina.com/]127.0.0.1
 [/derucci.com/]127.0.0.1
+[/desktop-calculator.com/]127.0.0.1
 [/develenv.com/]127.0.0.1
 [/developer.microsoft.com/]127.0.0.1
 [/dfghaqea.xyz/]127.0.0.1
@@ -26241,6 +26243,7 @@
 [/ggweb.net/]127.0.0.1
 [/gifshow.com/]127.0.0.1
 [/giocdn.com/]127.0.0.1
+[/gitmirror.com/]127.0.0.1
 [/gocye.com/]127.0.0.1
 [/goldapple.name/]127.0.0.1
 [/gotoip55.com/]127.0.0.1
@@ -29981,6 +29984,7 @@
 [/hao353.com/]127.0.0.1
 [/hao61.net/]127.0.0.1
 [/haoduofangs.com/]127.0.0.1
+[/haoma.com/]127.0.0.1
 [/haozhuangji.com/]127.0.0.1
 [/hapying.com/]127.0.0.1
 [/hashnest.com/]127.0.0.1
@@ -34829,12 +34833,14 @@
 [/jpush.io/]127.0.0.1
 [/jpushoa.com/]127.0.0.1
 [/jsinfo.net/]127.0.0.1
+[/jtj-kr.com/]127.0.0.1
 [/ju33.com/]127.0.0.1
 [/juandou.com/]127.0.0.1
 [/juhuisuan.com/]127.0.0.1
 [/julym.com/]127.0.0.1
 [/jusha.com/]127.0.0.1
 [/jushikk.com/]127.0.0.1
+[/juyingele.com/]127.0.0.1
 [/jxal.net/]127.0.0.1
 [/jxdown.com/]127.0.0.1
 [/jy135.com/]127.0.0.1
@@ -39147,6 +39153,7 @@
 [/looyu.com/]127.0.0.1
 [/lotuseed.com/]127.0.0.1
 [/lovfp.com/]127.0.0.1
+[/loyalvalleycapital.com/]127.0.0.1
 [/lrswl.com/]127.0.0.1
 [/lufax.com/]127.0.0.1
 [/luomi.com/]127.0.0.1
@@ -41914,6 +41921,7 @@
 [/midongtech.com/]127.0.0.1
 [/miduoke.net/]127.0.0.1
 [/mieyisi.com/]127.0.0.1
+[/mikeyouxi.com/]127.0.0.1
 [/mindmanager.cc/]127.0.0.1
 [/mindmapper.cc/]127.0.0.1
 [/mindopu.com/]127.0.0.1
@@ -52991,6 +52999,7 @@
 [/seefarger.com/]127.0.0.1
 [/seeingcare.com/]127.0.0.1
 [/sendpioneer.com/]127.0.0.1
+[/sensorsdata.com/]127.0.0.1
 [/setbbts.cyou/]127.0.0.1
 [/sfoys.sbs/]127.0.0.1
 [/sg92.com/]127.0.0.1
@@ -65881,6 +65890,7 @@
 [/yhzm.cc/]127.0.0.1
 [/yidu.cc/]127.0.0.1
 [/yigao.com/]127.0.0.1
+[/yingyongge.com/]127.0.0.1
 [/yiqifa.com/]127.0.0.1
 [/yiqiv.com/]127.0.0.1
 [/yixui.com/]127.0.0.1
@@ -68725,6 +68735,7 @@
 [/zp0737.com/]127.0.0.1
 [/zsjxwj.com/]127.0.0.1
 [/ztcadx.com/]127.0.0.1
+[/zthg168.com/]127.0.0.1
 [/zwzdiy.cc/]127.0.0.1
 [/zxrtb.com/]127.0.0.1
 [/zxw51.com/]127.0.0.1

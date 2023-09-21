@@ -627,6 +627,7 @@
 [/02kdid.com/]127.0.0.1
 [/06362.com/]127.0.0.1
 [/0755rc.com/]127.0.0.1
+[/0o0o0o0o0o0.tokyo/]127.0.0.1
 [/0x5.me/]127.0.0.1
 [/168kaifu.com/]127.0.0.1
 [/17173-inc.com/]127.0.0.1
@@ -5122,6 +5123,7 @@
 [/5hte21mz.com/]127.0.0.1
 [/5ip9.com/]127.0.0.1
 [/5j.com/]127.0.0.1
+[/5jtxt.com/]127.0.0.1
 [/5pub.com/]127.0.0.1
 [/6360.com/]127.0.0.1
 [/61.com/]127.0.0.1
@@ -7246,6 +7248,7 @@
 [/9377ne.com/]127.0.0.1
 [/9377os.com/]127.0.0.1
 [/9377s.com/]127.0.0.1
+[/93ta.com/]127.0.0.1
 [/94lm.com/]127.0.0.1
 [/94nw.com/]127.0.0.1
 [/955yx.com/]127.0.0.1
@@ -7255,6 +7258,7 @@
 [/985ks.com/]127.0.0.1
 [/985ks.net/]127.0.0.1
 [/9898c.com/]127.0.0.1
+[/9951.cc/]127.0.0.1
 [/99886aaa.com/]127.0.0.1
 [/99888aaa.com/]127.0.0.1
 [/99997aaa.com/]127.0.0.1
@@ -9724,6 +9728,8 @@
 [/anquan.org/]127.0.0.1
 [/antfans.com/]127.0.0.1
 [/anysdk.com/]127.0.0.1
+[/aodbw.com/]127.0.0.1
+[/aolvyou.com/]127.0.0.1
 [/aomeng.net/]127.0.0.1
 [/apispace.com/]127.0.0.1
 [/appadhoc.com/]127.0.0.1
@@ -9746,6 +9752,7 @@
 [/aromalong.com/]127.0.0.1
 [/arpg2.com/]127.0.0.1
 [/assets.uxengine.net/]127.0.0.1
+[/asusw.net/]127.0.0.1
 [/at98.com/]127.0.0.1
 [/atomhike.com/]127.0.0.1
 [/atpanel.com/]127.0.0.1
@@ -12556,6 +12563,8 @@
 [/bbxinwen.net/]127.0.0.1
 [/bcweibo.com/]127.0.0.1
 [/behe.com/]127.0.0.1
+[/belarusvisacenter.com/]127.0.0.1
+[/belgiumvisacenterd.com/]127.0.0.1
 [/bengbeng.com/]127.0.0.1
 [/beony.com/]127.0.0.1
 [/besteduchina.com/]127.0.0.1
@@ -17918,6 +17927,7 @@
 [/ctrip.com/]127.0.0.1
 [/ctripcorp.com/]127.0.0.1
 [/ctrmi.com/]127.0.0.1
+[/cubavcenter.com/]127.0.0.1
 [/cudaojia.com/]127.0.0.1
 [/cupaaki.cyou/]127.0.0.1
 [/cupfox.app/]127.0.0.1
@@ -17925,6 +17935,7 @@
 [/cvnad.com/]127.0.0.1
 [/cxzudwk.com/]127.0.0.1
 [/cz.cc/]127.0.0.1
+[/czech-visacenter.com/]127.0.0.1
 [/czos.xyz/]127.0.0.1
 [/certs-lb.apple.com.akadns.net/]127.0.0.1
 [/certs.apple.com/]127.0.0.1
@@ -32291,6 +32302,7 @@
 [/ieeod0.com/]127.0.0.1
 [/ieltsonlinetests.com/]127.0.0.1
 [/ifonts.com/]127.0.0.1
+[/igbill.com/]127.0.0.1
 [/igetui.com/]127.0.0.1
 [/igexin.com/]127.0.0.1
 [/igtm-e101.com/]127.0.0.1
@@ -32316,14 +32328,17 @@
 [/iqiyi.com/]127.0.0.1
 [/iqiyih5.com/]127.0.0.1
 [/iqiyipic.com/]127.0.0.1
+[/irelandvisacenter.com/]127.0.0.1
 [/irs01.com/]127.0.0.1
 [/irs01.net/]127.0.0.1
 [/irs03.com/]127.0.0.1
 [/iruad.com/]127.0.0.1
 [/iscrv.com/]127.0.0.1
+[/italyvisacenterd.com/]127.0.0.1
 [/itopcoupon.com/]127.0.0.1
 [/ixpub.net/]127.0.0.1
 [/izatcloud.net/]127.0.0.1
+[/izuanla.com/]127.0.0.1
 [/imasdk.googleapis.com/]127.0.0.1
 [/init.itunes.apple.com/]127.0.0.1
 [/iosapps.itunes.apple.com/]127.0.0.1
@@ -39124,6 +39139,7 @@
 [/ladymetro.com/]127.0.0.1
 [/laiweishang.com/]127.0.0.1
 [/laixiangzuji.com/]127.0.0.1
+[/lancern.xyz/]127.0.0.1
 [/lansha.tv/]127.0.0.1
 [/laolinow.com/]127.0.0.1
 [/laomaotao.com/]127.0.0.1
@@ -41893,6 +41909,7 @@
 [/mesu.apple.com/]127.0.0.1
 [/music.apple.com/]127.0.0.1
 [/m1book.com/]127.0.0.1
+[/macxz.com/]127.0.0.1
 [/madeqr.com/]127.0.0.1
 [/madserving.com/]127.0.0.1
 [/maihehd.com/]127.0.0.1
@@ -41907,6 +41924,7 @@
 [/mediav.com/]127.0.0.1
 [/meetyoumuseum.com/]127.0.0.1
 [/megajoy.com/]127.0.0.1
+[/meiguoxq.com/]127.0.0.1
 [/meiqia.com/]127.0.0.1
 [/mgc-games.com/]127.0.0.1
 [/mgmovie.net/]127.0.0.1
@@ -43167,13 +43185,16 @@
 [/najnus.com/]127.0.0.1
 [/nasack.net/]127.0.0.1
 [/nasimobi.com/]127.0.0.1
+[/netherlandvcenter.com/]127.0.0.1
 [/networkbench.com/]127.0.0.1
 [/newapi.com/]127.0.0.1
+[/newzealandvscenter.com/]127.0.0.1
 [/nicelabel.cc/]127.0.0.1
 [/niuxgame77.com/]127.0.0.1
 [/niwota.com/]127.0.0.1
 [/nj-qiyiguo.net/]127.0.0.1
 [/nkscdn.com/]127.0.0.1
+[/nnddssaaddeeyy.com/]127.0.0.1
 [/ntalker.com/]127.0.0.1
 [/ntfsformac.cc/]127.0.0.1
 [/nvshuyun.com/]127.0.0.1
@@ -45596,6 +45617,7 @@
 [/pangolin-sdk-toutiao.com/]127.0.0.1
 [/pangolin-sdk-toutiao1.com/]127.0.0.1
 [/passport.lenovo.com/]127.0.0.1
+[/pc528.net/]127.0.0.1
 [/pdfexpert.cc/]127.0.0.1
 [/pds.so/]127.0.0.1
 [/pe8.com/]127.0.0.1
@@ -45609,6 +45631,7 @@
 [/pocidian.com/]127.0.0.1
 [/podaaec.cyou/]127.0.0.1
 [/pop800.com/]127.0.0.1
+[/portugal-visacenter.com/]127.0.0.1
 [/poseidon.dl.playstation.net/]127.0.0.1
 [/powercx.com/]127.0.0.1
 [/pp8.com/]127.0.0.1
@@ -48428,9 +48451,11 @@
 [/rgyun.com/]127.0.0.1
 [/rnhqxh.com/]127.0.0.1
 [/rongdasoft.com/]127.0.0.1
+[/rs-xrys.com/]127.0.0.1
 [/rtbasia.com/]127.0.0.1
 [/ru4.com/]127.0.0.1
 [/ruiyuanobserve.com/]127.0.0.1
+[/runxinzhi.com/]127.0.0.1
 [/regioninfo-pa.googleapis.com/]127.0.0.1
 [/rj.m.taobao.co/]127.0.0.1
 [/ru-northwest-2.myhuaweicloud.com/]127.0.0.1
@@ -53007,6 +53032,7 @@
 [/sgst.prod.dl.playstation.net/]127.0.0.1
 [/shankejingling.com/]127.0.0.1
 [/shejihz.com/]127.0.0.1
+[/shengenv.com/]127.0.0.1
 [/shibeiou.com/]127.0.0.1
 [/shop4taobao.com/]127.0.0.1
 [/shouyoutan.com/]127.0.0.1
@@ -53028,6 +53054,8 @@
 [/sjgnskf.com/]127.0.0.1
 [/sjmwsw.com/]127.0.0.1
 [/sljkj.com/]127.0.0.1
+[/slovakia-visacenter.com/]127.0.0.1
+[/slovenia-visacenter.com/]127.0.0.1
 [/slupdate.dlservice.microsoft.com/]127.0.0.1
 [/smabye.com/]127.0.0.1
 [/smucdn.com/]127.0.0.1
@@ -53052,6 +53080,7 @@
 [/strangetop.com/]127.0.0.1
 [/sundxs.com/]127.0.0.1
 [/support.lenovo.com/]127.0.0.1
+[/switzerland-visacenter.com/]127.0.0.1
 [/synacast.com/]127.0.0.1
 [/szihao.com/]127.0.0.1
 [/szzhaodaxin.com/]127.0.0.1
@@ -56553,6 +56582,9 @@
 [/uflowx.com/]127.0.0.1
 [/ugdtimg.com/]127.0.0.1
 [/ujian.cc/]127.0.0.1
+[/ukplanking.com/]127.0.0.1
+[/ukvisacenterd.com/]127.0.0.1
+[/ulapia.com/]127.0.0.1
 [/ulink.cc/]127.0.0.1
 [/umeng.co/]127.0.0.1
 [/umeng.com/]127.0.0.1
@@ -57353,6 +57385,7 @@
 [/videozhishi.com/]127.0.0.1
 [/vigtm-meeting-tencent.com/]127.0.0.1
 [/vipyz-cdn1.com/]127.0.0.1
+[/visa198.com/]127.0.0.1
 [/vjie.com/]127.0.0.1
 [/volcmcdn3.com/]127.0.0.1
 [/vpie.net/]127.0.0.1
@@ -60207,6 +60240,7 @@
 [/wifi.com/]127.0.0.1
 [/wifi33.com/]127.0.0.1
 [/wifidown.com/]127.0.0.1
+[/wildto.com/]127.0.0.1
 [/winasdaq.com/]127.0.0.1
 [/winbaicai.com/]127.0.0.1
 [/wjtzyg.com/]127.0.0.1
@@ -60224,6 +60258,7 @@
 [/ws.ksmobile.net/]127.0.0.1
 [/wscont1.apps.microsoft.com/]127.0.0.1
 [/wscont2.apps.microsoft.com/]127.0.0.1
+[/wsgph.com/]127.0.0.1
 [/wumii.com/]127.0.0.1
 [/www-hangzhou-aliyun.com/]127.0.0.1
 [/www.amd.com/]127.0.0.1
@@ -62832,6 +62867,7 @@
 [/xiaoxiuapp.com/]127.0.0.1
 [/xiaoyida.com/]127.0.0.1
 [/xiaozuowen.net/]127.0.0.1
+[/xibanyaqz.com/]127.0.0.1
 [/xibao100.com/]127.0.0.1
 [/xihawan8.com/]127.0.0.1
 [/xingchenjia.com/]127.0.0.1
@@ -65924,6 +65960,7 @@
 [/yunjiasu.com/]127.0.0.1
 [/yunqingugm.com/]127.0.0.1
 [/yunshipei.com/]127.0.0.1
+[/ywwpay.com/]127.0.0.1
 [/yximgs.com/]127.0.0.1
 [/yxmspx.com/]127.0.0.1
 [/yxtk.xyz/]127.0.0.1

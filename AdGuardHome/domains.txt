@@ -41941,7 +41941,6 @@
 [/microad-cn.com/]127.0.0.1
 [/microad.jp/]127.0.0.1
 [/microadinc.com/]127.0.0.1
-[/microsoft-yuncdn.com/]127.0.0.1
 [/midongtech.com/]127.0.0.1
 [/miduoke.net/]127.0.0.1
 [/mieyisi.com/]127.0.0.1
@@ -62868,6 +62867,7 @@
 [/xdrig.com/]127.0.0.1
 [/xdrun.com/]127.0.0.1
 [/xdwan.com/]127.0.0.1
+[/xed.plus/]127.0.0.1
 [/xiacai.com/]127.0.0.1
 [/xiald.com/]127.0.0.1
 [/xianba.net/]127.0.0.1

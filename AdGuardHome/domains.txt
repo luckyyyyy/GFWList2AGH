@@ -9768,6 +9768,7 @@
 [/apptrailers.itunes.apple.com/]127.0.0.1
 [/adimages.sina.com.hk/]127.0.0.1
 [/af-south-1.myhuaweicloud.com/]127.0.0.1
+[/alipan.com/]127.0.0.1
 [/alipaymo.com/]127.0.0.1
 [/ap-southeast-1.myhuaweicloud.com/]127.0.0.1
 [/ap-southeast-2.myhuaweicloud.com/]127.0.0.1
@@ -17922,6 +17923,7 @@
 [/csaimall.com/]127.0.0.1
 [/csbew.com/]127.0.0.1
 [/csqqym.com/]127.0.0.1
+[/ctg75.com/]127.0.0.1
 [/ctiot.info/]127.0.0.1
 [/ctldl.windowsupdate.com/]127.0.0.1
 [/ctobsnssdk.com/]127.0.0.1

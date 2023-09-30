@@ -17952,6 +17952,7 @@
 [/corp.googleapis.com/]127.0.0.1
 [/crashlyticsreports-pa.googleapis.com/]127.0.0.1
 [/crl-lb.apple.com.akadns.net/]127.0.0.1
+[/crl.alphassl.com/]127.0.0.1
 [/crl.apple.com/]127.0.0.1
 [/crl2.alphassl.com/]127.0.0.1
 [/csi.gstatic.com/]127.0.0.1
@@ -26291,6 +26292,7 @@
 [/g2.gstatic.com/]127.0.0.1
 [/g3.gstatic.com/]127.0.0.1
 [/geetest.datasink.sensorsdata.cn/]127.0.0.1
+[/global.prd.cdn.globalsign.com/]127.0.0.1
 [/gog.qtlglb.com/]127.0.0.1
 [/googletraveladservices.com/]127.0.0.1
 [/gspe11-2-cn-ssl.ls.apple.com/]127.0.0.1

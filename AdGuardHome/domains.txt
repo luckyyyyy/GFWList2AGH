@@ -5121,6 +5121,7 @@
 [/5etv.com/]127.0.0.1
 [/5hte21mz.com/]127.0.0.1
 [/5ip9.com/]127.0.0.1
+[/5iyuyan.com/]127.0.0.1
 [/5j.com/]127.0.0.1
 [/5jtxt.com/]127.0.0.1
 [/5pub.com/]127.0.0.1
@@ -9617,6 +9618,7 @@
 [/ailuluz.com/]127.0.0.1
 [/aiqiyi.com/]127.0.0.1
 [/aiqiyivip.com/]127.0.0.1
+[/aiterent.com/]127.0.0.1
 [/aitesu.com/]127.0.0.1
 [/aiwen.cc/]127.0.0.1
 [/aixiu.net/]127.0.0.1
@@ -9728,6 +9730,7 @@
 [/anquan.org/]127.0.0.1
 [/antfans.com/]127.0.0.1
 [/anysdk.com/]127.0.0.1
+[/ao.space/]127.0.0.1
 [/aodbw.com/]127.0.0.1
 [/aolvyou.com/]127.0.0.1
 [/aomeng.net/]127.0.0.1
@@ -22213,6 +22216,7 @@
 [/effetspositifs.com/]127.0.0.1
 [/effirst.com/]127.0.0.1
 [/egou.com/]127.0.0.1
+[/egrowads.com/]127.0.0.1
 [/ejfeng.com/]127.0.0.1
 [/ejktj.com/]127.0.0.1
 [/ejunshi.com/]127.0.0.1
@@ -23952,6 +23956,7 @@
 [/fan-yong.com/]127.0.0.1
 [/fancyapi.com/]127.0.0.1
 [/fancydsp.com/]127.0.0.1
+[/fankebang.com/]127.0.0.1
 [/fastapi.net/]127.0.0.1
 [/fd7c.com/]127.0.0.1
 [/feitian001.com/]127.0.0.1
@@ -23964,6 +23969,7 @@
 [/fenqihome.com/]127.0.0.1
 [/ffbon.com/]127.0.0.1
 [/ffhre.com/]127.0.0.1
+[/fkblz.com/]127.0.0.1
 [/fkesfg.com/]127.0.0.1
 [/flamecdn.com/]127.0.0.1
 [/flashwing.net/]127.0.0.1
@@ -30027,6 +30033,7 @@
 [/hly.com/]127.0.0.1
 [/hnagroup.com/]127.0.0.1
 [/hnagroup.net/]127.0.0.1
+[/hngscloud.com/]127.0.0.1
 [/hnlzzq.com/]127.0.0.1
 [/hnol.net/]127.0.0.1
 [/holine.com/]127.0.0.1
@@ -30037,7 +30044,6 @@
 [/hubeikj.com/]127.0.0.1
 [/hubiazhi.com/]127.0.0.1
 [/hubpd.com/]127.0.0.1
-[/huhuhiiuio.com/]127.0.0.1
 [/huiju.cool/]127.0.0.1
 [/huimee.com/]127.0.0.1
 [/huimee.net/]127.0.0.1
@@ -55779,6 +55785,7 @@
 [/tiandi.com/]127.0.0.1
 [/tianmidian.com/]127.0.0.1
 [/tianwenhu.com/]127.0.0.1
+[/tiaoka.com/]127.0.0.1
 [/tiexing.com/]127.0.0.1
 [/tingyun.com/]127.0.0.1
 [/tjj.com/]127.0.0.1
@@ -62933,6 +62940,7 @@
 [/xyh001.com/]127.0.0.1
 [/xyimg.net/]127.0.0.1
 [/xyxy01.com/]127.0.0.1
+[/xzzulin.com/]127.0.0.1
 [/xb.dlservice.microsoft.com/]127.0.0.1
 [/xz.pphimalayanrt.com/]127.0.0.1
 [/yeyou.com/]127.0.0.1

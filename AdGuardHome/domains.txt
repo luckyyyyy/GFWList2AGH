@@ -6428,6 +6428,8 @@
 [/8499683.com/]127.0.0.1
 [/86.cc/]127.0.0.1
 [/86fm.com/]127.0.0.1
+[/88la.la/]127.0.0.1
+[/88lajs2.com/]127.0.0.1
 [/88rpg.net/]127.0.0.1
 [/88ysg.com/]127.0.0.1
 [/897263tqs.com/]127.0.0.1
@@ -12577,6 +12579,7 @@
 [/betterzip.net/]127.0.0.1
 [/betterzipcn.com/]127.0.0.1
 [/beyondcompare.cc/]127.0.0.1
+[/bfw.wiki/]127.0.0.1
 [/bianxianmao.com/]127.0.0.1
 [/bianxianwu.com/]127.0.0.1
 [/biddingos.com/]127.0.0.1
@@ -17917,6 +17920,7 @@
 [/commander1.com/]127.0.0.1
 [/compass-fit.jp/]127.0.0.1
 [/coocaatv.com/]127.0.0.1
+[/coolbcloud.com/]127.0.0.1
 [/coreldrawchina.com/]127.0.0.1
 [/cosbuluo.com/]127.0.0.1
 [/cpatrk.net/]127.0.0.1
@@ -26252,6 +26256,7 @@
 [/galaxyappstore.com/]127.0.0.1
 [/gamecps.com/]127.0.0.1
 [/gameweibo.com/]127.0.0.1
+[/ganjinshengtai.com/]127.0.0.1
 [/gaoguai.com/]127.0.0.1
 [/gctd.xyz/]127.0.0.1
 [/gdtimg.com/]127.0.0.1
@@ -26272,7 +26277,6 @@
 [/giocdn.com/]127.0.0.1
 [/gitmirror.com/]127.0.0.1
 [/gocye.com/]127.0.0.1
-[/goldapple.name/]127.0.0.1
 [/gotoip55.com/]127.0.0.1
 [/gouwubang.com/]127.0.0.1
 [/gowinxp.com/]127.0.0.1
@@ -30051,6 +30055,7 @@
 [/huodonghezi.com/]127.0.0.1
 [/huoying666.com/]127.0.0.1
 [/hurbai.com/]127.0.0.1
+[/huyall.com/]127.0.0.1
 [/hwanjia.com/]127.0.0.1
 [/hysdknb.com/]127.0.0.1
 [/hzbxm.com/]127.0.0.1
@@ -32315,6 +32320,7 @@
 [/iappler.net/]127.0.0.1
 [/ibianma.com/]127.0.0.1
 [/id6.me/]127.0.0.1
+[/idd1.com/]127.0.0.1
 [/ideng.com/]127.0.0.1
 [/idmchina.net/]127.0.0.1
 [/ieeod0.com/]127.0.0.1
@@ -32326,6 +32332,7 @@
 [/igtm-e101.com/]127.0.0.1
 [/ihowguide.com/]127.0.0.1
 [/iiad.com/]127.0.0.1
+[/ijycnd.com/]127.0.0.1
 [/ikuailian.com/]127.0.0.1
 [/il8r.com/]127.0.0.1
 [/ilianyue.com/]127.0.0.1
@@ -36470,6 +36477,7 @@
 [/kejet.com/]127.0.0.1
 [/kejet.net/]127.0.0.1
 [/kendingde.com/]127.0.0.1
+[/key-iot.com/]127.0.0.1
 [/keydot.net/]127.0.0.1
 [/keyshot.cc/]127.0.0.1
 [/kf3msfm.com/]127.0.0.1
@@ -36506,12 +36514,9 @@
 [/kzeaa.com/]127.0.0.1
 [/kzecc.com/]127.0.0.1
 [/kzehh.com/]127.0.0.1
-[/kzeii.com/]127.0.0.1
-[/kzemm.com/]127.0.0.1
 [/kzepp.com/]127.0.0.1
 [/kzerr.com/]127.0.0.1
 [/kzett.com/]127.0.0.1
-[/kzeww.com/]127.0.0.1
 [/kzyzz.com/]127.0.0.1
 [/km.support.apple.com/]127.0.0.1
 [/kprv4ewxfr9cpxcc7joo6apn8a.xn/]127.0.0.1
@@ -60285,6 +60290,7 @@
 [/wjzpgz.com/]127.0.0.1
 [/wkanx.com/]127.0.0.1
 [/wl.dlservice.microsoft.com/]127.0.0.1
+[/wlwx.com/]127.0.0.1
 [/wmsjsteam.com/]127.0.0.1
 [/wmton.com/]127.0.0.1
 [/wndlkj.com/]127.0.0.1
@@ -65998,6 +66004,7 @@
 [/yt1a.icu/]127.0.0.1
 [/yuanchengxiezuo.com/]127.0.0.1
 [/yuelanxinghe.com/]127.0.0.1
+[/yuguo.com/]127.0.0.1
 [/yukhj.com/]127.0.0.1
 [/yumimobi.com/]127.0.0.1
 [/yunjiasu.com/]127.0.0.1

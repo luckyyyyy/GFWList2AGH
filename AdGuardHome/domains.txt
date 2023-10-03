@@ -3629,6 +3629,7 @@
 [/408399.net/]127.0.0.1
 [/4006806555.com/]127.0.0.1
 [/426g.com/]127.0.0.1
+[/477zw.com/]127.0.0.1
 [/49wanwan.com/]127.0.0.1
 [/4paradigm.com/]127.0.0.1
 [/51hr.com/]127.0.0.1
@@ -12593,7 +12594,6 @@
 [/bilibilihelper.com/]127.0.0.1
 [/bilibilijj.com/]127.0.0.1
 [/bilibilipay.com/]127.0.0.1
-[/bilibilis0.one/]127.0.0.1
 [/binfenquzu.com/]127.0.0.1
 [/bitgo.tech/]127.0.0.1
 [/bitiful.net/]127.0.0.1
@@ -26268,6 +26268,7 @@
 [/gentags.net/]127.0.0.1
 [/geotmt.com/]127.0.0.1
 [/gepush.com/]127.0.0.1
+[/getu.fun/]127.0.0.1
 [/getui.com/]127.0.0.1
 [/getui.net/]127.0.0.1
 [/ggmm777.com/]127.0.0.1

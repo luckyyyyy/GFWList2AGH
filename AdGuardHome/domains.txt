@@ -26258,6 +26258,7 @@
 [/gameweibo.com/]127.0.0.1
 [/ganjinshengtai.com/]127.0.0.1
 [/gaoguai.com/]127.0.0.1
+[/gaxgame.com/]127.0.0.1
 [/gctd.xyz/]127.0.0.1
 [/gdtimg.com/]127.0.0.1
 [/gdxxb.com/]127.0.0.1
@@ -26278,6 +26279,7 @@
 [/giocdn.com/]127.0.0.1
 [/gitmirror.com/]127.0.0.1
 [/gocye.com/]127.0.0.1
+[/goforandroid.com/]127.0.0.1
 [/gotoip55.com/]127.0.0.1
 [/gouwubang.com/]127.0.0.1
 [/gowinxp.com/]127.0.0.1
@@ -44062,6 +44064,7 @@
 [/o6s.net/]127.0.0.1
 [/o7h.net/]127.0.0.1
 [/oadz.com/]127.0.0.1
+[/obsbot.com/]127.0.0.1
 [/oemssl.cn.cdn.cloudflare.net/]127.0.0.1
 [/offerstrack.net/]127.0.0.1
 [/officecdn.microsoft.com/]127.0.0.1
@@ -48478,6 +48481,7 @@
 [/readdsp.com/]127.0.0.1
 [/reebbwi.cyou/]127.0.0.1
 [/regengbaike.com/]127.0.0.1
+[/remo-ai.com/]127.0.0.1
 [/reptilesworld.com/]127.0.0.1
 [/rewnat.xyz/]127.0.0.1
 [/reyun.com/]127.0.0.1
@@ -53119,7 +53123,6 @@
 [/switzerland-visacenter.com/]127.0.0.1
 [/syhzml.com/]127.0.0.1
 [/synacast.com/]127.0.0.1
-[/szihao.com/]127.0.0.1
 [/szzhaodaxin.com/]127.0.0.1
 [/safebrowsing.googleapis.com/]127.0.0.1
 [/se-edge.itunes.apple.com/]127.0.0.1
@@ -57434,6 +57437,7 @@
 [/vpser.net/]127.0.0.1
 [/vsnoon.com/]127.0.0.1
 [/vulcan.dl.playstation.net/]127.0.0.1
+[/vuz.me/]127.0.0.1
 [/vvfht.fun/]127.0.0.1
 [/vvpgwg.xyz/]127.0.0.1
 [/vxsnk.com/]127.0.0.1
@@ -65999,6 +66003,8 @@
 [/youxicool.net/]127.0.0.1
 [/yowbbxi.cyou/]127.0.0.1
 [/yoyi.tv/]127.0.0.1
+[/yqhbook.com/]127.0.0.1
+[/yqkbook.la/]127.0.0.1
 [/yrsm.net/]127.0.0.1
 [/ys630.com/]127.0.0.1
 [/ysx8.vip/]127.0.0.1

@@ -1905,6 +1905,7 @@
 [/17usoft.net/]127.0.0.1
 [/10010mx.com/]127.0.0.1
 [/155.com/]127.0.0.1
+[/1000qoi.com/]127.0.0.1
 [/1001tvs.com/]127.0.0.1
 [/100669.com/]127.0.0.1
 [/107788.com/]127.0.0.1
@@ -7271,6 +7272,7 @@
 [/99youmeng.com/]127.0.0.1
 [/99zuowen.com/]127.0.0.1
 [/9a9.net/]127.0.0.1
+[/9huadian.net/]127.0.0.1
 [/9mbv.com/]127.0.0.1
 [/9taobao.com/]127.0.0.1
 [/9wee.com/]127.0.0.1
@@ -17883,6 +17885,7 @@
 [/cangnews.com/]127.0.0.1
 [/caplanking.com/]127.0.0.1
 [/castbd.com/]127.0.0.1
+[/cccm-em120.com/]127.0.0.1
 [/cdnmaster.com/]127.0.0.1
 [/chance-ad.com/]127.0.0.1
 [/chembk.com/]127.0.0.1
@@ -17902,6 +17905,7 @@
 [/cloud-rtc.com/]127.0.0.1
 [/cm-analysis.com/]127.0.0.1
 [/cmpassport.com/]127.0.0.1
+[/cmtopdr.com/]127.0.0.1
 [/cmviking.com/]127.0.0.1
 [/cnbanbao.com/]127.0.0.1
 [/cncells.net/]127.0.0.1
@@ -17931,6 +17935,7 @@
 [/csaimall.com/]127.0.0.1
 [/csbew.com/]127.0.0.1
 [/csqqym.com/]127.0.0.1
+[/csxbank.com/]127.0.0.1
 [/ctg75.com/]127.0.0.1
 [/ctiot.info/]127.0.0.1
 [/ctldl.windowsupdate.com/]127.0.0.1
@@ -23962,6 +23967,7 @@
 [/fancydsp.com/]127.0.0.1
 [/fankebang.com/]127.0.0.1
 [/fastapi.net/]127.0.0.1
+[/fbank.com/]127.0.0.1
 [/fd7c.com/]127.0.0.1
 [/feitian001.com/]127.0.0.1
 [/feiyue.online/]127.0.0.1
@@ -30060,6 +30066,7 @@
 [/hurbai.com/]127.0.0.1
 [/huyall.com/]127.0.0.1
 [/hwanjia.com/]127.0.0.1
+[/hwcpb.com/]127.0.0.1
 [/hysdknb.com/]127.0.0.1
 [/hzbxm.com/]127.0.0.1
 [/hellofontpreview.oss-cn-beijing.aliyuncs.com/]127.0.0.1
@@ -36476,6 +36483,7 @@
 [/kamokamogo.com/]127.0.0.1
 [/kandianzixun.com/]127.0.0.1
 [/kanshuapp.com/]127.0.0.1
+[/kcbebank.com/]127.0.0.1
 [/kdweibo.com/]127.0.0.1
 [/kejet.com/]127.0.0.1
 [/kejet.net/]127.0.0.1
@@ -43218,12 +43226,14 @@
 [/nanguakexue.com/]127.0.0.1
 [/nvsip.com/]127.0.0.1
 [/n4x8.xyz/]127.0.0.1
+[/naisiw.com/]127.0.0.1
 [/najnus.com/]127.0.0.1
 [/nasack.net/]127.0.0.1
 [/nasimobi.com/]127.0.0.1
 [/netherlandvcenter.com/]127.0.0.1
 [/networkbench.com/]127.0.0.1
 [/newapi.com/]127.0.0.1
+[/newupbank.com/]127.0.0.1
 [/newzealandvscenter.com/]127.0.0.1
 [/nicelabel.cc/]127.0.0.1
 [/niuxgame77.com/]127.0.0.1
@@ -48476,6 +48486,7 @@
 [/rrysapp.com/]127.0.0.1
 [/reserve-prime.apple.com/]127.0.0.1
 [/raina.tech/]127.0.0.1
+[/random-online.com/]127.0.0.1
 [/ranfenghd.com/]127.0.0.1
 [/rdtuijian.com/]127.0.0.1
 [/readdsp.com/]127.0.0.1
@@ -53122,6 +53133,7 @@
 [/support.lenovo.com/]127.0.0.1
 [/switzerland-visacenter.com/]127.0.0.1
 [/syhzml.com/]127.0.0.1
+[/sylnyx.com/]127.0.0.1
 [/synacast.com/]127.0.0.1
 [/szzhaodaxin.com/]127.0.0.1
 [/safebrowsing.googleapis.com/]127.0.0.1
@@ -55766,6 +55778,7 @@
 [/tanv.com/]127.0.0.1
 [/tanwanyx.com/]127.0.0.1
 [/tanx.com/]127.0.0.1
+[/taoa.com/]127.0.0.1
 [/taobao-img.com/]127.0.0.1
 [/taobao.com/]127.0.0.1
 [/taobao.cz/]127.0.0.1
@@ -60313,6 +60326,7 @@
 [/www.microsoft.com/]127.0.0.1
 [/www.thinkpad.com/]127.0.0.1
 [/wxlagame.com/]127.0.0.1
+[/wxsbank.com/]127.0.0.1
 [/wy213.com/]127.0.0.1
 [/wyx365.com/]127.0.0.1
 [/wzdy.xyz/]127.0.0.1
@@ -62898,6 +62912,7 @@
 [/xiaoapp.io/]127.0.0.1
 [/xiaoma.io/]127.0.0.1
 [/xp.apple.com/]127.0.0.1
+[/xa-bank.com/]127.0.0.1
 [/xa9t.com/]127.0.0.1
 [/xanbhx.com/]127.0.0.1
 [/xchmai.com/]127.0.0.1
@@ -65979,6 +65994,8 @@
 [/yhzm.cc/]127.0.0.1
 [/yidu.cc/]127.0.0.1
 [/yigao.com/]127.0.0.1
+[/yillionbank.com/]127.0.0.1
+[/yingbio.com/]127.0.0.1
 [/yingyongge.com/]127.0.0.1
 [/yiqifa.com/]127.0.0.1
 [/yiqiv.com/]127.0.0.1
@@ -65986,6 +66003,7 @@
 [/yladm.com/]127.0.0.1
 [/ymapp.com/]127.0.0.1
 [/ymbaidu.com/]127.0.0.1
+[/ymbank.com/]127.0.0.1
 [/ynbojie.com/]127.0.0.1
 [/yobolove.com/]127.0.0.1
 [/yongfan99.com/]127.0.0.1

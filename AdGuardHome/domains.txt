@@ -9756,6 +9756,7 @@
 [/applex.net/]127.0.0.1
 [/aqiyi.com/]127.0.0.1
 [/ares.dl.playstation.net/]127.0.0.1
+[/ariels.xyz/]127.0.0.1
 [/arkn81.com/]127.0.0.1
 [/aromalong.com/]127.0.0.1
 [/arpg2.com/]127.0.0.1
@@ -12607,6 +12608,7 @@
 [/bob4885.com/]127.0.0.1
 [/bobo.com/]127.0.0.1
 [/book1993.com/]127.0.0.1
+[/bookfeel.com/]127.0.0.1
 [/bozhihua.com/]127.0.0.1
 [/bqg99.cc/]127.0.0.1
 [/bqgyy.com/]127.0.0.1
@@ -17970,8 +17972,6 @@
 [/crl.apple.com/]127.0.0.1
 [/crl2.alphassl.com/]127.0.0.1
 [/csi.gstatic.com/]127.0.0.1
-[/cdn.angruo.com/]127.0.0.1
-[/cdp.cloud.unity3d.com/]127.0.0.1
 [/click.qianqian.com/]127.0.0.1
 [/cn-east-2.myhuaweicloud.com/]127.0.0.1
 [/cn-east-3.myhuaweicloud.com/]127.0.0.1
@@ -17988,6 +17988,8 @@
 [/cn-south-4.myhuaweicloud.com/]127.0.0.1
 [/cn-southwest-2.myhuaweicloud.com/]127.0.0.1
 [/crashlytics.com/]127.0.0.1
+[/cdn.angruo.com/]127.0.0.1
+[/cdp.cloud.unity3d.com/]127.0.0.1
 [/dl.google.com/]127.0.0.1
 [/download.jetbrains.com/]127.0.0.1
 [/dartsearch-cn.net/]127.0.0.1
@@ -23998,6 +24000,7 @@
 [/fujfu.com/]127.0.0.1
 [/furrybar.com/]127.0.0.1
 [/fuz.cc/]127.0.0.1
+[/fzahw.com/]127.0.0.1
 [/fides-pol.apple.com/]127.0.0.1
 [/firebase-settings.crashlytics.com/]127.0.0.1
 [/fontfiles.googleapis.com/]127.0.0.1
@@ -26305,6 +26308,7 @@
 [/gxbaidutg.com/]127.0.0.1
 [/gz-data.com/]127.0.0.1
 [/gzcl999.com/]127.0.0.1
+[/gzcxhd.com/]127.0.0.1
 [/gzdjy.org/]127.0.0.1
 [/gzpinda.com/]127.0.0.1
 [/gzspeedtest.com/]127.0.0.1
@@ -30062,6 +30066,7 @@
 [/huiju.cool/]127.0.0.1
 [/huimee.com/]127.0.0.1
 [/huimee.net/]127.0.0.1
+[/huishoujiuwu.com/]127.0.0.1
 [/huluxia.com/]127.0.0.1
 [/huodonghezi.com/]127.0.0.1
 [/huoying666.com/]127.0.0.1
@@ -32350,6 +32355,7 @@
 [/ilianyue.com/]127.0.0.1
 [/ilkwork.com/]127.0.0.1
 [/iloveyouxi.com/]127.0.0.1
+[/ilz.me/]127.0.0.1
 [/imageter.com/]127.0.0.1
 [/imazingchina.com/]127.0.0.1
 [/imindmap.cc/]127.0.0.1
@@ -41973,6 +41979,7 @@
 [/megajoy.com/]127.0.0.1
 [/meiguoxq.com/]127.0.0.1
 [/meiqia.com/]127.0.0.1
+[/mengte.online/]127.0.0.1
 [/metax-tech.com/]127.0.0.1
 [/mgc-games.com/]127.0.0.1
 [/mgmovie.net/]127.0.0.1
@@ -47454,6 +47461,7 @@
 [/qwxcs.com/]127.0.0.1
 [/qq.wang/]127.0.0.1
 [/qq.xn/]127.0.0.1
+[/quumibao.com/]127.0.0.1
 [/recaptcha.net/]127.0.0.1
 [/redirector.bdn.dev/]127.0.0.1
 [/redirector.c.chat.google.com/]127.0.0.1
@@ -48505,6 +48513,7 @@
 [/rs-xrys.com/]127.0.0.1
 [/rtbasia.com/]127.0.0.1
 [/ru4.com/]127.0.0.1
+[/ruijiehuanbao.com/]127.0.0.1
 [/ruiyuanobserve.com/]127.0.0.1
 [/runnuokeji.com/]127.0.0.1
 [/runxinzhi.com/]127.0.0.1
@@ -53065,7 +53074,9 @@
 [/saf158.com/]127.0.0.1
 [/sagetrc.com/]127.0.0.1
 [/samsungcloudcn.com/]127.0.0.1
+[/san-petersburgo.net/]127.0.0.1
 [/saxydc.com/]127.0.0.1
+[/sayll.com/]127.0.0.1
 [/scbaidu.com/]127.0.0.1
 [/scc.ssacdn.com/]127.0.0.1
 [/scdng.com/]127.0.0.1
@@ -53090,8 +53101,6 @@
 [/shibeiou.com/]127.0.0.1
 [/shop4taobao.com/]127.0.0.1
 [/shouyoutan.com/]127.0.0.1
-[/showcoopda.xyz/]127.0.0.1
-[/showcoorcb.xyz/]127.0.0.1
 [/shtutian.com/]127.0.0.1
 [/shuiguo.com/]127.0.0.1
 [/shuihulu.com/]127.0.0.1
@@ -55802,6 +55811,8 @@
 [/tarqk5.com/]127.0.0.1
 [/taurentech.net/]127.0.0.1
 [/tddmp.com/]127.0.0.1
+[/teallang.com/]127.0.0.1
+[/tealui.com/]127.0.0.1
 [/tebaidu.com/]127.0.0.1
 [/techflowpost.com/]127.0.0.1
 [/tencentmind.com/]127.0.0.1
@@ -62958,6 +62969,7 @@
 [/xshellcn.com/]127.0.0.1
 [/xsu.cc/]127.0.0.1
 [/xt918.com/]127.0.0.1
+[/xuld.net/]127.0.0.1
 [/xulizui6.com/]127.0.0.1
 [/xunsns.com/]127.0.0.1
 [/xwdsp.com/]127.0.0.1
@@ -68827,6 +68839,7 @@
 [/zdgzc.com/]127.0.0.1
 [/zdpeanut.com/]127.0.0.1
 [/ze5.com/]127.0.0.1
+[/zeldacn.com/]127.0.0.1
 [/zeus.dl.playstation.net/]127.0.0.1
 [/zhanmang.com/]127.0.0.1
 [/zhantai.com/]127.0.0.1

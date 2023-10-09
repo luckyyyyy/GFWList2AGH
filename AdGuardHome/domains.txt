@@ -3342,6 +3342,7 @@
 [/3dwwwgame.com/]127.0.0.1
 [/3gmimo.com/]127.0.0.1
 [/3gu.com/]127.0.0.1
+[/3kyi.com/]127.0.0.1
 [/360in.com/]127.0.0.1
 [/40407.com/]127.0.0.1
 [/4399.com/]127.0.0.1
@@ -5104,6 +5105,7 @@
 [/51la.net/]127.0.0.1
 [/51meeting.com/]127.0.0.1
 [/51xinhu.com/]127.0.0.1
+[/51xuanmu.com/]127.0.0.1
 [/51xumei.com/]127.0.0.1
 [/51y5.net/]127.0.0.1
 [/51yes.com/]127.0.0.1
@@ -12580,6 +12582,7 @@
 [/belgiumvisacenterd.com/]127.0.0.1
 [/bengbeng.com/]127.0.0.1
 [/beony.com/]127.0.0.1
+[/bestadprof.com/]127.0.0.1
 [/besteduchina.com/]127.0.0.1
 [/betterzip.net/]127.0.0.1
 [/betterzipcn.com/]127.0.0.1
@@ -17898,6 +17901,7 @@
 [/chinacid.org/]127.0.0.1
 [/chnci.com/]127.0.0.1
 [/chong-wu.net/]127.0.0.1
+[/choqi.com/]127.0.0.1
 [/chuangke.tv/]127.0.0.1
 [/chunmiaosh.com/]127.0.0.1
 [/chunyuqiufeng.com/]127.0.0.1
@@ -20727,6 +20731,7 @@
 [/dipan.com/]127.0.0.1
 [/divepai.com/]127.0.0.1
 [/dl.delivery.mp.microsoft.com/]127.0.0.1
+[/dlrtz.com/]127.0.0.1
 [/dmrtb.com/]127.0.0.1
 [/dnpz123.com/]127.0.0.1
 [/docs.microsoft.com/]127.0.0.1
@@ -20742,6 +20747,7 @@
 [/dreamine.com/]127.0.0.1
 [/drfvtgbyk.xyz/]127.0.0.1
 [/drivers.amd.com/]127.0.0.1
+[/dsmxp.com/]127.0.0.1
 [/dsp.com/]127.0.0.1
 [/dsxdn.com/]127.0.0.1
 [/duapp.com/]127.0.0.1
@@ -30021,6 +30027,7 @@
 [/hudong100.org/]127.0.0.1
 [/haomaishe.com/]127.0.0.1
 [/h6295.com/]127.0.0.1
+[/ha1916.com/]127.0.0.1
 [/haigehome.com/]127.0.0.1
 [/haizhangs.com/]127.0.0.1
 [/hamedal.com/]127.0.0.1
@@ -30059,6 +30066,7 @@
 [/howxm.com/]127.0.0.1
 [/hoyoverse.com/]127.0.0.1
 [/hpcwwd.com/]127.0.0.1
+[/htmlai.com/]127.0.0.1
 [/huancaicp.com/]127.0.0.1
 [/hubeikj.com/]127.0.0.1
 [/hubiazhi.com/]127.0.0.1
@@ -34874,6 +34882,7 @@
 [/jdhmediajd.com/]127.0.0.1
 [/jectronic.com/]127.0.0.1
 [/jesgoo.com/]127.0.0.1
+[/jhzpgw.com/]127.0.0.1
 [/jiankongbao.com/]127.0.0.1
 [/jiaohezhen.com/]127.0.0.1
 [/jiasou.cc/]127.0.0.1
@@ -48499,6 +48508,8 @@
 [/raina.tech/]127.0.0.1
 [/random-online.com/]127.0.0.1
 [/ranfenghd.com/]127.0.0.1
+[/rbbko.com/]127.0.0.1
+[/rbbrao.com/]127.0.0.1
 [/rdtuijian.com/]127.0.0.1
 [/readdsp.com/]127.0.0.1
 [/reebbwi.cyou/]127.0.0.1
@@ -53080,6 +53091,7 @@
 [/scbaidu.com/]127.0.0.1
 [/scc.ssacdn.com/]127.0.0.1
 [/scdng.com/]127.0.0.1
+[/scriptcat.org/]127.0.0.1
 [/sctfia.com/]127.0.0.1
 [/sdkclick.com/]127.0.0.1
 [/sdqoi2d.com/]127.0.0.1
@@ -53131,7 +53143,8 @@
 [/soperson.com/]127.0.0.1
 [/souid.com/]127.0.0.1
 [/speedtest.im/]127.0.0.1
-[/sspsky.com/]127.0.0.1
+[/spush.com/]127.0.0.1
+[/srusoq.com/]127.0.0.1
 [/ssxcycy.com/]127.0.0.1
 [/ssxpxjt.com/]127.0.0.1
 [/stargame.com/]127.0.0.1
@@ -60322,12 +60335,14 @@
 [/wjzpgz.com/]127.0.0.1
 [/wkanx.com/]127.0.0.1
 [/wl.dlservice.microsoft.com/]127.0.0.1
+[/wls911.com/]127.0.0.1
 [/wlwx.com/]127.0.0.1
 [/wmsjsteam.com/]127.0.0.1
 [/wmton.com/]127.0.0.1
 [/wndlkj.com/]127.0.0.1
 [/wo685.com/]127.0.0.1
 [/wodemeitu.com/]127.0.0.1
+[/wolongzywcdn3.com/]127.0.0.1
 [/wpcnzz.com/]127.0.0.1
 [/wrating.com/]127.0.0.1
 [/ws.ksmobile.net/]127.0.0.1
@@ -62962,6 +62977,7 @@
 [/xitongku.cc/]127.0.0.1
 [/xitongqingli.com/]127.0.0.1
 [/xiyouence.com/]127.0.0.1
+[/xmeye.net/]127.0.0.1
 [/xmindchina.net/]127.0.0.1
 [/xmshqh.com/]127.0.0.1
 [/xox9325.com/]127.0.0.1

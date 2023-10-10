@@ -7247,6 +7247,7 @@
 [/91znyx.com/]127.0.0.1
 [/90370.com/]127.0.0.1
 [/915.com/]127.0.0.1
+[/91changxie.com/]127.0.0.1
 [/91wan.com/]127.0.0.1
 [/92aliyun.com/]127.0.0.1
 [/9377.com/]127.0.0.1
@@ -9588,6 +9589,7 @@
 [/aaxinwen.net/]127.0.0.1
 [/abbyychina.com/]127.0.0.1
 [/abeacon.com/]127.0.0.1
+[/abesmoke.com/]127.0.0.1
 [/ad-survey.com/]127.0.0.1
 [/ad7.com/]127.0.0.1
 [/adbxb.com/]127.0.0.1
@@ -9767,6 +9769,7 @@
 [/assets.uxengine.net/]127.0.0.1
 [/asusw.net/]127.0.0.1
 [/at98.com/]127.0.0.1
+[/atomgit.com/]127.0.0.1
 [/atomhike.com/]127.0.0.1
 [/atpanel.com/]127.0.0.1
 [/autobaidu.com/]127.0.0.1
@@ -17899,6 +17902,8 @@
 [/chengwei.com/]127.0.0.1
 [/cherimm.com/]127.0.0.1
 [/chinacid.org/]127.0.0.1
+[/chinamishu.net/]127.0.0.1
+[/chiphometek.com/]127.0.0.1
 [/chnci.com/]127.0.0.1
 [/chong-wu.net/]127.0.0.1
 [/choqi.com/]127.0.0.1
@@ -17945,6 +17950,8 @@
 [/csqqym.com/]127.0.0.1
 [/csxbank.com/]127.0.0.1
 [/ctg75.com/]127.0.0.1
+[/ctgapp.com/]127.0.0.1
+[/ctghro.com/]127.0.0.1
 [/ctiot.info/]127.0.0.1
 [/ctldl.windowsupdate.com/]127.0.0.1
 [/ctobsnssdk.com/]127.0.0.1
@@ -43260,6 +43267,7 @@
 [/nj-qiyiguo.net/]127.0.0.1
 [/nkscdn.com/]127.0.0.1
 [/nnddssaaddeeyy.com/]127.0.0.1
+[/novelfmstatic.com/]127.0.0.1
 [/ntalker.com/]127.0.0.1
 [/ntfsformac.cc/]127.0.0.1
 [/nvshuyun.com/]127.0.0.1
@@ -53112,6 +53120,7 @@
 [/shianxin.net/]127.0.0.1
 [/shibeiou.com/]127.0.0.1
 [/shop4taobao.com/]127.0.0.1
+[/shouyihuo.com/]127.0.0.1
 [/shouyoutan.com/]127.0.0.1
 [/shtutian.com/]127.0.0.1
 [/shuiguo.com/]127.0.0.1
@@ -55798,6 +55807,7 @@
 [/tyqian.com/]127.0.0.1
 [/tacool.com/]127.0.0.1
 [/tagcommander.com/]127.0.0.1
+[/taichi-maker.com/]127.0.0.1
 [/talkingdata.com/]127.0.0.1
 [/talkingdata.net/]127.0.0.1
 [/tanv.com/]127.0.0.1
@@ -60314,6 +60324,7 @@
 [/weiboyi.com/]127.0.0.1
 [/weidianyuedu.com/]127.0.0.1
 [/weio6nkoe.cyou/]127.0.0.1
+[/weiqundaquan.com/]127.0.0.1
 [/weiyi.link/]127.0.0.1
 [/weizhipin.com/]127.0.0.1
 [/wemdsm.com/]127.0.0.1
@@ -62968,6 +62979,7 @@
 [/xingjuhe.com/]127.0.0.1
 [/xinhuan.mobi/]127.0.0.1
 [/xiniuz.com/]127.0.0.1
+[/xinjidian.com/]127.0.0.1
 [/xinray.net/]127.0.0.1
 [/xinyuwj.com/]127.0.0.1
 [/xiongdong.com/]127.0.0.1
@@ -66017,6 +66029,7 @@
 [/yandui.com/]127.0.0.1
 [/yanjunbo.com/]127.0.0.1
 [/yaoyl.com/]127.0.0.1
+[/ybask.com/]127.0.0.1
 [/yccdn.com/]127.0.0.1
 [/ycxjtd.com/]127.0.0.1
 [/ydmob.com/]127.0.0.1

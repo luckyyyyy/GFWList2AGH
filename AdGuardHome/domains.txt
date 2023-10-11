@@ -1917,6 +1917,7 @@
 [/123juzi.net/]127.0.0.1
 [/1377.com/]127.0.0.1
 [/15tianqi.com/]127.0.0.1
+[/163hot.net/]127.0.0.1
 [/163ren.com/]127.0.0.1
 [/180disk.com/]127.0.0.1
 [/186078.com/]127.0.0.1
@@ -9627,6 +9628,7 @@
 [/ailuluz.com/]127.0.0.1
 [/aiqiyi.com/]127.0.0.1
 [/aiqiyivip.com/]127.0.0.1
+[/aisenseinc.com/]127.0.0.1
 [/aiterent.com/]127.0.0.1
 [/aitesu.com/]127.0.0.1
 [/aiwen.cc/]127.0.0.1
@@ -12621,6 +12623,7 @@
 [/bryonypie.com/]127.0.0.1
 [/bsrkt.com/]127.0.0.1
 [/btyou.com/]127.0.0.1
+[/buding3.com/]127.0.0.1
 [/bugtags.com/]127.0.0.1
 [/buzzads.com/]127.0.0.1
 [/bvfcdn.com/]127.0.0.1
@@ -26300,6 +26303,7 @@
 [/ggsafe.com/]127.0.0.1
 [/ggweb.net/]127.0.0.1
 [/gifshow.com/]127.0.0.1
+[/gio.ren/]127.0.0.1
 [/giocdn.com/]127.0.0.1
 [/gitmirror.com/]127.0.0.1
 [/gocye.com/]127.0.0.1
@@ -26312,6 +26316,7 @@
 [/gs.ww.np.dl.playstation.net/]127.0.0.1
 [/gs2.ww.prod.dl.playstation.net/]127.0.0.1
 [/gs307.com/]127.0.0.1
+[/gsfzb.com/]127.0.0.1
 [/gst.prod.dl.playstation.net/]127.0.0.1
 [/gtags.net/]127.0.0.1
 [/gtlpaj.com/]127.0.0.1
@@ -30048,7 +30053,9 @@
 [/haoma.com/]127.0.0.1
 [/haozhuangji.com/]127.0.0.1
 [/hapying.com/]127.0.0.1
+[/harvesthanger.com/]127.0.0.1
 [/hashnest.com/]127.0.0.1
+[/hbaas.com/]127.0.0.1
 [/hbbaidu.com/]127.0.0.1
 [/hbn68.com/]127.0.0.1
 [/hbtxbaidu.com/]127.0.0.1
@@ -32393,7 +32400,6 @@
 [/irs01.com/]127.0.0.1
 [/irs01.net/]127.0.0.1
 [/irs03.com/]127.0.0.1
-[/iruad.com/]127.0.0.1
 [/iscrv.com/]127.0.0.1
 [/italyvisacenterd.com/]127.0.0.1
 [/itopcoupon.com/]127.0.0.1
@@ -42041,6 +42047,7 @@
 [/mycleanmymac.com/]127.0.0.1
 [/myhard.com/]127.0.0.1
 [/mylikechat.com/]127.0.0.1
+[/mylsfw.com/]127.0.0.1
 [/myrtb.net/]127.0.0.1
 [/mytanwan.com/]127.0.0.1
 [/manga.bilibili.com/]127.0.0.1
@@ -44121,6 +44128,7 @@
 [/oslaw.net/]127.0.0.1
 [/oss-cn-beijing-aliyuncs.com/]127.0.0.1
 [/oueia.xyz/]127.0.0.1
+[/ourai.ws/]127.0.0.1
 [/ourdlbs.com/]127.0.0.1
 [/overturechina.com/]127.0.0.1
 [/ox11.com/]127.0.0.1
@@ -53135,6 +53143,7 @@
 [/simengadx.com/]127.0.0.1
 [/sinawap.com/]127.0.0.1
 [/singmaan.com/]127.0.0.1
+[/sisensing.com/]127.0.0.1
 [/sjgnskf.com/]127.0.0.1
 [/sjmwsw.com/]127.0.0.1
 [/sljkj.com/]127.0.0.1
@@ -53142,6 +53151,7 @@
 [/slovenia-visacenter.com/]127.0.0.1
 [/slupdate.dlservice.microsoft.com/]127.0.0.1
 [/smabye.com/]127.0.0.1
+[/smlaw8.com/]127.0.0.1
 [/smucdn.com/]127.0.0.1
 [/snnd.co/]127.0.0.1
 [/snssdk.com/]127.0.0.1
@@ -53151,6 +53161,7 @@
 [/sodhef.com/]127.0.0.1
 [/soperson.com/]127.0.0.1
 [/souid.com/]127.0.0.1
+[/sound-force.com/]127.0.0.1
 [/speedtest.im/]127.0.0.1
 [/spush.com/]127.0.0.1
 [/srusoq.com/]127.0.0.1
@@ -55841,6 +55852,7 @@
 [/tencentmind.com/]127.0.0.1
 [/tenddata.com/]127.0.0.1
 [/thefatherofsalmon.com/]127.0.0.1
+[/thiscute.world/]127.0.0.1
 [/tiandi.com/]127.0.0.1
 [/tianmidian.com/]127.0.0.1
 [/tianwenhu.com/]127.0.0.1
@@ -56691,6 +56703,7 @@
 [/unionli.com/]127.0.0.1
 [/unionsy.com/]127.0.0.1
 [/uodoo.com/]127.0.0.1
+[/uodzhx.com/]127.0.0.1
 [/upashance.com/]127.0.0.1
 [/ups.ksmobile.net/]127.0.0.1
 [/uri6.com/]127.0.0.1
@@ -66025,6 +66038,7 @@
 [/yuyin.tv/]127.0.0.1
 [/yytiflytek.com/]127.0.0.1
 [/y8jhmm6gn.moe/]127.0.0.1
+[/yakshacc.cool/]127.0.0.1
 [/yalayi.net/]127.0.0.1
 [/yandui.com/]127.0.0.1
 [/yanjunbo.com/]127.0.0.1
@@ -66040,6 +66054,7 @@
 [/yigao.com/]127.0.0.1
 [/yillionbank.com/]127.0.0.1
 [/yingbio.com/]127.0.0.1
+[/yinghuaonline.com/]127.0.0.1
 [/yingyongge.com/]127.0.0.1
 [/yiqifa.com/]127.0.0.1
 [/yiqiv.com/]127.0.0.1
@@ -68864,6 +68879,7 @@
 [/zantainet.com/]127.0.0.1
 [/zbrushcn.com/]127.0.0.1
 [/zbstatic1.com/]127.0.0.1
+[/zbt.com/]127.0.0.1
 [/zctpt.com/]127.0.0.1
 [/zdgzc.com/]127.0.0.1
 [/zdpeanut.com/]127.0.0.1
@@ -68874,8 +68890,9 @@
 [/zhantai.com/]127.0.0.1
 [/zhanzhang.net/]127.0.0.1
 [/zhaoapple.com/]127.0.0.1
+[/zhaowenyu.com/]127.0.0.1
 [/zhaoyuanedu.com/]127.0.0.1
-[/zhenghemold.com/]127.0.0.1
+[/zhenguangchem.com/]127.0.0.1
 [/zhenxingkuangchanpin.com/]127.0.0.1
 [/zhilingshidai.com/]127.0.0.1
 [/zhiziyun.com/]127.0.0.1
@@ -68904,4 +68921,5 @@
 [/zxw51.com/]127.0.0.1
 [/zyiis.net/]127.0.0.1
 [/zystarlink.com/]127.0.0.1
+[/zzded.com/]127.0.0.1
 [/zmzfile.com/]127.0.0.1

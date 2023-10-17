@@ -7275,6 +7275,8 @@
 [/99youmeng.com/]127.0.0.1
 [/99zuowen.com/]127.0.0.1
 [/9a9.net/]127.0.0.1
+[/9fzt.net/]127.0.0.1
+[/9gt.net/]127.0.0.1
 [/9huadian.net/]127.0.0.1
 [/9mbv.com/]127.0.0.1
 [/9taobao.com/]127.0.0.1
@@ -12628,6 +12630,7 @@
 [/bvfcdn.com/]127.0.0.1
 [/bxcqd.com/]127.0.0.1
 [/bxsnews.com/]127.0.0.1
+[/byteactivity12.com/]127.0.0.1
 [/bytedapm.com/]127.0.0.1
 [/bytegecko.com/]127.0.0.1
 [/bytenew.com/]127.0.0.1
@@ -17903,6 +17906,8 @@
 [/chengadx.com/]127.0.0.1
 [/chengwei.com/]127.0.0.1
 [/cherimm.com/]127.0.0.1
+[/china-cpu.co/]127.0.0.1
+[/china-cpu.com/]127.0.0.1
 [/chinacid.org/]127.0.0.1
 [/chinamishu.net/]127.0.0.1
 [/chiphometek.com/]127.0.0.1
@@ -22256,7 +22261,6 @@
 [/emqx.net/]127.0.0.1
 [/enappstore.com/]127.0.0.1
 [/eqbyc.com/]127.0.0.1
-[/eqghuu.com/]127.0.0.1
 [/eqiyingxiao.com/]127.0.0.1
 [/esqc.xyz/]127.0.0.1
 [/etrump.net/]127.0.0.1
@@ -26327,7 +26331,9 @@
 [/gtlpaj.com/]127.0.0.1
 [/guangdongtaiji.com/]127.0.0.1
 [/guanjiabo.net/]127.0.0.1
+[/guguyuyin.com/]127.0.0.1
 [/guitarpro.cc/]127.0.0.1
+[/guwendao.net/]127.0.0.1
 [/gxbaidutg.com/]127.0.0.1
 [/gz-data.com/]127.0.0.1
 [/gzcl999.com/]127.0.0.1
@@ -41997,7 +42003,6 @@
 [/macxz.com/]127.0.0.1
 [/madeqr.com/]127.0.0.1
 [/madserving.com/]127.0.0.1
-[/maihehd.com/]127.0.0.1
 [/mairuan.com/]127.0.0.1
 [/makeding.com/]127.0.0.1
 [/mangomob.net/]127.0.0.1
@@ -43280,6 +43285,7 @@
 [/newupbank.com/]127.0.0.1
 [/newzealandvscenter.com/]127.0.0.1
 [/nicelabel.cc/]127.0.0.1
+[/nihil.cc/]127.0.0.1
 [/niuxgame77.com/]127.0.0.1
 [/niwota.com/]127.0.0.1
 [/nj-qiyiguo.net/]127.0.0.1
@@ -44124,7 +44130,6 @@
 [/offerstrack.net/]127.0.0.1
 [/officecdn.microsoft.com/]127.0.0.1
 [/officesoftcn.com/]127.0.0.1
-[/ohoyao.com/]127.0.0.1
 [/ok365.com/]127.0.0.1
 [/okkkk.com/]127.0.0.1
 [/olcdn.com/]127.0.0.1
@@ -53189,6 +53194,7 @@
 [/storeedgefd.dsx.mp.microsoft.com/]127.0.0.1
 [/strangetop.com/]127.0.0.1
 [/sundxs.com/]127.0.0.1
+[/supersharket.com/]127.0.0.1
 [/support.lenovo.com/]127.0.0.1
 [/switzerland-visacenter.com/]127.0.0.1
 [/sxh3k.app/]127.0.0.1
@@ -55863,6 +55869,7 @@
 [/teallang.com/]127.0.0.1
 [/tealui.com/]127.0.0.1
 [/tebaidu.com/]127.0.0.1
+[/tec73.com/]127.0.0.1
 [/techflowpost.com/]127.0.0.1
 [/tencentmind.com/]127.0.0.1
 [/tenddata.com/]127.0.0.1

@@ -9585,6 +9585,7 @@
 [/appleid.cdn-apple.com/]127.0.0.1
 [/apps.apple.com/]127.0.0.1
 [/apps.mzstatic.com/]127.0.0.1
+[/a0f5etf2.icu/]127.0.0.1
 [/a5b.cc/]127.0.0.1
 [/a9377j.com/]127.0.0.1
 [/a9market.com/]127.0.0.1
@@ -9627,6 +9628,7 @@
 [/aiclk.com/]127.0.0.1
 [/aili.com/]127.0.0.1
 [/ailuluz.com/]127.0.0.1
+[/aiotoolbox.com/]127.0.0.1
 [/aiqiyi.com/]127.0.0.1
 [/aiqiyivip.com/]127.0.0.1
 [/airportcip.com/]127.0.0.1
@@ -12626,6 +12628,7 @@
 [/bqgyy.com/]127.0.0.1
 [/bryonypie.com/]127.0.0.1
 [/bsrkt.com/]127.0.0.1
+[/btcxue.com/]127.0.0.1
 [/btyou.com/]127.0.0.1
 [/buding3.com/]127.0.0.1
 [/bugtags.com/]127.0.0.1
@@ -17931,6 +17934,7 @@
 [/cmtopdr.com/]127.0.0.1
 [/cmviking.com/]127.0.0.1
 [/cnbanbao.com/]127.0.0.1
+[/cnbooking.net/]127.0.0.1
 [/cncells.net/]127.0.0.1
 [/cnkok.com/]127.0.0.1
 [/cnnic.pub/]127.0.0.1
@@ -17955,6 +17959,7 @@
 [/cpc.cc/]127.0.0.1
 [/cqqiyi.com/]127.0.0.1
 [/cr-nielsen.com/]127.0.0.1
+[/crcgas.com/]127.0.0.1
 [/crossoverchina.com/]127.0.0.1
 [/csaimall.com/]127.0.0.1
 [/csbew.com/]127.0.0.1
@@ -24010,6 +24015,7 @@
 [/fenqihome.com/]127.0.0.1
 [/ffbon.com/]127.0.0.1
 [/ffhre.com/]127.0.0.1
+[/fifedu.com/]127.0.0.1
 [/fkblz.com/]127.0.0.1
 [/fkesfg.com/]127.0.0.1
 [/flamecdn.com/]127.0.0.1
@@ -26328,6 +26334,7 @@
 [/gridsumdissector.com/]127.0.0.1
 [/growingio.com/]127.0.0.1
 [/gs.ww.np.dl.playstation.net/]127.0.0.1
+[/gs1cn.org/]127.0.0.1
 [/gs2.ww.prod.dl.playstation.net/]127.0.0.1
 [/gs307.com/]127.0.0.1
 [/gsfzb.com/]127.0.0.1
@@ -30088,6 +30095,7 @@
 [/hhhtfin.com/]127.0.0.1
 [/higame123.com/]127.0.0.1
 [/hiido.com/]127.0.0.1
+[/hk-titan.com/]127.0.0.1
 [/hly.com/]127.0.0.1
 [/hnagroup.com/]127.0.0.1
 [/hnagroup.net/]127.0.0.1
@@ -32397,6 +32405,7 @@
 [/ilkwork.com/]127.0.0.1
 [/iloveyouxi.com/]127.0.0.1
 [/ilz.me/]127.0.0.1
+[/imagestoryai.com/]127.0.0.1
 [/imageter.com/]127.0.0.1
 [/imazingchina.com/]127.0.0.1
 [/imindmap.cc/]127.0.0.1
@@ -36566,9 +36575,6 @@
 [/kushou.com/]127.0.0.1
 [/kuyun.com/]127.0.0.1
 [/kvevv.com/]127.0.0.1
-[/kveww.com/]127.0.0.1
-[/kvexx.com/]127.0.0.1
-[/kvhmm.com/]127.0.0.1
 [/kvkaa.com/]127.0.0.1
 [/kweaake.cyou/]127.0.0.1
 [/kxji.com/]127.0.0.1
@@ -53146,6 +53152,7 @@
 [/sdqoi2d.com/]127.0.0.1
 [/sdx.microsoft.com/]127.0.0.1
 [/sdxitong.com/]127.0.0.1
+[/secshow.net/]127.0.0.1
 [/seefarger.com/]127.0.0.1
 [/seeingcare.com/]127.0.0.1
 [/sendpioneer.com/]127.0.0.1
@@ -53180,6 +53187,7 @@
 [/singmaan.com/]127.0.0.1
 [/sisensing.com/]127.0.0.1
 [/sjgnskf.com/]127.0.0.1
+[/sjhfkhgut009.com/]127.0.0.1
 [/sjmwsw.com/]127.0.0.1
 [/skyworthznxyj.com/]127.0.0.1
 [/sljkj.com/]127.0.0.1
@@ -53199,6 +53207,7 @@
 [/souid.com/]127.0.0.1
 [/sound-force.com/]127.0.0.1
 [/speedtest.im/]127.0.0.1
+[/spotpear.com/]127.0.0.1
 [/spush.com/]127.0.0.1
 [/srusoq.com/]127.0.0.1
 [/ssxcycy.com/]127.0.0.1
@@ -57527,9 +57536,11 @@
 [/v0719.com/]127.0.0.1
 [/v4dwkcv.com/]127.0.0.1
 [/vamaker.com/]127.0.0.1
+[/vcdisgd.com/]127.0.0.1
 [/vedsalb.com/]127.0.0.1
 [/vejianzhan.com/]127.0.0.1
 [/veryweibo.com/]127.0.0.1
+[/vibrou.com/]127.0.0.1
 [/videojj.com/]127.0.0.1
 [/videozhishi.com/]127.0.0.1
 [/vigtm-meeting-tencent.com/]127.0.0.1

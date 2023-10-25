@@ -17929,6 +17929,7 @@
 [/chong-wu.net/]127.0.0.1
 [/choqi.com/]127.0.0.1
 [/chuangke.tv/]127.0.0.1
+[/chukonggame.com/]127.0.0.1
 [/chunmiaosh.com/]127.0.0.1
 [/chunyuqiufeng.com/]127.0.0.1
 [/ciimg.com/]127.0.0.1
@@ -30088,6 +30089,7 @@
 [/hao61.net/]127.0.0.1
 [/haoduofangs.com/]127.0.0.1
 [/haoma.com/]127.0.0.1
+[/haoyue.asia/]127.0.0.1
 [/haozhuangji.com/]127.0.0.1
 [/hapying.com/]127.0.0.1
 [/harvesthanger.com/]127.0.0.1
@@ -45763,6 +45765,7 @@
 [/photozoomchina.com/]127.0.0.1
 [/pikacn.com/]127.0.0.1
 [/pincai.com/]127.0.0.1
+[/pmsmzyy.com/]127.0.0.1
 [/pnxs.com/]127.0.0.1
 [/pocidian.com/]127.0.0.1
 [/podaaec.cyou/]127.0.0.1
@@ -53189,6 +53192,7 @@
 [/shankejingling.com/]127.0.0.1
 [/shejihz.com/]127.0.0.1
 [/shengenv.com/]127.0.0.1
+[/shengyan985.com/]127.0.0.1
 [/shianxin.net/]127.0.0.1
 [/shibeiou.com/]127.0.0.1
 [/shop4taobao.com/]127.0.0.1
@@ -66171,7 +66175,6 @@
 [/yrsm.net/]127.0.0.1
 [/ys630.com/]127.0.0.1
 [/ysx8.vip/]127.0.0.1
-[/yt1a.icu/]127.0.0.1
 [/yuanchengxiezuo.com/]127.0.0.1
 [/yuelanxinghe.com/]127.0.0.1
 [/yuguo.com/]127.0.0.1

@@ -9790,6 +9790,9 @@
 [/autobaidu.com/]127.0.0.1
 [/avyeld.com/]127.0.0.1
 [/awsdns-cn-24.net/]127.0.0.1
+[/amp-api-edge-lb-cn.itunes-apple.com.akadns.net/]127.0.0.1
+[/amp-api-edge-lb.itunes-apple.com.akadns.net/]127.0.0.1
+[/amp-api-edge.apps.apple.com/]127.0.0.1
 [/amp-api-search-edge.apps.apple.com/]127.0.0.1
 [/amp-api.apps.apple.com/]127.0.0.1
 [/aod.itunes.apple.com/]127.0.0.1
@@ -32456,6 +32459,11 @@
 [/izatcloud.net/]127.0.0.1
 [/izuanla.com/]127.0.0.1
 [/imasdk.googleapis.com/]127.0.0.1
+[/inappcheck-cn.itunes-apple.com.akadns.net/]127.0.0.1
+[/inappcheck-lb.itunes-apple.com.akadns.net/]127.0.0.1
+[/inappcheck.itunes.apple.com/]127.0.0.1
+[/init.gc-lb.apple.com.akadns.net/]127.0.0.1
+[/init.gc.apple.com/]127.0.0.1
 [/init.itunes.apple.com/]127.0.0.1
 [/iosapps.itunes.apple.com/]127.0.0.1
 [/jgchat.net/]127.0.0.1
@@ -53224,6 +53232,7 @@
 [/sjhfkhgut009.com/]127.0.0.1
 [/sjmwsw.com/]127.0.0.1
 [/skyworthznxyj.com/]127.0.0.1
+[/sl916.com/]127.0.0.1
 [/sljkj.com/]127.0.0.1
 [/slovakia-visacenter.com/]127.0.0.1
 [/slovenia-visacenter.com/]127.0.0.1

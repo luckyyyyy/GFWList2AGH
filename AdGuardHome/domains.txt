@@ -2479,6 +2479,7 @@
 [/200218.com/]127.0.0.1
 [/202014.xyz/]127.0.0.1
 [/202m.com/]127.0.0.1
+[/222aa333bb.com/]127.0.0.1
 [/22588888.com/]127.0.0.1
 [/233wo.com/]127.0.0.1
 [/2345.cc/]127.0.0.1
@@ -20798,6 +20799,7 @@
 [/drivers.amd.com/]127.0.0.1
 [/dsmxp.com/]127.0.0.1
 [/dsp.com/]127.0.0.1
+[/dsspinfo.com/]127.0.0.1
 [/dsxdn.com/]127.0.0.1
 [/duapp.com/]127.0.0.1
 [/duapps.com/]127.0.0.1
@@ -26357,6 +26359,7 @@
 [/giocdn.com/]127.0.0.1
 [/gitmirror.com/]127.0.0.1
 [/gkzyb.com/]127.0.0.1
+[/gmarket.co.kr/]127.0.0.1
 [/gocye.com/]127.0.0.1
 [/goforandroid.com/]127.0.0.1
 [/goodmorening.com/]127.0.0.1
@@ -35002,6 +35005,7 @@
 [/jsdesign1.com/]127.0.0.1
 [/jshytec.com/]127.0.0.1
 [/jsinfo.net/]127.0.0.1
+[/jtfgzlm.icu/]127.0.0.1
 [/jtj-kr.com/]127.0.0.1
 [/ju33.com/]127.0.0.1
 [/juandou.com/]127.0.0.1
@@ -56855,6 +56859,7 @@
 [/usingde.com/]127.0.0.1
 [/uttjhu.xyz/]127.0.0.1
 [/uulucky.com/]127.0.0.1
+[/uupan.net/]127.0.0.1
 [/uuzone.com/]127.0.0.1
 [/uuzu.com/]127.0.0.1
 [/uym11.xyz/]127.0.0.1
@@ -57653,6 +57658,7 @@
 [/vvpgwg.xyz/]127.0.0.1
 [/vxsnk.com/]127.0.0.1
 [/vxv.ink/]127.0.0.1
+[/vyh9v.app/]127.0.0.1
 [/www.yxssp.com/]127.0.0.1
 [/www-google-analytics.l.google.com/]127.0.0.1
 [/www-googletagmanager.l.google.com/]127.0.0.1
@@ -66241,6 +66247,7 @@
 [/ys630.com/]127.0.0.1
 [/ystnykj.com/]127.0.0.1
 [/ysx8.vip/]127.0.0.1
+[/yuanbaokc.com/]127.0.0.1
 [/yuanchengxiezuo.com/]127.0.0.1
 [/yuelanxinghe.com/]127.0.0.1
 [/yuguo.com/]127.0.0.1

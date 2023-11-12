@@ -9628,6 +9628,7 @@
 [/adxiny.com/]127.0.0.1
 [/adxpand.com/]127.0.0.1
 [/adxvip.com/]127.0.0.1
+[/adys.vip/]127.0.0.1
 [/adyun.com/]127.0.0.1
 [/agrantsem.com/]127.0.0.1
 [/ahemi.com/]127.0.0.1
@@ -30111,6 +30112,7 @@
 [/hudong100.net/]127.0.0.1
 [/hudong100.org/]127.0.0.1
 [/haomaishe.com/]127.0.0.1
+[/h5gdsvip.com/]127.0.0.1
 [/h6295.com/]127.0.0.1
 [/ha1916.com/]127.0.0.1
 [/haichangoceanpark.com/]127.0.0.1
@@ -30160,9 +30162,11 @@
 [/howxm.com/]127.0.0.1
 [/hoyoverse.com/]127.0.0.1
 [/hpcwwd.com/]127.0.0.1
+[/hsrc.tv/]127.0.0.1
 [/htmlai.com/]127.0.0.1
 [/huajuanma.com/]127.0.0.1
 [/huancaicp.com/]127.0.0.1
+[/huashengtoutiao.com/]127.0.0.1
 [/hubeikj.com/]127.0.0.1
 [/hubiazhi.com/]127.0.0.1
 [/hubpd.com/]127.0.0.1
@@ -32467,9 +32471,12 @@
 [/imageter.com/]127.0.0.1
 [/imazingchina.com/]127.0.0.1
 [/imgikzy.com/]127.0.0.1
+[/imgloc.com/]127.0.0.1
+[/imgs.ovh/]127.0.0.1
 [/imindmap.cc/]127.0.0.1
 [/imtmp.net/]127.0.0.1
 [/inad.com/]127.0.0.1
+[/infuseku.xyz/]127.0.0.1
 [/infyniclick.com/]127.0.0.1
 [/injoinic.com/]127.0.0.1
 [/innity.com/]127.0.0.1
@@ -42094,6 +42101,7 @@
 [/mesu.apple.com/]127.0.0.1
 [/music.apple.com/]127.0.0.1
 [/m1book.com/]127.0.0.1
+[/m2pjo.app/]127.0.0.1
 [/macxz.com/]127.0.0.1
 [/madeqr.com/]127.0.0.1
 [/madserving.com/]127.0.0.1
@@ -60505,6 +60513,7 @@
 [/wannianli.mobi/]127.0.0.1
 [/wapadv.com/]127.0.0.1
 [/wasee.com/]127.0.0.1
+[/wavedsp.tech/]127.0.0.1
 [/wbsdz.com/]127.0.0.1
 [/weareqy.com/]127.0.0.1
 [/webdissector.com/]127.0.0.1

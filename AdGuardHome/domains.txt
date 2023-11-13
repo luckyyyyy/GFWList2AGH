@@ -5124,6 +5124,7 @@
 [/5566ua.com/]127.0.0.1
 [/55kk.net/]127.0.0.1
 [/587tuchuang.com/]127.0.0.1
+[/58youxi.com/]127.0.0.1
 [/5951835ccc.com/]127.0.0.1
 [/595tuchuang.com/]127.0.0.1
 [/5etv.com/]127.0.0.1
@@ -17938,6 +17939,7 @@
 [/cherimm.com/]127.0.0.1
 [/china-cpu.co/]127.0.0.1
 [/china-cpu.com/]127.0.0.1
+[/chinaath.com/]127.0.0.1
 [/chinacid.org/]127.0.0.1
 [/chinahzkj.com/]127.0.0.1
 [/chinamishu.net/]127.0.0.1
@@ -17962,6 +17964,7 @@
 [/cmtopdr.com/]127.0.0.1
 [/cmviking.com/]127.0.0.1
 [/cnbanbao.com/]127.0.0.1
+[/cnbeta.com.tw/]127.0.0.1
 [/cnbooking.net/]127.0.0.1
 [/cncells.net/]127.0.0.1
 [/cnkok.com/]127.0.0.1
@@ -20757,6 +20760,7 @@
 [/download.developer.apple.com/]127.0.0.1
 [/dabaicai.com/]127.0.0.1
 [/dabaoku.com/]127.0.0.1
+[/daidaicp.com/]127.0.0.1
 [/dajiaka.com/]127.0.0.1
 [/dajibacdn.com/]127.0.0.1
 [/dakawm.cc/]127.0.0.1
@@ -26341,6 +26345,7 @@
 [/gadscc.xyz/]127.0.0.1
 [/galaxyappstore.com/]127.0.0.1
 [/gamecps.com/]127.0.0.1
+[/gamegamept.com/]127.0.0.1
 [/gameweibo.com/]127.0.0.1
 [/ganjinshengtai.com/]127.0.0.1
 [/gaoguai.com/]127.0.0.1
@@ -32488,6 +32493,7 @@
 [/iper2.com/]127.0.0.1
 [/ipinyou.com/]127.0.0.1
 [/iplusmed.com/]127.0.0.1
+[/ipsebe.com/]127.0.0.1
 [/iqiyi.com/]127.0.0.1
 [/iqiyih5.com/]127.0.0.1
 [/iqiyipic.com/]127.0.0.1
@@ -36655,7 +36661,6 @@
 [/ku9377.com/]127.0.0.1
 [/kuaizip.com/]127.0.0.1
 [/kuaizitech.com/]127.0.0.1
-[/kuguopush.com/]127.0.0.1
 [/kuk8.com/]127.0.0.1
 [/kushou.com/]127.0.0.1
 [/kuyun.com/]127.0.0.1
@@ -42158,6 +42163,7 @@
 [/mobgroupbuy.com/]127.0.0.1
 [/mobiledissector.com/]127.0.0.1
 [/mobiw.com/]127.0.0.1
+[/moe-box.com/]127.0.0.1
 [/moegirl.org/]127.0.0.1
 [/momzs.com/]127.0.0.1
 [/moogos.com/]127.0.0.1
@@ -48693,6 +48699,7 @@
 [/ru4.com/]127.0.0.1
 [/ruijiehuanbao.com/]127.0.0.1
 [/ruiyuanobserve.com/]127.0.0.1
+[/rulei.vip/]127.0.0.1
 [/runnuokeji.com/]127.0.0.1
 [/runxinzhi.com/]127.0.0.1
 [/regioninfo-pa.googleapis.com/]127.0.0.1
@@ -53278,6 +53285,7 @@
 [/sg92.com/]127.0.0.1
 [/sgdmobile.com/]127.0.0.1
 [/sgst.prod.dl.playstation.net/]127.0.0.1
+[/shang-ma.com/]127.0.0.1
 [/shangtutuba.com/]127.0.0.1
 [/shankejingling.com/]127.0.0.1
 [/shejihz.com/]127.0.0.1
@@ -53291,6 +53299,7 @@
 [/shouyihuo.com/]127.0.0.1
 [/shouyoutan.com/]127.0.0.1
 [/shtutian.com/]127.0.0.1
+[/shuicaimi.com/]127.0.0.1
 [/shuiguo.com/]127.0.0.1
 [/shuihulu.com/]127.0.0.1
 [/shujupie.com/]127.0.0.1
@@ -53298,6 +53307,7 @@
 [/shuqistat.com/]127.0.0.1
 [/shuqw.com/]127.0.0.1
 [/shuzhibaogao.net/]127.0.0.1
+[/shuzixindong.com/]127.0.0.1
 [/si9377.com/]127.0.0.1
 [/silverlight.dlservice.microsoft.com/]127.0.0.1
 [/simapple.com/]127.0.0.1
@@ -69116,6 +69126,7 @@
 [/zhugeio.com/]127.0.0.1
 [/zhuigong.com/]127.0.0.1
 [/zhulongjiang.com/]127.0.0.1
+[/zhuye.xyz/]127.0.0.1
 [/zhy333.com/]127.0.0.1
 [/zhzzx.com/]127.0.0.1
 [/zichenit.com/]127.0.0.1

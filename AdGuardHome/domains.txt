@@ -20764,6 +20764,7 @@
 [/dajiaka.com/]127.0.0.1
 [/dajibacdn.com/]127.0.0.1
 [/dakawm.cc/]127.0.0.1
+[/dalaosz.com/]127.0.0.1
 [/daodoc.com/]127.0.0.1
 [/dashet.com/]127.0.0.1
 [/datacaciques.com/]127.0.0.1
@@ -30142,7 +30143,6 @@
 [/hbn68.com/]127.0.0.1
 [/hbtxbaidu.com/]127.0.0.1
 [/hchbsb.com/]127.0.0.1
-[/hdarea.club/]127.0.0.1
 [/hdypw.com/]127.0.0.1
 [/he2d.com/]127.0.0.1
 [/heima8.com/]127.0.0.1
@@ -30152,6 +30152,7 @@
 [/heyunnet.com/]127.0.0.1
 [/hgame.com/]127.0.0.1
 [/hhhtfin.com/]127.0.0.1
+[/hiao.com/]127.0.0.1
 [/higame123.com/]127.0.0.1
 [/hiido.com/]127.0.0.1
 [/hk-titan.com/]127.0.0.1
@@ -32464,6 +32465,7 @@
 [/ihowguide.com/]127.0.0.1
 [/iiad.com/]127.0.0.1
 [/ijycnd.com/]127.0.0.1
+[/ikaros.run/]127.0.0.1
 [/ikmz.cc/]127.0.0.1
 [/ikuailian.com/]127.0.0.1
 [/il8r.com/]127.0.0.1
@@ -53284,6 +53286,7 @@
 [/sfoys.sbs/]127.0.0.1
 [/sg92.com/]127.0.0.1
 [/sgdmobile.com/]127.0.0.1
+[/sgmedia.cloud/]127.0.0.1
 [/sgst.prod.dl.playstation.net/]127.0.0.1
 [/shang-ma.com/]127.0.0.1
 [/shangtutuba.com/]127.0.0.1

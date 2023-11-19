@@ -5967,6 +5967,7 @@
 [/77bike.com/]127.0.0.1
 [/7dah8.com/]127.0.0.1
 [/7gongzhu.net/]127.0.0.1
+[/7jt8y.app/]127.0.0.1
 [/7moor-fs1.com/]127.0.0.1
 [/7x24s.com/]127.0.0.1
 [/7zkj.com/]127.0.0.1
@@ -9634,7 +9635,6 @@
 [/adxvip.com/]127.0.0.1
 [/adys.vip/]127.0.0.1
 [/adyun.com/]127.0.0.1
-[/aetomate13.vip/]127.0.0.1
 [/agrantsem.com/]127.0.0.1
 [/ahemi.com/]127.0.0.1
 [/aiclk.com/]127.0.0.1
@@ -12660,6 +12660,7 @@
 [/btyou.com/]127.0.0.1
 [/buding3.com/]127.0.0.1
 [/bugtags.com/]127.0.0.1
+[/build.microsoft.com/]127.0.0.1
 [/buyboxa.com/]127.0.0.1
 [/buzzads.com/]127.0.0.1
 [/bvfcdn.com/]127.0.0.1
@@ -20779,6 +20780,7 @@
 [/deeptechchina.com/]127.0.0.1
 [/derucci.com/]127.0.0.1
 [/desktop-calculator.com/]127.0.0.1
+[/devblogs.microsoft.com/]127.0.0.1
 [/develenv.com/]127.0.0.1
 [/developer.microsoft.com/]127.0.0.1
 [/dfghaqea.xyz/]127.0.0.1
@@ -35041,13 +35043,13 @@
 [/jnghm.com/]127.0.0.1
 [/job-cunni.com/]127.0.0.1
 [/jodeibel.com/]127.0.0.1
-[/jojog.com/]127.0.0.1
 [/joynext.com/]127.0.0.1
 [/jpplanking.com/]127.0.0.1
 [/jpush.io/]127.0.0.1
 [/jpushoa.com/]127.0.0.1
 [/jrekg.com/]127.0.0.1
 [/jsdesign1.com/]127.0.0.1
+[/jsgdsb.com/]127.0.0.1
 [/jshytec.com/]127.0.0.1
 [/jsinfo.net/]127.0.0.1
 [/jtfgzlm.icu/]127.0.0.1
@@ -39350,10 +39352,12 @@
 [/laomaotao.com/]127.0.0.1
 [/laomaotao.net/]127.0.0.1
 [/lbzx.xyz/]127.0.0.1
+[/learn.microsoft.com/]127.0.0.1
 [/leeyuoxs.com/]127.0.0.1
 [/leirsw.com/]127.0.0.1
 [/leishenhuyu.com/]127.0.0.1
 [/lejuliang.com/]127.0.0.1
+[/lenovo-ibm.com/]127.0.0.1
 [/leshu.com/]127.0.0.1
 [/letao.com/]127.0.0.1
 [/lflucky.com/]127.0.0.1
@@ -39361,6 +39365,7 @@
 [/lgzzu.com/]127.0.0.1
 [/lianle.com/]127.0.0.1
 [/lianwangtech.com/]127.0.0.1
+[/libmk.com/]127.0.0.1
 [/libssh.com/]127.0.0.1
 [/limei.com/]127.0.0.1
 [/linbaoshuwu.com/]127.0.0.1
@@ -44274,21 +44279,24 @@
 [/offerstrack.net/]127.0.0.1
 [/officecdn.microsoft.com/]127.0.0.1
 [/officesoftcn.com/]127.0.0.1
+[/oiinhand.info/]127.0.0.1
 [/ok365.com/]127.0.0.1
 [/okkkk.com/]127.0.0.1
 [/olcdn.com/]127.0.0.1
-[/omhoa.com/]127.0.0.1
 [/onaliyun.com/]127.0.0.1
 [/oneapm.com/]127.0.0.1
 [/onewsvod.com/]127.0.0.1
 [/onlypat.com/]127.0.0.1
 [/ooniu.com/]127.0.0.1
+[/opencloudos.org/]127.0.0.1
+[/opencloudos.tech/]127.0.0.1
 [/openinstall.io/]127.0.0.1
 [/optaim.com/]127.0.0.1
 [/optimix.asia/]127.0.0.1
 [/orangesgame.com/]127.0.0.1
 [/oslaw.net/]127.0.0.1
 [/oss-cn-beijing-aliyuncs.com/]127.0.0.1
+[/ossdshxh.com/]127.0.0.1
 [/oueia.xyz/]127.0.0.1
 [/ourai.ws/]127.0.0.1
 [/ourdlbs.com/]127.0.0.1
@@ -47652,6 +47660,7 @@
 [/quanbailing.com/]127.0.0.1
 [/quandangdang.net/]127.0.0.1
 [/qucaigg.com/]127.0.0.1
+[/queniubl.com/]127.0.0.1
 [/qujishu.com/]127.0.0.1
 [/qutaovip.com/]127.0.0.1
 [/quyaoya.com/]127.0.0.1
@@ -53388,6 +53397,7 @@
 [/syhzml.com/]127.0.0.1
 [/sylnyx.com/]127.0.0.1
 [/synacast.com/]127.0.0.1
+[/szkjcyy.com/]127.0.0.1
 [/szycil.com/]127.0.0.1
 [/szzhaodaxin.com/]127.0.0.1
 [/safebrowsing.googleapis.com/]127.0.0.1
@@ -56103,7 +56113,6 @@
 [/tuanxue360.net/]127.0.0.1
 [/tuiapple.com/]127.0.0.1
 [/tuifish.com/]127.0.0.1
-[/tuipenguin.com/]127.0.0.1
 [/tuishuge.com/]127.0.0.1
 [/tuitiger.com/]127.0.0.1
 [/twcczhu.com/]127.0.0.1
@@ -56904,6 +56913,7 @@
 [/uczzd.com/]127.0.0.1
 [/uczzd.net/]127.0.0.1
 [/udrig.com/]127.0.0.1
+[/uestcliuxue.com/]127.0.0.1
 [/uflowx.com/]127.0.0.1
 [/ugdtimg.com/]127.0.0.1
 [/uibep.com/]127.0.0.1
@@ -63246,6 +63256,7 @@
 [/xmeye.net/]127.0.0.1
 [/xmindchina.net/]127.0.0.1
 [/xmshqh.com/]127.0.0.1
+[/xorlink.com/]127.0.0.1
 [/xox9325.com/]127.0.0.1
 [/xp666.com/]127.0.0.1
 [/xpn.cc/]127.0.0.1

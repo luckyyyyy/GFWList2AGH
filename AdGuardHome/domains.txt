@@ -1918,6 +1918,7 @@
 [/1377.com/]127.0.0.1
 [/15tianqi.com/]127.0.0.1
 [/163hot.net/]127.0.0.1
+[/168trucker.com/]127.0.0.1
 [/180disk.com/]127.0.0.1
 [/197746.com/]127.0.0.1
 [/198game.com/]127.0.0.1
@@ -3331,6 +3332,7 @@
 [/3393.com/]127.0.0.1
 [/35kds.com/]127.0.0.1
 [/3600.com/]127.0.0.1
+[/361cv.com/]127.0.0.1
 [/362728tdg.com/]127.0.0.1
 [/365dmp.com/]127.0.0.1
 [/375772rug.com/]127.0.0.1
@@ -5539,7 +5541,6 @@
 [/6711.com/]127.0.0.1
 [/6789.net/]127.0.0.1
 [/693836.com/]127.0.0.1
-[/6dad.com/]127.0.0.1
 [/6dvip.com/]127.0.0.1
 [/766app.com/]127.0.0.1
 [/766er.com/]127.0.0.1
@@ -9637,6 +9638,7 @@
 [/adyun.com/]127.0.0.1
 [/agrantsem.com/]127.0.0.1
 [/ahemi.com/]127.0.0.1
+[/ai-aee.com/]127.0.0.1
 [/aiclk.com/]127.0.0.1
 [/aili.com/]127.0.0.1
 [/ailuluz.com/]127.0.0.1
@@ -17938,6 +17940,7 @@
 [/catofes.com/]127.0.0.1
 [/cccm-em120.com/]127.0.0.1
 [/cdnmaster.com/]127.0.0.1
+[/cflab.net/]127.0.0.1
 [/chance-ad.com/]127.0.0.1
 [/chembk.com/]127.0.0.1
 [/chengadx.com/]127.0.0.1
@@ -24052,7 +24055,6 @@
 [/fan-yong.com/]127.0.0.1
 [/fancyapi.com/]127.0.0.1
 [/fancydsp.com/]127.0.0.1
-[/fangdaijisuanqi.net/]127.0.0.1
 [/fankebang.com/]127.0.0.1
 [/fastapi.net/]127.0.0.1
 [/fbank.com/]127.0.0.1
@@ -32493,7 +32495,6 @@
 [/imazingchina.com/]127.0.0.1
 [/imgikzy.com/]127.0.0.1
 [/imgloc.com/]127.0.0.1
-[/imgs.ovh/]127.0.0.1
 [/imindmap.cc/]127.0.0.1
 [/imtmp.net/]127.0.0.1
 [/inad.com/]127.0.0.1
@@ -32505,7 +32506,6 @@
 [/intergreat.com/]127.0.0.1
 [/inveno.com/]127.0.0.1
 [/invest-data.com/]127.0.0.1
-[/ipaddr.host/]127.0.0.1
 [/iper2.com/]127.0.0.1
 [/ipinyou.com/]127.0.0.1
 [/iplusmed.com/]127.0.0.1
@@ -43416,7 +43416,6 @@
 [/nanguakexue.biz/]127.0.0.1
 [/nanguakexue.com/]127.0.0.1
 [/nvsip.com/]127.0.0.1
-[/n4x8.xyz/]127.0.0.1
 [/naisiw.com/]127.0.0.1
 [/najnus.com/]127.0.0.1
 [/nasack.net/]127.0.0.1
@@ -44290,6 +44289,7 @@
 [/ooniu.com/]127.0.0.1
 [/opencloudos.org/]127.0.0.1
 [/opencloudos.tech/]127.0.0.1
+[/openew.com/]127.0.0.1
 [/openinstall.io/]127.0.0.1
 [/optaim.com/]127.0.0.1
 [/optimix.asia/]127.0.0.1
@@ -53372,6 +53372,7 @@
 [/soperson.com/]127.0.0.1
 [/souid.com/]127.0.0.1
 [/sound-force.com/]127.0.0.1
+[/soutre.com/]127.0.0.1
 [/speedtest.im/]127.0.0.1
 [/spotpear.com/]127.0.0.1
 [/spush.com/]127.0.0.1
@@ -53393,6 +53394,7 @@
 [/swirebev.com/]127.0.0.1
 [/switzerland-visacenter.com/]127.0.0.1
 [/sxh3k.app/]127.0.0.1
+[/sxisa.org/]127.0.0.1
 [/syfb2021.com/]127.0.0.1
 [/syhzml.com/]127.0.0.1
 [/sylnyx.com/]127.0.0.1
@@ -56935,6 +56937,7 @@
 [/unionsy.com/]127.0.0.1
 [/uodoo.com/]127.0.0.1
 [/uodzhx.com/]127.0.0.1
+[/uostools.com/]127.0.0.1
 [/upashance.com/]127.0.0.1
 [/ups.ksmobile.net/]127.0.0.1
 [/upupview.com/]127.0.0.1
@@ -60617,6 +60620,7 @@
 [/wscont1.apps.microsoft.com/]127.0.0.1
 [/wscont2.apps.microsoft.com/]127.0.0.1
 [/wsgph.com/]127.0.0.1
+[/wuhenge.com/]127.0.0.1
 [/wumii.com/]127.0.0.1
 [/www-hangzhou-aliyun.com/]127.0.0.1
 [/www.amd.com/]127.0.0.1
@@ -66313,7 +66317,6 @@
 [/yingbio.com/]127.0.0.1
 [/yinghuaonline.com/]127.0.0.1
 [/yingyongge.com/]127.0.0.1
-[/yinhuadm.cc/]127.0.0.1
 [/yiqifa.com/]127.0.0.1
 [/yiqiv.com/]127.0.0.1
 [/yixui.com/]127.0.0.1

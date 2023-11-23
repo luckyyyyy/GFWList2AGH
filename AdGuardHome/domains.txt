@@ -17962,6 +17962,7 @@
 [/chunmiaosh.com/]127.0.0.1
 [/chunyuqiufeng.com/]127.0.0.1
 [/ciimg.com/]127.0.0.1
+[/cit168.com/]127.0.0.1
 [/cixtech.com/]127.0.0.1
 [/cjmakeding.com/]127.0.0.1
 [/claiks.com/]127.0.0.1
@@ -20803,6 +20804,7 @@
 [/diyosl.com/]127.0.0.1
 [/dl.delivery.mp.microsoft.com/]127.0.0.1
 [/dlrtz.com/]127.0.0.1
+[/dmdaili.com/]127.0.0.1
 [/dmrtb.com/]127.0.0.1
 [/dnpz123.com/]127.0.0.1
 [/dns2028.com/]127.0.0.1
@@ -30145,6 +30147,7 @@
 [/hao61.net/]127.0.0.1
 [/haoduofangs.com/]127.0.0.1
 [/haoma.com/]127.0.0.1
+[/haoyouidc.com/]127.0.0.1
 [/haoyue.asia/]127.0.0.1
 [/haozhuangji.com/]127.0.0.1
 [/hapying.com/]127.0.0.1
@@ -30155,6 +30158,7 @@
 [/hbbaidu.com/]127.0.0.1
 [/hbn68.com/]127.0.0.1
 [/hbtxbaidu.com/]127.0.0.1
+[/hbzhhbsb.com/]127.0.0.1
 [/hchbsb.com/]127.0.0.1
 [/hdypw.com/]127.0.0.1
 [/he2d.com/]127.0.0.1
@@ -35068,6 +35072,7 @@
 [/jxdown.com/]127.0.0.1
 [/jxsjgjt.com/]127.0.0.1
 [/jy135.com/]127.0.0.1
+[/jyssjxc.com/]127.0.0.1
 [/js-cdn.music.apple.com/]127.0.0.1
 [/jiasu.bohe.com/]127.0.0.1
 [/kc.kexinshe.com/]127.0.0.1
@@ -48734,6 +48739,7 @@
 [/rulei.vip/]127.0.0.1
 [/runnuokeji.com/]127.0.0.1
 [/runxinzhi.com/]127.0.0.1
+[/rxn30.app/]127.0.0.1
 [/regioninfo-pa.googleapis.com/]127.0.0.1
 [/rj.m.taobao.co/]127.0.0.1
 [/ru-northwest-2.myhuaweicloud.com/]127.0.0.1
@@ -60566,12 +60572,14 @@
 [/wanfumei.net/]127.0.0.1
 [/wangqingzx.com/]127.0.0.1
 [/wannianli.mobi/]127.0.0.1
+[/wanyuanyun.com/]127.0.0.1
 [/wapadv.com/]127.0.0.1
 [/wasee.com/]127.0.0.1
 [/wavedsp.tech/]127.0.0.1
 [/wbsdz.com/]127.0.0.1
 [/weareqy.com/]127.0.0.1
 [/webdissector.com/]127.0.0.1
+[/webmaster.me/]127.0.0.1
 [/webterren.com/]127.0.0.1
 [/weibo.co/]127.0.0.1
 [/weibo.com/]127.0.0.1
@@ -63246,6 +63254,7 @@
 [/xiniuz.com/]127.0.0.1
 [/xinjidian.com/]127.0.0.1
 [/xinray.net/]127.0.0.1
+[/xinsf.cc/]127.0.0.1
 [/xinyuwj.com/]127.0.0.1
 [/xiongbeng.com/]127.0.0.1
 [/xiongdong.com/]127.0.0.1
@@ -66301,6 +66310,7 @@
 [/yalayi.net/]127.0.0.1
 [/yandui.com/]127.0.0.1
 [/yanjunbo.com/]127.0.0.1
+[/yaocdn.com/]127.0.0.1
 [/yaoyl.com/]127.0.0.1
 [/ybask.com/]127.0.0.1
 [/yccdn.com/]127.0.0.1
@@ -69161,7 +69171,6 @@
 [/zhaoapple.com/]127.0.0.1
 [/zhaowenyu.com/]127.0.0.1
 [/zhaoyl.com/]127.0.0.1
-[/zhaoyuanedu.com/]127.0.0.1
 [/zhenglibin.cloud/]127.0.0.1
 [/zhenguangchem.com/]127.0.0.1
 [/zhenxingkuangchanpin.com/]127.0.0.1

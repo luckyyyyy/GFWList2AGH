@@ -17964,6 +17964,7 @@
 [/chinacid.org/]127.0.0.1
 [/chinahzkj.com/]127.0.0.1
 [/chinamishu.net/]127.0.0.1
+[/chipdebug.com/]127.0.0.1
 [/chiphometek.com/]127.0.0.1
 [/chnci.com/]127.0.0.1
 [/chong-wu.net/]127.0.0.1
@@ -20810,6 +20811,7 @@
 [/diangongbao.com/]127.0.0.1
 [/diannaodian.com/]127.0.0.1
 [/dianru.com/]127.0.0.1
+[/dians.net/]127.0.0.1
 [/dikmnhyxz.xyz/]127.0.0.1
 [/dipan.com/]127.0.0.1
 [/diumx.com/]127.0.0.1
@@ -24103,7 +24105,6 @@
 [/frdabe.com/]127.0.0.1
 [/freshippo.com/]127.0.0.1
 [/fs.microsoft.com/]127.0.0.1
-[/fsdnp.cyou/]127.0.0.1
 [/fsfsfz.com/]127.0.0.1
 [/fucnm.com/]127.0.0.1
 [/fugetech.com/]127.0.0.1
@@ -30207,6 +30208,7 @@
 [/howxm.com/]127.0.0.1
 [/hoyoverse.com/]127.0.0.1
 [/hpcwwd.com/]127.0.0.1
+[/hsayi.com/]127.0.0.1
 [/hsrc.tv/]127.0.0.1
 [/htmlai.com/]127.0.0.1
 [/huajuanma.com/]127.0.0.1
@@ -36707,6 +36709,7 @@
 [/ku6.com/]127.0.0.1
 [/ku9377.com/]127.0.0.1
 [/kuailon.com/]127.0.0.1
+[/kuaizhou123.com/]127.0.0.1
 [/kuaizip.com/]127.0.0.1
 [/kuaizitech.com/]127.0.0.1
 [/kuk8.com/]127.0.0.1
@@ -45940,6 +45943,7 @@
 [/pushcfg.com/]127.0.0.1
 [/pv4b.com/]127.0.0.1
 [/pxhuiben.com/]127.0.0.1
+[/pxwsemi.com/]127.0.0.1
 [/p1-juejin.byteimg.com/]127.0.0.1
 [/p2-juejin.byteimg.com/]127.0.0.1
 [/p3-juejin.byteimg.com/]127.0.0.1

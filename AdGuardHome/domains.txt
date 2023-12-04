@@ -2491,6 +2491,7 @@
 [/2481e.com/]127.0.0.1
 [/2529.com/]127.0.0.1
 [/25ku.com/]127.0.0.1
+[/2925.com/]127.0.0.1
 [/2lian.com/]127.0.0.1
 [/2zzt.com/]127.0.0.1
 [/2mdn.net/]127.0.0.1
@@ -18081,6 +18082,7 @@
 [/claiks.com/]127.0.0.1
 [/clotfun.online/]127.0.0.1
 [/cloud-rtc.com/]127.0.0.1
+[/cloudhin.com/]127.0.0.1
 [/cm-analysis.com/]127.0.0.1
 [/cmpassport.com/]127.0.0.1
 [/cmsk1979.com/]127.0.0.1
@@ -20907,6 +20909,7 @@
 [/dgkj888.com/]127.0.0.1
 [/dheear.site/]127.0.0.1
 [/dhkipdsc.xyz/]127.0.0.1
+[/dhkk.cc/]127.0.0.1
 [/dhxrop.com/]127.0.0.1
 [/diangongbao.com/]127.0.0.1
 [/diannaodian.com/]127.0.0.1
@@ -24185,6 +24188,7 @@
 [/fan-yong.com/]127.0.0.1
 [/fancyapi.com/]127.0.0.1
 [/fancydsp.com/]127.0.0.1
+[/fandiankeji.com/]127.0.0.1
 [/fankebang.com/]127.0.0.1
 [/fanqieopen.com/]127.0.0.1
 [/fanqieopenpic.com/]127.0.0.1
@@ -30281,12 +30285,14 @@
 [/haizhangs.com/]127.0.0.1
 [/hamedal.com/]127.0.0.1
 [/hangdaxinli.com/]127.0.0.1
+[/hangzyuyuan.com/]127.0.0.1
 [/hanlinzhijia.net/]127.0.0.1
 [/hanyya.com/]127.0.0.1
 [/hao123.sh/]127.0.0.1
 [/hao222.com/]127.0.0.1
 [/hao353.com/]127.0.0.1
 [/hao61.net/]127.0.0.1
+[/haodro.com/]127.0.0.1
 [/haoduofangs.com/]127.0.0.1
 [/haoma.com/]127.0.0.1
 [/haomzl.com/]127.0.0.1
@@ -35207,7 +35213,6 @@
 [/jmlk.co/]127.0.0.1
 [/jnghm.com/]127.0.0.1
 [/job-cunni.com/]127.0.0.1
-[/jodeibel.com/]127.0.0.1
 [/joynext.com/]127.0.0.1
 [/jpplanking.com/]127.0.0.1
 [/jpush.io/]127.0.0.1
@@ -35224,6 +35229,7 @@
 [/juapp9.com/]127.0.0.1
 [/juhuisuan.com/]127.0.0.1
 [/julym.com/]127.0.0.1
+[/jump-center.com/]127.0.0.1
 [/junshizhanlue.com/]127.0.0.1
 [/junziyize.com/]127.0.0.1
 [/jusha.com/]127.0.0.1
@@ -36849,6 +36855,7 @@
 [/kuaizhou123.com/]127.0.0.1
 [/kuaizip.com/]127.0.0.1
 [/kuaizitech.com/]127.0.0.1
+[/kuanfans.com/]127.0.0.1
 [/kuk8.com/]127.0.0.1
 [/kushou.com/]127.0.0.1
 [/kuyun.com/]127.0.0.1
@@ -46057,6 +46064,7 @@
 [/paasmi.com/]127.0.0.1
 [/pagechoice.com/]127.0.0.1
 [/pagechoice.net/]127.0.0.1
+[/paizi10.com/]127.0.0.1
 [/pajkb.com/]127.0.0.1
 [/pangolin-sdk-toutiao-b.com/]127.0.0.1
 [/pangolin-sdk-toutiao.com/]127.0.0.1
@@ -47864,6 +47872,7 @@
 [/qutaovip.com/]127.0.0.1
 [/quyaoya.com/]127.0.0.1
 [/qvpublish.com/]127.0.0.1
+[/qwbk.cc/]127.0.0.1
 [/qwxcs.com/]127.0.0.1
 [/qxsdq.com/]127.0.0.1
 [/qznovel.com/]127.0.0.1
@@ -60884,6 +60893,7 @@
 [/www.apple.com.edgekey.net/]127.0.0.1
 [/www.apple.com/]127.0.0.1
 [/w7ghost.net/]127.0.0.1
+[/wacaijizhang.com/]127.0.0.1
 [/walibao.com/]127.0.0.1
 [/wancai.com/]127.0.0.1
 [/wanchuweilai.com/]127.0.0.1
@@ -69509,6 +69519,7 @@
 [/zhihuclub.com/]127.0.0.1
 [/zhili2000.com/]127.0.0.1
 [/zhilingshidai.com/]127.0.0.1
+[/zhiyingyang.com/]127.0.0.1
 [/zhiziyun.com/]127.0.0.1
 [/zhltech.net/]127.0.0.1
 [/zhongchouyan.com/]127.0.0.1

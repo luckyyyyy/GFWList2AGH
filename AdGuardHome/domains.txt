@@ -7295,7 +7295,6 @@
 [/9fzt.net/]127.0.0.1
 [/9gt.net/]127.0.0.1
 [/9huadian.net/]127.0.0.1
-[/9mbv.com/]127.0.0.1
 [/9taobao.com/]127.0.0.1
 [/9wee.com/]127.0.0.1
 [/9xiazaiqi.com/]127.0.0.1
@@ -12629,6 +12628,7 @@
 [/bailepin.com/]127.0.0.1
 [/baizead.com/]127.0.0.1
 [/baizhu.cc/]127.0.0.1
+[/baka.fun/]127.0.0.1
 [/banmamedia.com/]127.0.0.1
 [/banyuetanapp.com/]127.0.0.1
 [/bartender.cc/]127.0.0.1
@@ -18040,6 +18040,7 @@
 [/configuration.apple.com/]127.0.0.1
 [/cstat.apple.com/]127.0.0.1
 [/cstat.cdn-apple.com/]127.0.0.1
+[/c1d8i3p6.com/]127.0.0.1
 [/c7sky.com/]127.0.0.1
 [/c7w.tech/]127.0.0.1
 [/cache4ever.com/]127.0.0.1
@@ -20894,6 +20895,7 @@
 [/daodoc.com/]127.0.0.1
 [/dashet.com/]127.0.0.1
 [/datacaciques.com/]127.0.0.1
+[/dazoread.com/]127.0.0.1
 [/db9w.com/]127.0.0.1
 [/dbljj.com/]127.0.0.1
 [/ddgjjj.com/]127.0.0.1
@@ -26534,6 +26536,7 @@
 [/gladdigit.com/]127.0.0.1
 [/gmarket.co.kr/]127.0.0.1
 [/gmedata.com/]127.0.0.1
+[/gmi1001.com/]127.0.0.1
 [/gocye.com/]127.0.0.1
 [/goforandroid.com/]127.0.0.1
 [/gofrp.org/]127.0.0.1
@@ -32670,6 +32673,7 @@
 [/inspirecloud.com/]127.0.0.1
 [/intergreat.com/]127.0.0.1
 [/intomod.com/]127.0.0.1
+[/inuyasha.love/]127.0.0.1
 [/inveno.com/]127.0.0.1
 [/invest-data.com/]127.0.0.1
 [/iper2.com/]127.0.0.1
@@ -32684,6 +32688,7 @@
 [/irs01.com/]127.0.0.1
 [/irs01.net/]127.0.0.1
 [/irs03.com/]127.0.0.1
+[/irunner.mobi/]127.0.0.1
 [/iscrv.com/]127.0.0.1
 [/isealsuite.com/]127.0.0.1
 [/italyvisacenterd.com/]127.0.0.1
@@ -36865,6 +36870,7 @@
 [/ky01020.com/]127.0.0.1
 [/ky01022.com/]127.0.0.1
 [/kych5.com/]127.0.0.1
+[/kygf1.com/]127.0.0.1
 [/kyzx.xyz/]127.0.0.1
 [/kzeaa.com/]127.0.0.1
 [/kzecc.com/]127.0.0.1
@@ -42314,6 +42320,7 @@
 [/mesu.apple.com/]127.0.0.1
 [/music.apple.com/]127.0.0.1
 [/m1book.com/]127.0.0.1
+[/m2k3j7x8.com/]127.0.0.1
 [/m2pjo.app/]127.0.0.1
 [/macxz.com/]127.0.0.1
 [/madeqr.com/]127.0.0.1
@@ -47834,6 +47841,7 @@
 [/qingsonngxx.com/]127.0.0.1
 [/qy.com/]127.0.0.1
 [/q1qfc323.com/]127.0.0.1
+[/qbd4.site/]127.0.0.1
 [/qbdgame.com/]127.0.0.1
 [/qbewux.xyz/]127.0.0.1
 [/qczj.xyz/]127.0.0.1
@@ -56315,6 +56323,7 @@
 [/thiscute.world/]127.0.0.1
 [/tiandi.com/]127.0.0.1
 [/tianmidian.com/]127.0.0.1
+[/tiantk1.com/]127.0.0.1
 [/tiaoka.com/]127.0.0.1
 [/tiapi.net/]127.0.0.1
 [/tiexing.com/]127.0.0.1
@@ -56364,6 +56373,7 @@
 [/tuifish.com/]127.0.0.1
 [/tuishuge.com/]127.0.0.1
 [/tuitiger.com/]127.0.0.1
+[/tunhe.com/]127.0.0.1
 [/twcczhu.com/]127.0.0.1
 [/twh5.com/]127.0.0.1
 [/tydouke.com/]127.0.0.1
@@ -60894,6 +60904,7 @@
 [/www.apple.com/]127.0.0.1
 [/w7ghost.net/]127.0.0.1
 [/wacaijizhang.com/]127.0.0.1
+[/waimaimingtang.com/]127.0.0.1
 [/walibao.com/]127.0.0.1
 [/wancai.com/]127.0.0.1
 [/wanchuweilai.com/]127.0.0.1
@@ -66659,6 +66670,7 @@
 [/yhzm.cc/]127.0.0.1
 [/yidu.cc/]127.0.0.1
 [/yigao.com/]127.0.0.1
+[/yikedy.cc/]127.0.0.1
 [/yillionbank.com/]127.0.0.1
 [/yingbio.com/]127.0.0.1
 [/yinghuaonline.com/]127.0.0.1
@@ -69540,6 +69552,7 @@
 [/zijiedj.com/]127.0.0.1
 [/zijietiaodong.com/]127.0.0.1
 [/zinffer.com/]127.0.0.1
+[/zixunkankan.xyz/]127.0.0.1
 [/zizhuyuangongyuan.com/]127.0.0.1
 [/zjbinya.com/]127.0.0.1
 [/zjfcdn.com/]127.0.0.1

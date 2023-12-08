@@ -12663,6 +12663,7 @@
 [/belgiumvisacenterd.com/]127.0.0.1
 [/bengbeng.com/]127.0.0.1
 [/beony.com/]127.0.0.1
+[/bertadata.com/]127.0.0.1
 [/bestadprof.com/]127.0.0.1
 [/besteduchina.com/]127.0.0.1
 [/betaband.net/]127.0.0.1
@@ -12697,7 +12698,6 @@
 [/bjtdhkj.com/]127.0.0.1
 [/bjzmqj.com/]127.0.0.1
 [/bla01.com/]127.0.0.1
-[/bm999999.com/]127.0.0.1
 [/bob4885.com/]127.0.0.1
 [/bobo.com/]127.0.0.1
 [/boke123.net/]127.0.0.1
@@ -18081,6 +18081,7 @@
 [/ciimg.com/]127.0.0.1
 [/cit168.com/]127.0.0.1
 [/cixtech.com/]127.0.0.1
+[/cjcn.com/]127.0.0.1
 [/cjmakeding.com/]127.0.0.1
 [/claiks.com/]127.0.0.1
 [/clotfun.online/]127.0.0.1
@@ -18137,8 +18138,8 @@
 [/ctrmi.com/]127.0.0.1
 [/cubavcenter.com/]127.0.0.1
 [/cudaojia.com/]127.0.0.1
-[/cupfox.app/]127.0.0.1
 [/cupfox.com/]127.0.0.1
+[/cx368.com/]127.0.0.1
 [/cxzudwk.com/]127.0.0.1
 [/cz.cc/]127.0.0.1
 [/czech-visacenter.com/]127.0.0.1
@@ -20900,6 +20901,7 @@
 [/dazoread.com/]127.0.0.1
 [/db9w.com/]127.0.0.1
 [/dbljj.com/]127.0.0.1
+[/dcgqt.com/]127.0.0.1
 [/ddgjjj.com/]127.0.0.1
 [/deeptechchina.com/]127.0.0.1
 [/derucci.com/]127.0.0.1
@@ -20919,6 +20921,7 @@
 [/diannaodian.com/]127.0.0.1
 [/dianru.com/]127.0.0.1
 [/dians.net/]127.0.0.1
+[/dianxian.net/]127.0.0.1
 [/dikmnhyxz.xyz/]127.0.0.1
 [/dipan.com/]127.0.0.1
 [/diumx.com/]127.0.0.1
@@ -35251,6 +35254,7 @@
 [/jxal.net/]127.0.0.1
 [/jxdown.com/]127.0.0.1
 [/jxsjgjt.com/]127.0.0.1
+[/jxyuging.com/]127.0.0.1
 [/jy135.com/]127.0.0.1
 [/jyssjxc.com/]127.0.0.1
 [/js-cdn.music.apple.com/]127.0.0.1
@@ -36833,6 +36837,7 @@
 [/kuyinyun.com/]127.0.0.1
 [/k67kk.app/]127.0.0.1
 [/ka5188.com/]127.0.0.1
+[/kaijiage.com/]127.0.0.1
 [/kaiyuanweilaikeji.com/]127.0.0.1
 [/kamokamogo.com/]127.0.0.1
 [/kandianzixun.com/]127.0.0.1
@@ -42342,6 +42347,7 @@
 [/mangomob.net/]127.0.0.1
 [/manhuaren.com/]127.0.0.1
 [/manyou.com/]127.0.0.1
+[/maoyanqing.com/]127.0.0.1
 [/maqingbo.com/]127.0.0.1
 [/marketingconv.com/]127.0.0.1
 [/mbaobao.com/]127.0.0.1
@@ -47857,7 +47863,6 @@
 [/qbewux.xyz/]127.0.0.1
 [/qczj.xyz/]127.0.0.1
 [/qerwsoft.com/]127.0.0.1
-[/qh.dlservice.microsoft.com/]127.0.0.1
 [/qhdfxkj.com/]127.0.0.1
 [/qhupdate.com/]127.0.0.1
 [/qiaiju.com/]127.0.0.1
@@ -47898,6 +47903,7 @@
 [/qznovelpic.com/]127.0.0.1
 [/qznovelstatic.com/]127.0.0.1
 [/qznovelvod.com/]127.0.0.1
+[/qh.dlservice.microsoft.com/]127.0.0.1
 [/qq.wang/]127.0.0.1
 [/qq.xn/]127.0.0.1
 [/quumibao.com/]127.0.0.1
@@ -53562,6 +53568,7 @@
 [/shang-ma.com/]127.0.0.1
 [/shangtutuba.com/]127.0.0.1
 [/shankejingling.com/]127.0.0.1
+[/sharesdns.com/]127.0.0.1
 [/shejihz.com/]127.0.0.1
 [/shengenv.com/]127.0.0.1
 [/shengjuewl.com/]127.0.0.1
@@ -53587,7 +53594,6 @@
 [/shuzixindong.com/]127.0.0.1
 [/si9377.com/]127.0.0.1
 [/sialiagames.com.tw/]127.0.0.1
-[/silverlight.dlservice.microsoft.com/]127.0.0.1
 [/simapple.com/]127.0.0.1
 [/simengadx.com/]127.0.0.1
 [/sinawap.com/]127.0.0.1
@@ -53604,10 +53610,10 @@
 [/skyworthznxyj.com/]127.0.0.1
 [/sl916.com/]127.0.0.1
 [/slbauto.com/]127.0.0.1
+[/slicejobs.com/]127.0.0.1
 [/sljkj.com/]127.0.0.1
 [/slovakia-visacenter.com/]127.0.0.1
 [/slovenia-visacenter.com/]127.0.0.1
-[/slupdate.dlservice.microsoft.com/]127.0.0.1
 [/smabye.com/]127.0.0.1
 [/smlaw8.com/]127.0.0.1
 [/sms18.com/]127.0.0.1
@@ -53639,6 +53645,7 @@
 [/storeedgefd.dsx.mp.microsoft.com/]127.0.0.1
 [/strangetop.com/]127.0.0.1
 [/sudoinfotech.com/]127.0.0.1
+[/suishouzj.com/]127.0.0.1
 [/suki.moe/]127.0.0.1
 [/sundxs.com/]127.0.0.1
 [/sunocean.life/]127.0.0.1
@@ -53662,6 +53669,8 @@
 [/search.itunes.apple.com/]127.0.0.1
 [/secure2.alphassl.com/]127.0.0.1
 [/sf-api-token-service.itunes.apple.com/]127.0.0.1
+[/silverlight.dlservice.microsoft.com/]127.0.0.1
+[/slupdate.dlservice.microsoft.com/]127.0.0.1
 [/sp.itunes.apple.com/]127.0.0.1
 [/ssl.gstatic.com/]127.0.0.1
 [/staging-regioninfo-pa.googleapis.com/]127.0.0.1
@@ -56337,6 +56346,7 @@
 [/thiscute.world/]127.0.0.1
 [/tiandi.com/]127.0.0.1
 [/tianmidian.com/]127.0.0.1
+[/tiantaivideo.com/]127.0.0.1
 [/tiantk1.com/]127.0.0.1
 [/tiaoka.com/]127.0.0.1
 [/tiapi.net/]127.0.0.1
@@ -60927,7 +60937,9 @@
 [/wandaph.com/]127.0.0.1
 [/wanfumei.net/]127.0.0.1
 [/wangqingzx.com/]127.0.0.1
+[/wangyuedaojia.com/]127.0.0.1
 [/wannianli.mobi/]127.0.0.1
+[/wansheng666.cc/]127.0.0.1
 [/wanwang.space/]127.0.0.1
 [/wanyuanyun.com/]127.0.0.1
 [/wapadv.com/]127.0.0.1
@@ -60972,7 +60984,6 @@
 [/wjxcdn.com/]127.0.0.1
 [/wjzpgz.com/]127.0.0.1
 [/wkanx.com/]127.0.0.1
-[/wl.dlservice.microsoft.com/]127.0.0.1
 [/wls911.com/]127.0.0.1
 [/wlwx.com/]127.0.0.1
 [/wmsjsteam.com/]127.0.0.1
@@ -61002,6 +61013,7 @@
 [/wyx365.com/]127.0.0.1
 [/wzdy.xyz/]127.0.0.1
 [/wear.googleapis.com/]127.0.0.1
+[/wl.dlservice.microsoft.com/]127.0.0.1
 [/www.gstatic.com/]127.0.0.1
 [/www.libvideo.com/]127.0.0.1
 [/xianousiqi.com/]127.0.0.1
@@ -63588,6 +63600,7 @@
 [/xa9t.com/]127.0.0.1
 [/xanbhx.com/]127.0.0.1
 [/xchmai.com/]127.0.0.1
+[/xckj688.com/]127.0.0.1
 [/xcpxssx.com/]127.0.0.1
 [/xcy8.com/]127.0.0.1
 [/xdrig.com/]127.0.0.1
@@ -63644,6 +63657,7 @@
 [/xt918.com/]127.0.0.1
 [/xuld.net/]127.0.0.1
 [/xulizui6.com/]127.0.0.1
+[/xunjk.com/]127.0.0.1
 [/xunsns.com/]127.0.0.1
 [/xwdsp.com/]127.0.0.1
 [/xwuad.com/]127.0.0.1
@@ -66694,6 +66708,7 @@
 [/yillionbank.com/]127.0.0.1
 [/yingbio.com/]127.0.0.1
 [/yinghuaonline.com/]127.0.0.1
+[/yinghuochongjz.com/]127.0.0.1
 [/yingleku.com/]127.0.0.1
 [/yingyongge.com/]127.0.0.1
 [/yinhecn.com/]127.0.0.1
@@ -69539,6 +69554,7 @@
 [/zebracdn.com/]127.0.0.1
 [/zeldacn.com/]127.0.0.1
 [/zeus.dl.playstation.net/]127.0.0.1
+[/zgyouth.cc/]127.0.0.1
 [/zhanmang.com/]127.0.0.1
 [/zhantai.com/]127.0.0.1
 [/zhanzhang.net/]127.0.0.1
@@ -69547,6 +69563,7 @@
 [/zhaoyl.com/]127.0.0.1
 [/zhenglibin.cloud/]127.0.0.1
 [/zhenguangchem.com/]127.0.0.1
+[/zhenxiliangshi.com/]127.0.0.1
 [/zhenxingkuangchanpin.com/]127.0.0.1
 [/zhihuclub.com/]127.0.0.1
 [/zhili2000.com/]127.0.0.1
@@ -69587,6 +69604,7 @@
 [/zp0737.com/]127.0.0.1
 [/zpp.im/]127.0.0.1
 [/zsjxwj.com/]127.0.0.1
+[/zsnxapp.com/]127.0.0.1
 [/ztcadx.com/]127.0.0.1
 [/zwwank.com/]127.0.0.1
 [/zwzdiy.cc/]127.0.0.1

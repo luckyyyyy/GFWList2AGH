@@ -20927,6 +20927,11 @@
 [/diumx.com/]127.0.0.1
 [/divepai.com/]127.0.0.1
 [/diyosl.com/]127.0.0.1
+[/dji.com/]127.0.0.1
+[/dji.net/]127.0.0.1
+[/djicdn.com/]127.0.0.1
+[/djiops.com/]127.0.0.1
+[/djiservice.org/]127.0.0.1
 [/dl.delivery.mp.microsoft.com/]127.0.0.1
 [/dlrtz.com/]127.0.0.1
 [/dmdaili.com/]127.0.0.1
@@ -32628,6 +32633,7 @@
 [/itunes-apple.com.akadns.net/]127.0.0.1
 [/itunes.apple.com/]127.0.0.1
 [/itunesconnect.apple.com/]127.0.0.1
+[/i-markit.com/]127.0.0.1
 [/ialicdn.com/]127.0.0.1
 [/iapple123.com/]127.0.0.1
 [/iappler.net/]127.0.0.1
@@ -39544,8 +39550,10 @@
 [/laiweishang.com/]127.0.0.1
 [/laixiangzuji.com/]127.0.0.1
 [/lancern.xyz/]127.0.0.1
+[/lanosso.com/]127.0.0.1
 [/lansha.tv/]127.0.0.1
 [/lansors.com/]127.0.0.1
+[/lanzov.com/]127.0.0.1
 [/laolinow.com/]127.0.0.1
 [/laomaotao.com/]127.0.0.1
 [/laomaotao.net/]127.0.0.1
@@ -43641,7 +43649,6 @@
 [/newzealandvscenter.com/]127.0.0.1
 [/nextvid.net/]127.0.0.1
 [/neyetwatcher.com/]127.0.0.1
-[/niandai.org/]127.0.0.1
 [/nicelabel.cc/]127.0.0.1
 [/nihil.cc/]127.0.0.1
 [/niuhuagong.com/]127.0.0.1
@@ -48962,6 +48969,7 @@
 [/reyun.com/]127.0.0.1
 [/rgyun.com/]127.0.0.1
 [/rnhqxh.com/]127.0.0.1
+[/ro.com/]127.0.0.1
 [/roadsignads.com/]127.0.0.1
 [/rongdasoft.com/]127.0.0.1
 [/rs-xrys.com/]127.0.0.1
@@ -53575,10 +53583,11 @@
 [/shengyan985.com/]127.0.0.1
 [/shianxin.net/]127.0.0.1
 [/shibeiou.com/]127.0.0.1
-[/shidai.tv/]127.0.0.1
 [/shidianguji.com/]127.0.0.1
+[/shiritianchengtech.com/]127.0.0.1
 [/shoplazza.com/]127.0.0.1
 [/shoufaw.com/]127.0.0.1
+[/shoukala.com/]127.0.0.1
 [/shouyihuo.com/]127.0.0.1
 [/shouyoutan.com/]127.0.0.1
 [/shtutian.com/]127.0.0.1
@@ -53607,6 +53616,7 @@
 [/sjmao.net/]127.0.0.1
 [/sjmwsw.com/]127.0.0.1
 [/skpssz.com/]127.0.0.1
+[/skypixel.com/]127.0.0.1
 [/skyworthznxyj.com/]127.0.0.1
 [/sl916.com/]127.0.0.1
 [/slbauto.com/]127.0.0.1
@@ -56327,6 +56337,8 @@
 [/tapas.net/]127.0.0.1
 [/tapdb.com/]127.0.0.1
 [/tapdb.net/]127.0.0.1
+[/tapimg.net/]127.0.0.1
+[/taptap.io/]127.0.0.1
 [/tarqk5.com/]127.0.0.1
 [/taurentech.net/]127.0.0.1
 [/tddmp.com/]127.0.0.1
@@ -63641,6 +63653,7 @@
 [/xiwan.vip/]127.0.0.1
 [/xixiwg.com/]127.0.0.1
 [/xiyouence.com/]127.0.0.1
+[/xldlive.com/]127.0.0.1
 [/xlzcdn.com/]127.0.0.1
 [/xmchwl.com/]127.0.0.1
 [/xmeye.net/]127.0.0.1

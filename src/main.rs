@@ -1,9 +1,10 @@
 use std::collections::HashSet;
 use std::fs;
 use std::collections::HashMap;
+use std::time::Instant;
 use clap::{App, Arg};
 use futures::future::join_all;
-use reqwest;
+use surf::get;
 use warp::{http::Response, Filter, path::Tail};
 
 #[tokio::main]
@@ -71,13 +72,19 @@ async fn main() {
 }
 
 async fn get_domains(urls: Vec<&str>) -> HashSet<String> {
-    let clients = urls.into_iter().map(|url| reqwest::get(url));
+    let clients = urls.into_iter().map(|url| async move {
+        let start = Instant::now();
+        let response = get(url).await;
+        let duration = start.elapsed();
+        println!("download {} completed in {:.2?}", url, duration);
+        response
+    });
     let responses = join_all(clients).await;
     let mut domains = HashSet::new();
 
     for response in responses {
-        if let Ok(resp) = response {
-            if let Ok(text) = resp.text().await {
+        if let Ok(mut resp) = response {
+            if let Ok(text) = resp.body_string().await {
                 text.lines().for_each(|line| {
                     if !line.starts_with('#') {
                         if let Some(domain) = line.split_whitespace().next() {

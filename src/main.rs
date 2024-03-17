@@ -82,6 +82,8 @@ async fn get_domains(urls: Vec<&str>) -> HashSet<String> {
     });
     let responses = join_all(clients).await;
     let mut domains = HashSet::new();
+    domains.insert("cn".to_string());
+    domains.insert("lan".to_string());
     let domain_regex = Regex::new(r"([a-z0-9]+(-[a-z0-9]+)*\.)+[a-z]{2,}").unwrap();
 
     for response in responses {

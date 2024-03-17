@@ -6,6 +6,7 @@ use clap::{App, Arg};
 use futures::future::join_all;
 use surf::get;
 use warp::{http::Response, Filter, path::Tail};
+use regex::Regex;
 
 #[tokio::main]
 async fn main() {
@@ -81,21 +82,23 @@ async fn get_domains(urls: Vec<&str>) -> HashSet<String> {
     });
     let responses = join_all(clients).await;
     let mut domains = HashSet::new();
+    let domain_regex = Regex::new(r"([a-z0-9]+(-[a-z0-9]+)*\.)+[a-z]{2,}").unwrap();
 
     for response in responses {
         if let Ok(mut resp) = response {
             if let Ok(text) = resp.body_string().await {
                 text.lines().for_each(|line| {
-                    if !line.starts_with('#') {
-                        if let Some(domain) = line.split_whitespace().next() {
-                            domains.insert(domain.to_string());
+                    if !line.starts_with('#') && !line.trim().is_empty() {
+                        if let Some(capture) = domain_regex.captures(line) {
+                            if let Some(domain) = capture.get(0) {
+                                domains.insert(domain.as_str().to_string());
+                            }
                         }
                     }
                 });
             }
         }
     }
-
     domains
 }
 

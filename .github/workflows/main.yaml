@@ -30,10 +30,8 @@ jobs:
         with:
           command: build
           args: --release
-      - name: Run tests
-        uses: actions-rs/cargo@v1
-        with:
-          command: gfwlist2agh
+      - name: Run
+        run: ./target/release/gfwlist2agh
 
       # - name: Step 3 - Release GFWList2AGH
       #   run: |

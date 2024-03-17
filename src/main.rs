@@ -124,6 +124,8 @@ async fn write_files(domains: &HashSet<String>, local_dns: &str, remote_dns: &st
     domain_list.sort();
     let content = generate_content(domains, local_dns, remote_dns, false);
     fs::write(format!("{}/domains.txt", path), content).unwrap();
+    println!("write domains.txt success");
     let content_min = generate_content(domains, local_dns, remote_dns, true);
     fs::write(format!("{}/domains-min.txt", path), content_min).unwrap();
+    println!("write domains-min.txt success");
 }

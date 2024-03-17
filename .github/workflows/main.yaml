@@ -1,5 +1,3 @@
-# Current Version: 1.0.3
-
 name: Build & Release luckyyyyy/GFWList2AGH
 
 on:
@@ -13,23 +11,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3.1.0
-
-      - name: Set up Node.js 16
-        uses: actions/setup-node@v2
+      - uses: actions/checkout@v2
+      - name: Install Rust
+        uses: actions-rs/toolchain@v1
         with:
-          node-version: '16'
-
-      - name: Download
-        run: |
-            curl -s "https://raw.githubusercontent.com/luckyyyyy/GFWList2AGH/source/index.mjs" > index.mjs
-            curl -s "https://raw.githubusercontent.com/luckyyyyy/GFWList2AGH/source/package.json" > package.json
-
-      - name: Build GFWList2AGH
-        run: |
-            yarn install
-            yarn start
+          profile: minimal
+          toolchain: stable
+          override: true
+      - name: Build
+        uses: actions-rs/cargo@v1
+        with:
+          command: build
+          args: --release
+      - name: Run
+        run: ./target/release/gfwlist2agh
 
       - name: Step 3 - Release GFWList2AGH
         run: |

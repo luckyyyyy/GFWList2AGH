@@ -1,0 +1,11 @@
+[package]
+name = "gfwlist2agh"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+clap = "3.2"
+warp = "0.3"
+futures = "0.3"
+surf = "2.3.2"

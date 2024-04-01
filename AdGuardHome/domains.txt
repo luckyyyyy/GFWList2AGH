@@ -61196,7 +61196,6 @@
 [/testeb.com/]127.0.0.1
 [/testerhome.com/]127.0.0.1
 [/testerlife.com/]127.0.0.1
-[/testflight.apple.com/]127.0.0.1
 [/testict.com/]127.0.0.1
 [/testin.im/]127.0.0.1
 [/testingpai.com/]127.0.0.1

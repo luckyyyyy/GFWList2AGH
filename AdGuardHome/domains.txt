@@ -7949,7 +7949,6 @@
 [/acconsys.com/]127.0.0.1
 [/accopower.com/]127.0.0.1
 [/account.htcvive.com/]127.0.0.1
-[/accounts.xn/]127.0.0.1
 [/accsh.org/]127.0.0.1
 [/acctdns.com/]127.0.0.1
 [/acctdns.net/]127.0.0.1
@@ -11623,7 +11622,6 @@
 [/be-xx.com/]127.0.0.1
 [/be1775.com/]127.0.0.1
 [/be90.com/]127.0.0.1
-[/beacons-handoff.gcp.gvt2.com/]127.0.0.1
 [/beacons.gcp.gvt2.com/]127.0.0.1
 [/beacons.gvt2.com/]127.0.0.1
 [/beacons2.gvt2.com/]127.0.0.1
@@ -20565,6 +20563,7 @@
 [/dcdnx.com/]127.0.0.1
 [/dcement.com/]127.0.0.1
 [/dcetax.com/]127.0.0.1
+[/dcg.microsoft.com/]127.0.0.1
 [/dcgqt.com/]127.0.0.1
 [/dcgsi.com/]127.0.0.1
 [/dcic-china.com/]127.0.0.1
@@ -27026,7 +27025,6 @@
 [/gcok.com/]127.0.0.1
 [/gcoreinc.com/]127.0.0.1
 [/gcores.com/]127.0.0.1
-[/gcpnode.com/]127.0.0.1
 [/gcs66.com/]127.0.0.1
 [/gcstorage.com/]127.0.0.1
 [/gcsz.net/]127.0.0.1
@@ -63998,7 +63996,6 @@
 [/uostools.com/]127.0.0.1
 [/uouo123.com/]127.0.0.1
 [/uovz.com/]127.0.0.1
-[/up.corp.goog/]127.0.0.1
 [/up360.com/]127.0.0.1
 [/up4dev.com/]127.0.0.1
 [/up71.com/]127.0.0.1

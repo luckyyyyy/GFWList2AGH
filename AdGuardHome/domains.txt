@@ -14944,7 +14944,6 @@
 [/cdn.hkdtmb.com/]127.0.0.1
 [/cdn.jetbrains.com/]127.0.0.1
 [/cdn.marketplaceimages.windowsphone.com/]127.0.0.1
-[/cdn.razersynapse.com/]127.0.0.1
 [/cdn.samsung.com/]127.0.0.1
 [/cdn.shanghai.nyu.edu/]127.0.0.1
 [/cdn.zampdsp.com/]127.0.0.1

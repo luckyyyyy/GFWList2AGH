@@ -495,7 +495,6 @@
 [/0731cfw.com/]127.0.0.1
 [/0731fdc.com/]127.0.0.1
 [/0731i.com/]127.0.0.1
-[/0731jiaju.com/]127.0.0.1
 [/0731job.com/]127.0.0.1
 [/0731pgy.com/]127.0.0.1
 [/0731tg.com/]127.0.0.1
@@ -1745,7 +1744,6 @@
 [/17xxl.com/]127.0.0.1
 [/17ya.com/]127.0.0.1
 [/17yaoqu.com/]127.0.0.1
-[/17yc.com/]127.0.0.1
 [/17ym.org/]127.0.0.1
 [/17you.com/]127.0.0.1
 [/17yucai.com/]127.0.0.1
@@ -12051,7 +12049,6 @@
 [/bgxu.com/]127.0.0.1
 [/bgyfhyx.com/]127.0.0.1
 [/bgypsc.com/]127.0.0.1
-[/bh-hocom.com.tw/]127.0.0.1
 [/bh.sb/]127.0.0.1
 [/bh1t.com/]127.0.0.1
 [/bh3.com/]127.0.0.1
@@ -22138,7 +22135,6 @@
 [/dongua.com/]127.0.0.1
 [/dongwm.com/]127.0.0.1
 [/dongxi.net/]127.0.0.1
-[/dongxicha.com/]127.0.0.1
 [/dongxingkonggu.com/]127.0.0.1
 [/dongxuyitai.com/]127.0.0.1
 [/dongyaods.com/]127.0.0.1
@@ -35313,7 +35309,6 @@
 [/images-cache.com/]127.0.0.1
 [/images-cn-8.ssl-images-amazon.com/]127.0.0.1
 [/images-cn.ssl-images-amazon.com/]127.0.0.1
-[/images-huoshan.com/]127.0.0.1
 [/images.apple.com/]127.0.0.1
 [/images.apple.com.akadns.net/]127.0.0.1
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]127.0.0.1
@@ -43727,7 +43722,6 @@
 [/loubobooo.com/]127.0.0.1
 [/louding.com/]127.0.0.1
 [/louge.ltd/]127.0.0.1
-[/louguazi.com/]127.0.0.1
 [/louislivi.com/]127.0.0.1
 [/loukee.com/]127.0.0.1
 [/loukky.com/]127.0.0.1
@@ -45888,7 +45882,6 @@
 [/mibokids.com/]127.0.0.1
 [/mibugs.com/]127.0.0.1
 [/mic-s.com/]127.0.0.1
-[/micad.org/]127.0.0.1
 [/micai.com/]127.0.0.1
 [/micai315.com/]127.0.0.1
 [/micaihu.net/]127.0.0.1
@@ -46708,7 +46701,6 @@
 [/molerose.com/]127.0.0.1
 [/molesdn.com/]127.0.0.1
 [/molibaike.com/]127.0.0.1
-[/molibiancheng.com/]127.0.0.1
 [/molie.com/]127.0.0.1
 [/molihe.cc/]127.0.0.1
 [/molihua.net/]127.0.0.1
@@ -48844,7 +48836,6 @@
 [/nq6.com/]127.0.0.1
 [/nqiief.com/]127.0.0.1
 [/nqmoui.com/]127.0.0.1
-[/nqvxwikn87h.com/]127.0.0.1
 [/nr-esc.com/]127.0.0.1
 [/nrct.net/]127.0.0.1
 [/nrdzqwd.com/]127.0.0.1
@@ -49086,7 +49077,6 @@
 [/nyxr-home.com/]127.0.0.1
 [/nyxx365.com/]127.0.0.1
 [/nyxz166.com/]127.0.0.1
-[/nyyuze.com/]127.0.0.1
 [/nyzdjj.com/]127.0.0.1
 [/nyzy.com/]127.0.0.1
 [/nz86.com/]127.0.0.1
@@ -59508,7 +59498,6 @@
 [/sturmdcp.com/]127.0.0.1
 [/stutimes.com/]127.0.0.1
 [/stvgame.com/]127.0.0.1
-[/stw77.com/]127.0.0.1
 [/stweiwang.com/]127.0.0.1
 [/stxsw.com/]127.0.0.1
 [/stxsw.org/]127.0.0.1
@@ -66446,7 +66435,6 @@
 [/weilt.net/]127.0.0.1
 [/weimai.com/]127.0.0.1
 [/weimaqi.net/]127.0.0.1
-[/weimeiba.com/]127.0.0.1
 [/weimeifan.net/]127.0.0.1
 [/weimeigu.net/]127.0.0.1
 [/weimen.hu/]127.0.0.1
@@ -66588,7 +66576,6 @@
 [/weiyes.com/]127.0.0.1
 [/weiyi.com/]127.0.0.1
 [/weiyi.link/]127.0.0.1
-[/weiyianws.com/]127.0.0.1
 [/weiyichina.org/]127.0.0.1
 [/weiyiqibj.com/]127.0.0.1
 [/weiyitec.com/]127.0.0.1
@@ -73761,7 +73748,6 @@
 [/youshop04.com/]127.0.0.1
 [/youshop10.com/]127.0.0.1
 [/youshu.cc/]127.0.0.1
-[/youshuba.cc/]127.0.0.1
 [/youshuge.com/]127.0.0.1
 [/yousuu.com/]127.0.0.1
 [/youtaidoors.com/]127.0.0.1
@@ -78345,7 +78331,6 @@
 [/zzlirui.com/]127.0.0.1
 [/zzlive.zzc-media.com/]127.0.0.1
 [/zzllq.com/]127.0.0.1
-[/zzloop.com/]127.0.0.1
 [/zzmama.net/]127.0.0.1
 [/zzmetro.com/]127.0.0.1
 [/zzmscg.com/]127.0.0.1

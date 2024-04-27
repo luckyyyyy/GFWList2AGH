@@ -4167,6 +4167,7 @@
 [/51ejz.com/]127.0.0.1
 [/51ekt.com/]127.0.0.1
 [/51ele.net/]127.0.0.1
+[/51emin.com/]127.0.0.1
 [/51emo.com/]127.0.0.1
 [/51en.com/]127.0.0.1
 [/51epei.com/]127.0.0.1
@@ -42640,6 +42641,8 @@
 [/lhl.zone/]127.0.0.1
 [/lhl7.com/]127.0.0.1
 [/lhmp.cc/]127.0.0.1
+[/lhp-cdn-game.online/]127.0.0.1
+[/lhp-cdn-update.online/]127.0.0.1
 [/lhrbszb.com/]127.0.0.1
 [/lhs-arts.org/]127.0.0.1
 [/lhs11.com/]127.0.0.1
@@ -47516,6 +47519,7 @@
 [/mxchip.com/]127.0.0.1
 [/mxddp.com/]127.0.0.1
 [/mxde.com/]127.0.0.1
+[/mxdjzj.com/]127.0.0.1
 [/mxeosbvt.com/]127.0.0.1
 [/mxew.com/]127.0.0.1
 [/mxguan.com/]127.0.0.1
@@ -49654,6 +49658,7 @@
 [/ol-img.com/]127.0.0.1
 [/olabo.net/]127.0.0.1
 [/olacio.com/]127.0.0.1
+[/olakeji.com/]127.0.0.1
 [/olami.ai/]127.0.0.1
 [/olatop.com/]127.0.0.1
 [/olatop.net/]127.0.0.1
@@ -51298,7 +51303,6 @@
 [/pipikou.com/]127.0.0.1
 [/pipikun.com/]127.0.0.1
 [/pipimp3.com/]127.0.0.1
-[/pipipan.com/]127.0.0.1
 [/pipipi.net/]127.0.0.1
 [/pipipifa.com/]127.0.0.1
 [/pipiti.com/]127.0.0.1
@@ -52642,6 +52646,7 @@
 [/qianzhengdaiban.com/]127.0.0.1
 [/qianzhengziliao.com/]127.0.0.1
 [/qianzhu8.com/]127.0.0.1
+[/qianzhuvisa.com/]127.0.0.1
 [/qiao-cn.com/]127.0.0.1
 [/qiao88.com/]127.0.0.1
 [/qiaobo.net/]127.0.0.1
@@ -55131,7 +55136,6 @@
 [/ruibai.com/]127.0.0.1
 [/ruiccm.com/]127.0.0.1
 [/ruichengmedia.com/]127.0.0.1
-[/ruichuangfagao.com/]127.0.0.1
 [/ruicitijian.com/]127.0.0.1
 [/ruida.org/]127.0.0.1
 [/ruidaedu.com/]127.0.0.1
@@ -57526,6 +57530,7 @@
 [/shougongke.net/]127.0.0.1
 [/shougoumingbiao.com/]127.0.0.1
 [/shouhoubang.com/]127.0.0.1
+[/shouhui.com/]127.0.0.1
 [/shouhuisoft.com/]127.0.0.1
 [/shouji.com/]127.0.0.1
 [/shouji10086.com/]127.0.0.1
@@ -65898,6 +65903,7 @@
 [/wabcw.info/]127.0.0.1
 [/wabuw.com/]127.0.0.1
 [/wacai.com/]127.0.0.1
+[/wacai365.com/]127.0.0.1
 [/wacaijizhang.com/]127.0.0.1
 [/wacaiyun.com/]127.0.0.1
 [/wacaoren.net/]127.0.0.1
@@ -76889,6 +76895,7 @@
 [/zhonghuawuxia.com/]127.0.0.1
 [/zhonghuaying.com/]127.0.0.1
 [/zhongjiangapp.com/]127.0.0.1
+[/zhongjiaochuxing.com/]127.0.0.1
 [/zhongjie.com/]127.0.0.1
 [/zhongjijidian.com/]127.0.0.1
 [/zhongjincc.com/]127.0.0.1

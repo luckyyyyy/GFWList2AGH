@@ -50616,7 +50616,6 @@
 [/pangniao.net/]127.0.0.1
 [/pangod.com/]127.0.0.1
 [/pangoing.com/]127.0.0.1
-[/pangolin-dsp-toutiao-b.com/]127.0.0.1
 [/pangolin-dsp-toutiao.com/]127.0.0.1
 [/pangolin-sdk-toutiao-b.com/]127.0.0.1
 [/pangolin-sdk-toutiao.com/]127.0.0.1
@@ -50642,8 +50641,6 @@
 [/panpanr.com/]127.0.0.1
 [/panpanzsw.com/]127.0.0.1
 [/panpay.com/]127.0.0.1
-[/panplayable-toutiao-b.com/]127.0.0.1
-[/panplayable-toutiao.com/]127.0.0.1
 [/panqibao.com/]127.0.0.1
 [/panshi101.com/]127.0.0.1
 [/panshianquan.com/]127.0.0.1

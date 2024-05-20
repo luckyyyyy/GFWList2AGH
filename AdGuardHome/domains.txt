@@ -5751,7 +5751,6 @@
 [/67gu.com/]127.0.0.1
 [/67it.com/]127.0.0.1
 [/67joy.com/]127.0.0.1
-[/67ks.net/]127.0.0.1
 [/67mo.com/]127.0.0.1
 [/67omd71.com/]127.0.0.1
 [/67wanwan.com/]127.0.0.1
@@ -7575,7 +7574,6 @@
 [/99mk.net/]127.0.0.1
 [/99mst.com/]127.0.0.1
 [/99music.net/]127.0.0.1
-[/99niu.com/]127.0.0.1
 [/99pdf.com/]127.0.0.1
 [/99ppt.com/]127.0.0.1
 [/99pto.com/]127.0.0.1
@@ -13594,7 +13592,6 @@
 [/btsemi.com/]127.0.0.1
 [/btshidai.com/]127.0.0.1
 [/btsmth.com/]127.0.0.1
-[/btsmth.org/]127.0.0.1
 [/btspreads.com/]127.0.0.1
 [/btsteel.com/]127.0.0.1
 [/btten.com/]127.0.0.1
@@ -52062,7 +52059,6 @@
 [/ptsql.org/]127.0.0.1
 [/ptteng.com/]127.0.0.1
 [/ptweixin.com/]127.0.0.1
-[/ptx4896.com/]127.0.0.1
 [/ptxie.com/]127.0.0.1
 [/ptxz.com/]127.0.0.1
 [/ptyg.com/]127.0.0.1
@@ -54341,7 +54337,6 @@
 [/ray8.cc/]127.0.0.1
 [/rayalto.pro/]127.0.0.1
 [/raychase.net/]127.0.0.1
-[/raychien.site/]127.0.0.1
 [/raycom-inv.com/]127.0.0.1
 [/raycuslaser.com/]127.0.0.1
 [/raydonet.com/]127.0.0.1
@@ -69481,7 +69476,6 @@
 [/xcmh.cc/]127.0.0.1
 [/xcmwqdvc.com/]127.0.0.1
 [/xcn457.com/]127.0.0.1
-[/xcname.com/]127.0.0.1
 [/xcnchinese.com/]127.0.0.1
 [/xcnic.net/]127.0.0.1
 [/xcode.me/]127.0.0.1
@@ -70548,7 +70542,6 @@
 [/xindemarinenews.com/]127.0.0.1
 [/xindetihuiya.com/]127.0.0.1
 [/xindexuexi.com/]127.0.0.1
-[/xindi02.site/]127.0.0.1
 [/xindianti.com/]127.0.0.1
 [/xindingwealth.com/]127.0.0.1
 [/xindns.com/]127.0.0.1
@@ -75738,7 +75731,6 @@
 [/z0.cc/]127.0.0.1
 [/z01.com/]127.0.0.1
 [/z0ukun.com/]127.0.0.1
-[/z1233.com/]127.0.0.1
 [/z12345.com/]127.0.0.1
 [/z17.link/]127.0.0.1
 [/z211.top/]127.0.0.1
@@ -75876,7 +75868,6 @@
 [/zb-kc.com/]127.0.0.1
 [/zb-live.ynurl.com/]127.0.0.1
 [/zb.dehua.tv/]127.0.0.1
-[/zb.hezegd.com/]127.0.0.1
 [/zb.pzhgd.com/]127.0.0.1
 [/zb1.org/]127.0.0.1
 [/zb580.tv/]127.0.0.1

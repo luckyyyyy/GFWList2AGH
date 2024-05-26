@@ -3370,7 +3370,6 @@
 [/389j.com/]127.0.0.1
 [/38blog.com/]127.0.0.1
 [/38ejed.com/]127.0.0.1
-[/38fan.com/]127.0.0.1
 [/38hack.com/]127.0.0.1
 [/38hot.net/]127.0.0.1
 [/38hp.com/]127.0.0.1
@@ -8166,6 +8165,7 @@
 [/adongyu.com/]127.0.0.1
 [/adoregeek.com/]127.0.0.1
 [/adoutu.com/]127.0.0.1
+[/adparticle.com/]127.0.0.1
 [/adpchina.com/]127.0.0.1
 [/adplusx.com/]127.0.0.1
 [/adpolestar.net/]127.0.0.1
@@ -12370,6 +12370,7 @@
 [/binglai.net/]127.0.0.1
 [/binglanggu.com/]127.0.0.1
 [/binglianhuajianzhan.com/]127.0.0.1
+[/bingliekeji.com/]127.0.0.1
 [/binglingtech.com/]127.0.0.1
 [/binglixue.com/]127.0.0.1
 [/bingo321.com/]127.0.0.1
@@ -23794,6 +23795,7 @@
 [/efangwang.com/]127.0.0.1
 [/efapiao.com/]127.0.0.1
 [/efashionchina.com/]127.0.0.1
+[/efashioncloud.com/]127.0.0.1
 [/efe.cc/]127.0.0.1
 [/efeihu.com/]127.0.0.1
 [/efengji.org/]127.0.0.1
@@ -24586,6 +24588,7 @@
 [/ew-wirestripping.com/]127.0.0.1
 [/ew52.com/]127.0.0.1
 [/ew80.com/]127.0.0.1
+[/ew80.net/]127.0.0.1
 [/ew80yun.com/]127.0.0.1
 [/ew9z.com/]127.0.0.1
 [/ewaga.com/]127.0.0.1
@@ -27554,6 +27557,7 @@
 [/gengleyuan.com/]127.0.0.1
 [/gengnie.com/]127.0.0.1
 [/gengsan.com/]127.0.0.1
+[/gengshangpin.com/]127.0.0.1
 [/gengzhongbang.com/]127.0.0.1
 [/geni4s.com/]127.0.0.1
 [/genial.vip/]127.0.0.1
@@ -42035,7 +42039,6 @@
 [/lanzouy.com/]127.0.0.1
 [/lanzov.com/]127.0.0.1
 [/lanzun.net/]127.0.0.1
-[/lanzv.com/]127.0.0.1
 [/laobaigan-hs.com/]127.0.0.1
 [/laobandq.com/]127.0.0.1
 [/laobanfa.com/]127.0.0.1
@@ -43846,6 +43849,7 @@
 [/lnfssy.com/]127.0.0.1
 [/lnfzb.com/]127.0.0.1
 [/lngche.com/]127.0.0.1
+[/lnglwl.com/]127.0.0.1
 [/lngqt.com/]127.0.0.1
 [/lnhygy.com/]127.0.0.1
 [/lnicc-dl.com/]127.0.0.1
@@ -58085,6 +58089,7 @@
 [/shuoshuokong.com/]127.0.0.1
 [/shuoshuokong.org/]127.0.0.1
 [/shuowan.com/]127.0.0.1
+[/shupackaging.com/]127.0.0.1
 [/shupaiyun.com/]127.0.0.1
 [/shuq.net/]127.0.0.1
 [/shuqi.com/]127.0.0.1
@@ -63772,7 +63777,6 @@
 [/tugou.com/]127.0.0.1
 [/tugoucx.com/]127.0.0.1
 [/tuguaishou.com/]127.0.0.1
-[/tuhaihe.com/]127.0.0.1
 [/tuhaokuai.com/]127.0.0.1
 [/tuhu.com/]127.0.0.1
 [/tuhu.org/]127.0.0.1
@@ -64955,6 +64959,7 @@
 [/ushaqi.com/]127.0.0.1
 [/ushendu.com/]127.0.0.1
 [/ushengame.com/]127.0.0.1
+[/ushknews.com/]127.0.0.1
 [/usidt.com/]127.0.0.1
 [/using.club/]127.0.0.1
 [/usingde.com/]127.0.0.1
@@ -64991,6 +64996,7 @@
 [/utfinancing.com/]127.0.0.1
 [/utgd.net/]127.0.0.1
 [/uthinks.com/]127.0.0.1
+[/utofairy.com/]127.0.0.1
 [/utogame.com/]127.0.0.1
 [/utom.design/]127.0.0.1
 [/utoper.com/]127.0.0.1
@@ -74555,6 +74561,7 @@
 [/youzikuaibao.com/]127.0.0.1
 [/youziyundns.com/]127.0.0.1
 [/youzu.com/]127.0.0.1
+[/youzuanmy.vip/]127.0.0.1
 [/yovisun.com/]127.0.0.1
 [/yovocloud.com/]127.0.0.1
 [/yovole.com/]127.0.0.1
@@ -77928,7 +77935,6 @@
 [/zjptcc.com/]127.0.0.1
 [/zjpubservice.com/]127.0.0.1
 [/zjqbj.com/]127.0.0.1
-[/zjqcwx.com/]127.0.0.1
 [/zjqichuang.com/]127.0.0.1
 [/zjrc.com/]127.0.0.1
 [/zjrc.net/]127.0.0.1

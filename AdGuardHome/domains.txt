@@ -1145,7 +1145,6 @@
 [/125job.com/]127.0.0.1
 [/125mx.com/]127.0.0.1
 [/125school.com/]127.0.0.1
-[/125uu.com/]127.0.0.1
 [/125visa.com/]127.0.0.1
 [/125y.com/]127.0.0.1
 [/125yan.com/]127.0.0.1
@@ -1163,7 +1162,6 @@
 [/127.com/]127.0.0.1
 [/127.net/]127.0.0.1
 [/1278721.com/]127.0.0.1
-[/12799.com/]127.0.0.1
 [/127cdn.com/]127.0.0.1
 [/127xx.com/]127.0.0.1
 [/127z.com/]127.0.0.1
@@ -2594,6 +2592,7 @@
 [/2dfire.com/]127.0.0.1
 [/2dfire.info/]127.0.0.1
 [/2dior.com/]127.0.0.1
+[/2dmaker.com/]127.0.0.1
 [/2dph.com/]127.0.0.1
 [/2du.net/]127.0.0.1
 [/2dyou.com/]127.0.0.1
@@ -3718,6 +3717,7 @@
 [/436675.com/]127.0.0.1
 [/4366aa.com/]127.0.0.1
 [/4366ga.com/]127.0.0.1
+[/4366game.com/]127.0.0.1
 [/4366pk.com/]127.0.0.1
 [/4377.com/]127.0.0.1
 [/437zhifu.com/]127.0.0.1
@@ -4992,7 +4992,6 @@
 [/558idc.com/]127.0.0.1
 [/55935.vip/]127.0.0.1
 [/5599.com/]127.0.0.1
-[/55azt.com/]127.0.0.1
 [/55bbs.com/]127.0.0.1
 [/55dai.com/]127.0.0.1
 [/55dian.com/]127.0.0.1
@@ -7496,8 +7495,10 @@
 [/9966886699.com/]127.0.0.1
 [/9966w.com/]127.0.0.1
 [/996a.com/]127.0.0.1
+[/996box.com/]127.0.0.1
 [/996dns.com/]127.0.0.1
 [/996pic.com/]127.0.0.1
+[/996sdk.com/]127.0.0.1
 [/9973.com/]127.0.0.1
 [/997788.com/]127.0.0.1
 [/998.com/]127.0.0.1
@@ -8365,7 +8366,6 @@
 [/ahc.ink/]127.0.0.1
 [/ahcaijing.com/]127.0.0.1
 [/ahcaw.com/]127.0.0.1
-[/ahchuangyebang.com/]127.0.0.1
 [/ahcjhjj.com/]127.0.0.1
 [/ahcnb.com/]127.0.0.1
 [/ahcyfc.com/]127.0.0.1
@@ -15667,7 +15667,6 @@
 [/chaokaixin.net/]127.0.0.1
 [/chaolady.com/]127.0.0.1
 [/chaolean.com/]127.0.0.1
-[/chaolen.com/]127.0.0.1
 [/chaoliangkj.com/]127.0.0.1
 [/chaoliuguan.com/]127.0.0.1
 [/chaolongbus.com/]127.0.0.1
@@ -20029,7 +20028,6 @@
 [/d11a.com/]127.0.0.1
 [/d163.net/]127.0.0.1
 [/d17.cc/]127.0.0.1
-[/d1999.com/]127.0.0.1
 [/d1cm.com/]127.0.0.1
 [/d1com.com/]127.0.0.1
 [/d1dengju.com/]127.0.0.1
@@ -22064,7 +22062,6 @@
 [/docsou.com/]127.0.0.1
 [/doctor-network.com/]127.0.0.1
 [/doctorcom.com/]127.0.0.1
-[/doctormnq.com/]127.0.0.1
 [/doctorscrap.com/]127.0.0.1
 [/doctorxiong.club/]127.0.0.1
 [/doctoryou.ai/]127.0.0.1
@@ -31362,6 +31359,7 @@
 [/hechangquan.com/]127.0.0.1
 [/hechengbb.com/]127.0.0.1
 [/hechuangxinxi.xyz/]127.0.0.1
+[/hechuann.com/]127.0.0.1
 [/heclife.com/]127.0.0.1
 [/heclouds.com/]127.0.0.1
 [/hecoe.com/]127.0.0.1
@@ -33770,6 +33768,7 @@
 [/huiyuandao.com/]127.0.0.1
 [/huiyuanyy.com/]127.0.0.1
 [/huiyucn.com/]127.0.0.1
+[/huiyuehz.com/]127.0.0.1
 [/huiyumedia.com/]127.0.0.1
 [/huiyutools.com/]127.0.0.1
 [/huize.com/]127.0.0.1
@@ -34369,6 +34368,7 @@
 [/hzjmjl.com/]127.0.0.1
 [/hzjqhy.com/]127.0.0.1
 [/hzjunglepay.com/]127.0.0.1
+[/hzjywl.net/]127.0.0.1
 [/hzkayo.com/]127.0.0.1
 [/hzkshx.com/]127.0.0.1
 [/hzkuangxiangzi.com/]127.0.0.1
@@ -39586,7 +39586,6 @@
 [/juxia.com/]127.0.0.1
 [/juxieyun.com/]127.0.0.1
 [/juxin.tv/]127.0.0.1
-[/juxinfu.com/]127.0.0.1
 [/juxing-edu.com/]127.0.0.1
 [/juxinhuizhi.com/]127.0.0.1
 [/juxizhineng.com/]127.0.0.1
@@ -41711,7 +41710,6 @@
 [/kzt.cc/]127.0.0.1
 [/kztpms.com/]127.0.0.1
 [/kzwr.com/]127.0.0.1
-[/kzynews.com/]127.0.0.1
 [/kzyzz.com/]127.0.0.1
 [/l-kingmall.com/]127.0.0.1
 [/l-zb.com/]127.0.0.1
@@ -44411,7 +44409,6 @@
 [/ludu319.com/]127.0.0.1
 [/lueasygi.com/]127.0.0.1
 [/luedian.com/]127.0.0.1
-[/luexiao.com/]127.0.0.1
 [/luexpo.com/]127.0.0.1
 [/lueyue.com/]127.0.0.1
 [/luezhi.com/]127.0.0.1
@@ -46438,6 +46435,7 @@
 [/mijia.tech/]127.0.0.1
 [/mijian360.com/]127.0.0.1
 [/mijiannet.com/]127.0.0.1
+[/mijiayou.com/]127.0.0.1
 [/mijiayoupin.com/]127.0.0.1
 [/mijisou.com/]127.0.0.1
 [/mijwed.com/]127.0.0.1
@@ -53769,7 +53767,6 @@
 [/qtdebug.com/]127.0.0.1
 [/qtdream.com/]127.0.0.1
 [/qter.org/]127.0.0.1
-[/qthmedia.com/]127.0.0.1
 [/qthnews.com/]127.0.0.1
 [/qtkgf.com/]127.0.0.1
 [/qtkj.love/]127.0.0.1
@@ -54207,6 +54204,7 @@
 [/qysd.net/]127.0.0.1
 [/qysgf.com/]127.0.0.1
 [/qysport.com/]127.0.0.1
+[/qyssgame.com/]127.0.0.1
 [/qysuliao.com/]127.0.0.1
 [/qyszyyy.com/]127.0.0.1
 [/qyt.com/]127.0.0.1
@@ -58601,7 +58599,6 @@
 [/sjfzxm.com/]127.0.0.1
 [/sjgh94.com/]127.0.0.1
 [/sjgle.com/]127.0.0.1
-[/sjgnskf.com/]127.0.0.1
 [/sjhcip.com/]127.0.0.1
 [/sjhfkhgut009.com/]127.0.0.1
 [/sjhfrj.com/]127.0.0.1
@@ -59008,7 +59005,6 @@
 [/snapplay.com/]127.0.0.1
 [/snappmaps.ir/]127.0.0.1
 [/snbkf34.com/]127.0.0.1
-[/sncdental.com/]127.0.0.1
 [/sncoda.com/]127.0.0.1
 [/snd-yy.com/]127.0.0.1
 [/sndhr.com/]127.0.0.1
@@ -60619,7 +60615,6 @@
 [/sxldns.com/]127.0.0.1
 [/sxls.com/]127.0.0.1
 [/sxmaps.com/]127.0.0.1
-[/sxmtdz.com/]127.0.0.1
 [/sxmxwh.com/]127.0.0.1
 [/sxmyh.com/]127.0.0.1
 [/sxncb.com/]127.0.0.1
@@ -62797,6 +62792,7 @@
 [/tk163.com/]127.0.0.1
 [/tk233.xyz/]127.0.0.1
 [/tk315.com/]127.0.0.1
+[/tkas2019.com/]127.0.0.1
 [/tkckjr.com/]127.0.0.1
 [/tkcn.cc/]127.0.0.1
 [/tkgame.com/]127.0.0.1
@@ -68324,7 +68320,6 @@
 [/wodescw.com/]127.0.0.1
 [/wodeshebao.com/]127.0.0.1
 [/wodeyt.com/]127.0.0.1
-[/wodiancan.net/]127.0.0.1
 [/wodidashi.com/]127.0.0.1
 [/wodingche.com/]127.0.0.1
 [/wodingwang.com/]127.0.0.1
@@ -69433,7 +69428,6 @@
 [/xajjn.com/]127.0.0.1
 [/xajjwy.com/]127.0.0.1
 [/xajob.com/]127.0.0.1
-[/xajr.com/]127.0.0.1
 [/xajxcw.com/]127.0.0.1
 [/xakrlab.com/]127.0.0.1
 [/xalanq.com/]127.0.0.1
@@ -69769,7 +69763,6 @@
 [/xflimg.com/]127.0.0.1
 [/xfliusheng.com/]127.0.0.1
 [/xflstatic.com/]127.0.0.1
-[/xfmtcn.com/]127.0.0.1
 [/xfnano.com/]127.0.0.1
 [/xfocus.net/]127.0.0.1
 [/xfocus.org/]127.0.0.1
@@ -70063,7 +70056,6 @@
 [/xiao-an.com/]127.0.0.1
 [/xiao-bo.com/]127.0.0.1
 [/xiao-new.com/]127.0.0.1
-[/xiao.lu/]127.0.0.1
 [/xiao100.com/]127.0.0.1
 [/xiao2she.com/]127.0.0.1
 [/xiao84.com/]127.0.0.1
@@ -71537,6 +71529,7 @@
 [/xqckg.com/]127.0.0.1
 [/xqfunds.com/]127.0.0.1
 [/xqgmx.com/]127.0.0.1
+[/xqhuyu.com/]127.0.0.1
 [/xqipu.com/]127.0.0.1
 [/xqishuta.com/]127.0.0.1
 [/xqiushu.com/]127.0.0.1
@@ -73969,6 +73962,7 @@
 [/ymtnet.com/]127.0.0.1
 [/ymuuy.com/]127.0.0.1
 [/ymvkt.com/]127.0.0.1
+[/ymwl.net/]127.0.0.1
 [/ymxinke.com/]127.0.0.1
 [/ymxinxi.com/]127.0.0.1
 [/ymxlass.com/]127.0.0.1
@@ -74994,7 +74988,6 @@
 [/yuexiang.fun/]127.0.0.1
 [/yuexiangpin.com/]127.0.0.1
 [/yuexing.com/]127.0.0.1
-[/yuexingfurniture.com/]127.0.0.1
 [/yuexinli.com/]127.0.0.1
 [/yuexirc.com/]127.0.0.1
 [/yuexiu.com/]127.0.0.1
@@ -75204,6 +75197,7 @@
 [/yunhaiqiao.com/]127.0.0.1
 [/yunhaoka.com/]127.0.0.1
 [/yunhedata.com/]127.0.0.1
+[/yunhehudong.com/]127.0.0.1
 [/yunheit.com/]127.0.0.1
 [/yunhesanwan.com/]127.0.0.1
 [/yunhetong.com/]127.0.0.1
@@ -77934,7 +77928,6 @@
 [/zjpost.com/]127.0.0.1
 [/zjptcc.com/]127.0.0.1
 [/zjpubservice.com/]127.0.0.1
-[/zjqbj.com/]127.0.0.1
 [/zjqichuang.com/]127.0.0.1
 [/zjrc.com/]127.0.0.1
 [/zjrc.net/]127.0.0.1

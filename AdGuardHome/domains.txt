@@ -11505,6 +11505,7 @@
 [/baidu123.com/]127.0.0.1
 [/baidu521.com/]127.0.0.1
 [/baiduads.com/]127.0.0.1
+[/baiduapp.com/]127.0.0.1
 [/baidubaidubaidu.com/]127.0.0.1
 [/baidubaidubaidu.net/]127.0.0.1
 [/baidubce.com/]127.0.0.1
@@ -24270,8 +24271,10 @@
 [/duwenz.com/]127.0.0.1
 [/duwenzhang.com/]127.0.0.1
 [/duxiaomai.net/]127.0.0.1
+[/duxiaoman-int.com/]127.0.0.1
 [/duxiaoman.com/]127.0.0.1
 [/duxiaomanfintech.com/]127.0.0.1
+[/duxiaomantech.com/]127.0.0.1
 [/duxiaoshuo.com/]127.0.0.1
 [/duxiu.com/]127.0.0.1
 [/duxuetang.com/]127.0.0.1
@@ -24354,10 +24357,15 @@
 [/dxjh.net/]127.0.0.1
 [/dxjs.com/]127.0.0.1
 [/dxlfile.com/]127.0.0.1
+[/dxm-cdn.com/]127.0.0.1
+[/dxm-int.com/]127.0.0.1
 [/dxm-yibai.com/]127.0.0.1
 [/dxmjinr.com/]127.0.0.1
+[/dxmlcf.com/]127.0.0.1
+[/dxmlcfintech.com/]127.0.0.1
 [/dxmpay.com/]127.0.0.1
 [/dxmstatic.com/]127.0.0.1
+[/dxmyqh.com/]127.0.0.1
 [/dxnky.com/]127.0.0.1
 [/dxpmedia.com/]127.0.0.1
 [/dxqyy.com/]127.0.0.1
@@ -41968,6 +41976,7 @@
 [/juejinqifu.com/]127.0.0.1
 [/juemei.com/]127.0.0.1
 [/juemuren4449.com/]127.0.0.1
+[/juequling.com/]127.0.0.1
 [/juesheng.com/]127.0.0.1
 [/juewei.com/]127.0.0.1
 [/juexiang.com/]127.0.0.1
@@ -67105,6 +67114,8 @@
 [/timchen314.com/]127.0.0.1
 [/time-weekly.com/]127.0.0.1
 [/time-year.com/]127.0.0.1
+[/time.izatcloud.net/]127.0.0.1
+[/time.xtracloud.net/]127.0.0.1
 [/timecoo.com/]127.0.0.1
 [/timedg.com/]127.0.0.1
 [/timedoo.com/]127.0.0.1

@@ -51028,7 +51028,6 @@
 [/live.yjtvw.com/]127.0.0.1
 [/live.ylwltv.com/]127.0.0.1
 [/live.ynurl.com/]127.0.0.1
-[/live.yqrtv.com/]127.0.0.1
 [/live.zhihuizq.com/]127.0.0.1
 [/live.zjmc.tv/]127.0.0.1
 [/live.zmmek.com/]127.0.0.1
@@ -52677,12 +52676,6 @@
 [/m3u8.smchannel.yatv.tv/]127.0.0.1
 [/m3u8.ycchannel.yatv.tv/]127.0.0.1
 [/m3u8.yjchannel.yatv.tv/]127.0.0.1
-[/m3u8channel-bx.wuxianyaan.com/]127.0.0.1
-[/m3u8channel-ms.wuxianyaan.com/]127.0.0.1
-[/m3u8channel-sm.wuxianyaan.com/]127.0.0.1
-[/m3u8channel-yc.wuxianyaan.com/]127.0.0.1
-[/m3u8channel-yj.wuxianyaan.com/]127.0.0.1
-[/m3u8channel.wuxianyaan.com/]127.0.0.1
 [/m448.com/]127.0.0.1
 [/m4pgay.com/]127.0.0.1
 [/m4vmsozi62ifz.com/]127.0.0.1
@@ -60192,12 +60185,6 @@
 [/pilaipiwang.com/]127.0.0.1
 [/pili-live-hdl.hsyapp.sobeylingyun.com/]127.0.0.1
 [/pili-live-hls-qhnqapp2020.sobeylive.com/]127.0.0.1
-[/pili-live-hls.140.i2863.com/]127.0.0.1
-[/pili-live-hls.171.i2863.com/]127.0.0.1
-[/pili-live-hls.212.i2863.com/]127.0.0.1
-[/pili-live-hls.217.i2863.com/]127.0.0.1
-[/pili-live-hls.221.i2863.com/]127.0.0.1
-[/pili-live-hls.66.i2863.com/]127.0.0.1
 [/pili-live-hls.cyyapp2019.sobeylive.com/]127.0.0.1
 [/pili-live-hls.guangde.ahxmgk.com/]127.0.0.1
 [/pili-live-hls.hebitv.com/]127.0.0.1
@@ -60208,11 +60195,6 @@
 [/pili-live-hls.nmgapp12019.sobeylive.com/]127.0.0.1
 [/pili-live-hls.ybcxjd.com/]127.0.0.1
 [/pili-live-hls.yldst.sobeylive.com/]127.0.0.1
-[/pili-live-rtmp.143.i2863.com/]127.0.0.1
-[/pili-live-rtmp.207.i2863.com/]127.0.0.1
-[/pili-live-rtmp.210.i2863.com/]127.0.0.1
-[/pili-live-rtmp.212.i2863.com/]127.0.0.1
-[/pili-live-rtmp.56.i2863.com/]127.0.0.1
 [/pili-live-rtmp.luan2.hfmt.net/]127.0.0.1
 [/pili-live-rtmp.scmxtv.com/]127.0.0.1
 [/pili-live-rtmp.tvliving.gdmztv.com/]127.0.0.1
@@ -65616,7 +65598,6 @@
 [/sc-tianyu.com/]127.0.0.1
 [/sc-xngs.com/]127.0.0.1
 [/sc.gg/]127.0.0.1
-[/sc.rrs.169ol.com/]127.0.0.1
 [/sc115.com/]127.0.0.1
 [/sc119.cc/]127.0.0.1
 [/sc157.com/]127.0.0.1

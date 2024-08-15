@@ -4397,6 +4397,7 @@
 [/51caocao.net/]127.0.0.1
 [/51ccd.com/]127.0.0.1
 [/51ccdn.com/]127.0.0.1
+[/51cck.com/]127.0.0.1
 [/51ccn.com/]127.0.0.1
 [/51cdn.com/]127.0.0.1
 [/51cdngo.com/]127.0.0.1
@@ -5309,6 +5310,7 @@
 [/54seaman.com/]127.0.0.1
 [/54sh.com/]127.0.0.1
 [/54traveler.com/]127.0.0.1
+[/54tup.com/]127.0.0.1
 [/54tusi.com/]127.0.0.1
 [/54watch.com/]127.0.0.1
 [/54xiaoshuo.com/]127.0.0.1
@@ -6668,6 +6670,7 @@
 [/77ebooks.com/]127.0.0.1
 [/77fanwen.com/]127.0.0.1
 [/77hd.com/]127.0.0.1
+[/77hudong.com/]127.0.0.1
 [/77kp.co/]127.0.0.1
 [/77l.com/]127.0.0.1
 [/77lux.com/]127.0.0.1
@@ -13233,6 +13236,7 @@
 [/bflschayuan.com/]127.0.0.1
 [/bfnbgame.com/]127.0.0.1
 [/bfningbo.com/]127.0.0.1
+[/bfnxxcdn.com/]127.0.0.1
 [/bfqh.com/]127.0.0.1
 [/bfqifu.com/]127.0.0.1
 [/bfqqsg.com/]127.0.0.1
@@ -19328,6 +19332,7 @@
 [/cjwlb.com/]127.0.0.1
 [/cjx2.com/]127.0.0.1
 [/cjxz.com/]127.0.0.1
+[/cjycode.com/]127.0.0.1
 [/cjyun.club/]127.0.0.1
 [/cjyun.org/]127.0.0.1
 [/cjyyw.com/]127.0.0.1
@@ -20645,6 +20650,7 @@
 [/code666.com/]127.0.0.1
 [/code668.com/]127.0.0.1
 [/code84.com/]127.0.0.1
+[/codeages.work/]127.0.0.1
 [/codeaha.com/]127.0.0.1
 [/codebaoku.com/]127.0.0.1
 [/codebe.org/]127.0.0.1
@@ -25789,6 +25795,7 @@
 [/dzbchina.com/]127.0.0.1
 [/dzblo.com/]127.0.0.1
 [/dzboligang.com/]127.0.0.1
+[/dzbxk.com/]127.0.0.1
 [/dzcbk.com/]127.0.0.1
 [/dzcj.tv/]127.0.0.1
 [/dzcjw.com/]127.0.0.1
@@ -37432,6 +37439,7 @@
 [/henanjianling.com/]127.0.0.1
 [/henanjubao.com/]127.0.0.1
 [/henanmijigui.com/]127.0.0.1
+[/henansha.com/]127.0.0.1
 [/henansyj.com/]127.0.0.1
 [/henanyikayi.com/]127.0.0.1
 [/henbt.com/]127.0.0.1
@@ -38169,6 +38177,7 @@
 [/hkgj07.com/]127.0.0.1
 [/hkglink.xyz/]127.0.0.1
 [/hkgol.com/]127.0.0.1
+[/hkinsu.com/]127.0.0.1
 [/hkjapp.com/]127.0.0.1
 [/hkklock.com/]127.0.0.1
 [/hkkuaiyixiu.com/]127.0.0.1
@@ -38618,6 +38627,7 @@
 [/hobbyboss.com/]127.0.0.1
 [/hocheymed.com/]127.0.0.1
 [/hocode.com/]127.0.0.1
+[/hocodo.com/]127.0.0.1
 [/hodiasflavor.com/]127.0.0.1
 [/hodo170.com/]127.0.0.1
 [/hodoop.com/]127.0.0.1
@@ -38749,6 +38759,7 @@
 [/hongjingedu.com/]127.0.0.1
 [/hongkang-life.com/]127.0.0.1
 [/hongkongairlines.com/]127.0.0.1
+[/hongkongcache.com/]127.0.0.1
 [/hongku.com/]127.0.0.1
 [/hongkun-tech.com/]127.0.0.1
 [/hongkunjinfu.com/]127.0.0.1
@@ -40789,6 +40800,7 @@
 [/hzjlcs.com/]127.0.0.1
 [/hzjlxx.com/]127.0.0.1
 [/hzjmjl.com/]127.0.0.1
+[/hzjmled.com/]127.0.0.1
 [/hzjqhy.com/]127.0.0.1
 [/hzjswy.com/]127.0.0.1
 [/hzjunglepay.com/]127.0.0.1
@@ -41408,6 +41420,7 @@
 [/ictcsr.org/]127.0.0.1
 [/ictdns.fun/]127.0.0.1
 [/ictdns.store/]127.0.0.1
+[/ictdns.tech/]127.0.0.1
 [/ictehi.com/]127.0.0.1
 [/ictest8.com/]127.0.0.1
 [/icthb.com/]127.0.0.1
@@ -45602,6 +45615,8 @@
 [/jktcom.com/]127.0.0.1
 [/jktong.com/]127.0.0.1
 [/jktower.com/]127.0.0.1
+[/jkunbf.com/]127.0.0.1
+[/jkuntp.com/]127.0.0.1
 [/jkwlyx.com/]127.0.0.1
 [/jkwxw.cc/]127.0.0.1
 [/jkx.cc/]127.0.0.1
@@ -55456,6 +55471,7 @@
 [/moliexpo.com/]127.0.0.1
 [/molihe.cc/]127.0.0.1
 [/molihua.net/]127.0.0.1
+[/molikankan.com/]127.0.0.1
 [/molimoli.tech/]127.0.0.1
 [/molinsoft.com/]127.0.0.1
 [/moliplayer.com/]127.0.0.1
@@ -63318,6 +63334,7 @@
 [/qucaiad.com/]127.0.0.1
 [/qucaidd.com/]127.0.0.1
 [/qucaigg.com/]127.0.0.1
+[/qucaiti.com/]127.0.0.1
 [/quce001.com/]127.0.0.1
 [/quceaiqing.com/]127.0.0.1
 [/quchao.net/]127.0.0.1
@@ -76531,6 +76548,7 @@
 [/vdnplus.com/]127.0.0.1
 [/vdnplus.net/]127.0.0.1
 [/vdnsv.com/]127.0.0.1
+[/vdnyuwwq.com/]127.0.0.1
 [/vdolady.com/]127.0.0.1
 [/vdongchina.com/]127.0.0.1
 [/vdson888.com/]127.0.0.1
@@ -78078,6 +78096,7 @@
 [/wddcn.com/]127.0.0.1
 [/wddns.net/]127.0.0.1
 [/wddream.com/]127.0.0.1
+[/wdeab01.com/]127.0.0.1
 [/wdfangyi.com/]127.0.0.1
 [/wdfok.com/]127.0.0.1
 [/wdfxw.net/]127.0.0.1
@@ -86787,6 +86806,7 @@
 [/youcaiyun.com/]127.0.0.1
 [/youcaizhushou.com/]127.0.0.1
 [/youcan-agritech.com/]127.0.0.1
+[/youcareyk.com/]127.0.0.1
 [/youcash.com/]127.0.0.1
 [/youcha.net/]127.0.0.1
 [/youche.com/]127.0.0.1
@@ -89976,6 +89996,7 @@
 [/zhilehuo.com/]127.0.0.1
 [/zhileiqiye.com/]127.0.0.1
 [/zhileng.com/]127.0.0.1
+[/zhilepin.com/]127.0.0.1
 [/zhili2000.com/]127.0.0.1
 [/zhilian.com/]127.0.0.1
 [/zhilian.host/]127.0.0.1
@@ -91333,6 +91354,7 @@
 [/zmtc.com/]127.0.0.1
 [/zmtpc.com/]127.0.0.1
 [/zmtquan.com/]127.0.0.1
+[/zmubf.com/]127.0.0.1
 [/zmufivehospital.com/]127.0.0.1
 [/zmumu.com/]127.0.0.1
 [/zmwo.com/]127.0.0.1

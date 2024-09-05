@@ -6096,6 +6096,7 @@
 [/63cj.com/]127.0.0.1
 [/63diy.com/]127.0.0.1
 [/63fl.com/]127.0.0.1
+[/63g.net/]127.0.0.1
 [/63pe.com/]127.0.0.1
 [/63u.net/]127.0.0.1
 [/63yx.com/]127.0.0.1
@@ -11591,6 +11592,7 @@
 [/autosup.com/]127.0.0.1
 [/autounicom.com/]127.0.0.1
 [/autovideo.club/]127.0.0.1
+[/autowise.ai/]127.0.0.1
 [/autoz.net/]127.0.0.1
 [/autozi.com/]127.0.0.1
 [/auwinner.com/]127.0.0.1
@@ -18783,6 +18785,7 @@
 [/chinasydw.org/]127.0.0.1
 [/chinatai.com/]127.0.0.1
 [/chinatairun.com/]127.0.0.1
+[/chinataiwan.org/]127.0.0.1
 [/chinatalent.org/]127.0.0.1
 [/chinatat.com/]127.0.0.1
 [/chinatechinsights.com/]127.0.0.1
@@ -33960,6 +33963,7 @@
 [/gwozai.com/]127.0.0.1
 [/gwpdi.com/]127.0.0.1
 [/gwpstools.com/]127.0.0.1
+[/gwsdns.com/]127.0.0.1
 [/gwwg.com/]127.0.0.1
 [/gwy.com/]127.0.0.1
 [/gwyclass.com/]127.0.0.1
@@ -39355,6 +39359,7 @@
 [/hnjkw.net/]127.0.0.1
 [/hnjshzy.com/]127.0.0.1
 [/hnjudarhr.com/]127.0.0.1
+[/hnjuhuo.com/]127.0.0.1
 [/hnkljnxh.com/]127.0.0.1
 [/hnks.com/]127.0.0.1
 [/hnksgf.com/]127.0.0.1
@@ -43134,6 +43139,7 @@
 [/im5i.com/]127.0.0.1
 [/im9.com/]127.0.0.1
 [/imaccn.com/]127.0.0.1
+[/imachina.com/]127.0.0.1
 [/imaegoo.com/]127.0.0.1
 [/imageaccelerate.com/]127.0.0.1
 [/imageedu.com/]127.0.0.1
@@ -43578,6 +43584,7 @@
 [/intcredo.com/]127.0.0.1
 [/intdmp.com/]127.0.0.1
 [/intecol-10iwc.com/]127.0.0.1
+[/integrity-funds.com/]127.0.0.1
 [/intekey.com/]127.0.0.1
 [/intel-space.com/]127.0.0.1
 [/intelcupid.com/]127.0.0.1
@@ -60078,6 +60085,8 @@
 [/office.net/]127.0.0.1
 [/office365.com/]127.0.0.1
 [/office8hour.com/]127.0.0.1
+[/officeaid.com/]127.0.0.1
+[/officeaid02.com/]127.0.0.1
 [/officebai.com/]127.0.0.1
 [/officebay.net/]127.0.0.1
 [/officecdn.microsoft.com/]127.0.0.1
@@ -65487,6 +65496,7 @@
 [/qzzyyy.com/]127.0.0.1
 [/qzzzg.net/]127.0.0.1
 [/r-tms.net/]127.0.0.1
+[/r.bing.com/]127.0.0.1
 [/r.cert.corp.google.com/]127.0.0.1
 [/r12345.com/]127.0.0.1
 [/r147emh.com/]127.0.0.1
@@ -70216,6 +70226,7 @@
 [/simagic.com/]127.0.0.1
 [/simanuo.com/]127.0.0.1
 [/simapple.com/]127.0.0.1
+[/simcere.com/]127.0.0.1
 [/simcolux.com/]127.0.0.1
 [/simcom.com/]127.0.0.1
 [/simcomm2m.com/]127.0.0.1
@@ -74970,6 +74981,7 @@
 [/tianxiajiaoyi.com/]127.0.0.1
 [/tianxiang.com/]127.0.0.1
 [/tianxianmao.com/]127.0.0.1
+[/tianxiaputao.com/]127.0.0.1
 [/tianxiawangxiao.com/]127.0.0.1
 [/tianxiaxiao.net/]127.0.0.1
 [/tianxiaxinyong.com/]127.0.0.1
@@ -84647,6 +84659,7 @@
 [/xinxunwang.com/]127.0.0.1
 [/xinxunwei.com/]127.0.0.1
 [/xinxyun.com/]127.0.0.1
+[/xinya.me/]127.0.0.1
 [/xinyali.net/]127.0.0.1
 [/xinyan-gx.com/]127.0.0.1
 [/xinyan.com/]127.0.0.1
@@ -86302,6 +86315,7 @@
 [/xzqixing.com/]127.0.0.1
 [/xzqxj.com/]127.0.0.1
 [/xzrdwq.com/]127.0.0.1
+[/xzsdyyy.com/]127.0.0.1
 [/xzsec.com/]127.0.0.1
 [/xzshengxikeji.com/]127.0.0.1
 [/xzsmlq.com/]127.0.0.1
@@ -89160,7 +89174,6 @@
 [/yrapp.net/]127.0.0.1
 [/yrcbank.com/]127.0.0.1
 [/yrdart.com/]127.0.0.1
-[/yrehdfer.com/]127.0.0.1
 [/yrevotyuk.com/]127.0.0.1
 [/yrgu.com/]127.0.0.1
 [/yrhjy.com/]127.0.0.1

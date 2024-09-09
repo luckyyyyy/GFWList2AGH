@@ -1558,6 +1558,7 @@
 [/1688du.com/]127.0.0.1
 [/1688eric.com/]127.0.0.1
 [/1688la.com/]127.0.0.1
+[/1688lucky.com/]127.0.0.1
 [/1688s.com/]127.0.0.1
 [/1688ts4.com/]127.0.0.1
 [/1688tsw.com/]127.0.0.1
@@ -4280,6 +4281,7 @@
 [/5066.com/]127.0.0.1
 [/506fhq.com/]127.0.0.1
 [/506u5nf5j5.com/]127.0.0.1
+[/508mallsys.com/]127.0.0.1
 [/508sys.com/]127.0.0.1
 [/50970.com/]127.0.0.1
 [/50bang.org/]127.0.0.1
@@ -6075,6 +6077,7 @@
 [/630book.co/]127.0.0.1
 [/63149555.com/]127.0.0.1
 [/6318537ccc.com/]127.0.0.1
+[/631r.xyz/]127.0.0.1
 [/63243.com/]127.0.0.1
 [/6328.net/]127.0.0.1
 [/632news.com/]127.0.0.1
@@ -17885,7 +17888,6 @@
 [/chenfan.info/]127.0.0.1
 [/cheng-sen.com/]127.0.0.1
 [/cheng.xin/]127.0.0.1
-[/chengadx.com/]127.0.0.1
 [/chengcai.net/]127.0.0.1
 [/chengchuanren.com/]127.0.0.1
 [/chengdebank.com/]127.0.0.1
@@ -26179,6 +26181,7 @@
 [/dzpk.com/]127.0.0.1
 [/dzpklite.com/]127.0.0.1
 [/dzpknews.com/]127.0.0.1
+[/dzqc.link/]127.0.0.1
 [/dzqu.com/]127.0.0.1
 [/dzr120.com/]127.0.0.1
 [/dzrbs.com/]127.0.0.1
@@ -32432,6 +32435,7 @@
 [/gmatg.com/]127.0.0.1
 [/gmcc.net/]127.0.0.1
 [/gmcchina.net/]127.0.0.1
+[/gmcmonline.com/]127.0.0.1
 [/gmdun.com/]127.0.0.1
 [/gmed.cc/]127.0.0.1
 [/gmedata.com/]127.0.0.1
@@ -41719,6 +41723,7 @@
 [/hzmantu.com/]127.0.0.1
 [/hzmba.com/]127.0.0.1
 [/hzmogo.com/]127.0.0.1
+[/hzmxkj.net/]127.0.0.1
 [/hzmylike.com/]127.0.0.1
 [/hzncc.com/]127.0.0.1
 [/hznews.com/]127.0.0.1
@@ -44838,6 +44843,7 @@
 [/jd-ex.com/]127.0.0.1
 [/jd-ex.net/]127.0.0.1
 [/jd-fm.com/]127.0.0.1
+[/jd-link.com/]127.0.0.1
 [/jd-zd.com/]127.0.0.1
 [/jd.co/]127.0.0.1
 [/jd.co.th/]127.0.0.1
@@ -48297,6 +48303,7 @@
 [/kakalili.com/]127.0.0.1
 [/kakamobi.com/]127.0.0.1
 [/kakappt.com/]127.0.0.1
+[/kakashuzi.net/]127.0.0.1
 [/kakatx.com/]127.0.0.1
 [/kakayigui.com/]127.0.0.1
 [/kakayuy.net/]127.0.0.1
@@ -69407,6 +69414,7 @@
 [/shokw.com/]127.0.0.1
 [/shomyq.com/]127.0.0.1
 [/shootmedia.net/]127.0.0.1
+[/shop-isv.com/]127.0.0.1
 [/shop2255.com/]127.0.0.1
 [/shop2cn.com/]127.0.0.1
 [/shopbackdrop.com/]127.0.0.1
@@ -71373,6 +71381,7 @@
 [/soutushenqi.com/]127.0.0.1
 [/souvr.com/]127.0.0.1
 [/souwoo.com/]127.0.0.1
+[/souwuxing.com/]127.0.0.1
 [/souxia.com/]127.0.0.1
 [/souxue8.com/]127.0.0.1
 [/souxw.com/]127.0.0.1
@@ -72210,6 +72219,7 @@
 [/sumer.work/]127.0.0.1
 [/sumgotea.com/]127.0.0.1
 [/sumian.com/]127.0.0.1
+[/sumibuy.com/]127.0.0.1
 [/sumiler.com/]127.0.0.1
 [/sumkoo.com/]127.0.0.1
 [/sumkoo.net/]127.0.0.1
@@ -75281,6 +75291,7 @@
 [/tkrlab.com/]127.0.0.1
 [/tkw.cc/]127.0.0.1
 [/tkwhzf.com/]127.0.0.1
+[/tkww.hk/]127.0.0.1
 [/tkxxd.net/]127.0.0.1
 [/tky001.com/]127.0.0.1
 [/tl-self.com/]127.0.0.1
@@ -76900,6 +76911,7 @@
 [/tzjtjx.com/]127.0.0.1
 [/tzjwrml.com/]127.0.0.1
 [/tzjxl.com/]127.0.0.1
+[/tzkameng.com/]127.0.0.1
 [/tzkciz.com/]127.0.0.1
 [/tzlib.net/]127.0.0.1
 [/tzlmt.com/]127.0.0.1
@@ -78283,6 +78295,7 @@
 [/vhqqb9tu5puzbh4d4wb1yo982d2jdfq3e.com/]127.0.0.1
 [/vhqu1kbz3bnbi.com/]127.0.0.1
 [/vhqw7k2xlb49a.com/]127.0.0.1
+[/vhshub.com/]127.0.0.1
 [/vi21.net/]127.0.0.1
 [/vi586.com/]127.0.0.1
 [/via-cert.com/]127.0.0.1
@@ -80071,6 +80084,7 @@
 [/weiphp.com/]127.0.0.1
 [/weipinchu.com/]127.0.0.1
 [/weiping.com/]127.0.0.1
+[/weipu-he.com/]127.0.0.1
 [/weipu.com/]127.0.0.1
 [/weipu.live/]127.0.0.1
 [/weipuhj.com/]127.0.0.1
@@ -81232,6 +81246,7 @@
 [/wkzuche.com/]127.0.0.1
 [/wl.dlservice.microsoft.com/]127.0.0.1
 [/wl369.com/]127.0.0.1
+[/wl890.com/]127.0.0.1
 [/wlai.vip/]127.0.0.1
 [/wlaiy.com/]127.0.0.1
 [/wlanadmin.com/]127.0.0.1
@@ -83693,6 +83708,7 @@
 [/xiaomai5.com/]127.0.0.1
 [/xiaomaigongkao.com/]127.0.0.1
 [/xiaomaiketang.com/]127.0.0.1
+[/xiaomaiuzu.com/]127.0.0.1
 [/xiaomajia.com/]127.0.0.1
 [/xiaomantu.com/]127.0.0.1
 [/xiaomaomv.com/]127.0.0.1
@@ -89440,6 +89456,7 @@
 [/yueseyuewei.com/]127.0.0.1
 [/yuesha.com/]127.0.0.1
 [/yueshenggame.com/]127.0.0.1
+[/yueshitv.com/]127.0.0.1
 [/yuesuoping.com/]127.0.0.1
 [/yuetingapp.com/]127.0.0.1
 [/yuetongjt.com/]127.0.0.1
@@ -93927,6 +93944,7 @@
 [/zxgzw.com/]127.0.0.1
 [/zxhgroup.com/]127.0.0.1
 [/zxhong.com/]127.0.0.1
+[/zxhospital.com/]127.0.0.1
 [/zxhsd.com/]127.0.0.1
 [/zxhwzm.com/]127.0.0.1
 [/zxiaoxiang.com/]127.0.0.1

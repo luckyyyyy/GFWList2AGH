@@ -8572,6 +8572,7 @@
 [/aabooo.com/]127.0.0.1
 [/aabux.com/]127.0.0.1
 [/aad5.com/]127.0.0.1
+[/aadcloud.com/]127.0.0.1
 [/aadongman.com/]127.0.0.1
 [/aads-cng.net/]127.0.0.1
 [/aafxw.com/]127.0.0.1
@@ -40493,6 +40494,7 @@
 [/huaweicloud-dns.com/]127.0.0.1
 [/huaweicloud-dns.net/]127.0.0.1
 [/huaweicloud-dns.org/]127.0.0.1
+[/huaweicloud-idme.com/]127.0.0.1
 [/huaweicloud-smn.com/]127.0.0.1
 [/huaweicloud-smn.net/]127.0.0.1
 [/huaweicloud.com/]127.0.0.1
@@ -41208,6 +41210,7 @@
 [/hwcrazy.com/]127.0.0.1
 [/hwehs.com/]127.0.0.1
 [/hweimall.com/]127.0.0.1
+[/hweventgrid.com/]127.0.0.1
 [/hwfcw.com/]127.0.0.1
 [/hwgis.com/]127.0.0.1
 [/hwhidc.com/]127.0.0.1
@@ -42360,6 +42363,7 @@
 [/idongdong.com/]127.0.0.1
 [/idongmai.com/]127.0.0.1
 [/idongniu.com/]127.0.0.1
+[/idonguapi.com/]127.0.0.1
 [/idooshu.com/]127.0.0.1
 [/idosend.com/]127.0.0.1
 [/idotools.com/]127.0.0.1
@@ -43188,6 +43192,7 @@
 [/in9ni.com/]127.0.0.1
 [/inabr.com/]127.0.0.1
 [/inad.com/]127.0.0.1
+[/inanguapi.com/]127.0.0.1
 [/inanrenbang.com/]127.0.0.1
 [/inappcheck-cn.itunes-apple.com.akadns.net/]127.0.0.1
 [/inappcheck-lb.itunes-apple.com.akadns.net/]127.0.0.1
@@ -44318,6 +44323,7 @@
 [/ixiede.com/]127.0.0.1
 [/ixigua.com/]127.0.0.1
 [/ixiguan.com/]127.0.0.1
+[/ixiguapi.com/]127.0.0.1
 [/ixiguavideo.com/]127.0.0.1
 [/iximo.com/]127.0.0.1
 [/ixingfei.com/]127.0.0.1
@@ -56361,6 +56367,7 @@
 [/modashi.net/]127.0.0.1
 [/modb.cc/]127.0.0.1
 [/modb.pro/]127.0.0.1
+[/modelarts-infer.com/]127.0.0.1
 [/modelevel.com/]127.0.0.1
 [/modelwhale.com/]127.0.0.1
 [/modeng178.com/]127.0.0.1
@@ -57355,6 +57362,9 @@
 [/myhongzuan.com/]127.0.0.1
 [/myhostadmin.net/]127.0.0.1
 [/myhscodes.com/]127.0.0.1
+[/myhuaweicloud-custom.com/]127.0.0.1
+[/myhuaweicloud-koodrive.com/]127.0.0.1
+[/myhuaweicloud-obs.com/]127.0.0.1
 [/myhuaweicloud.com/]127.0.0.1
 [/myhuilv.com/]127.0.0.1
 [/myhwcdn.com/]127.0.0.1
@@ -76880,6 +76890,7 @@
 [/ubja.vip/]127.0.0.1
 [/ublese.com/]127.0.0.1
 [/ubmconlinereg.com/]127.0.0.1
+[/ubnt.com/]127.0.0.1
 [/uboat100.com/]127.0.0.1
 [/uboxol.com/]127.0.0.1
 [/ubs001.com/]127.0.0.1
@@ -77705,6 +77716,7 @@
 [/uwan.com/]127.0.0.1
 [/uweitui.com/]127.0.0.1
 [/uwenku.com/]127.0.0.1
+[/uwn.com/]127.0.0.1
 [/uworter.com/]127.0.0.1
 [/ux18.com/]127.0.0.1
 [/ux6.com/]127.0.0.1

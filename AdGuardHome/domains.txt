@@ -11549,6 +11549,7 @@
 [/autodl.com/]127.0.0.1
 [/autodmp.com/]127.0.0.1
 [/autodwg.com/]127.0.0.1
+[/autoengine.com/]127.0.0.1
 [/autoesd.com/]127.0.0.1
 [/autofull.net/]127.0.0.1
 [/autogslb.com/]127.0.0.1
@@ -28865,6 +28866,7 @@
 [/feixiaoqiu.com/]127.0.0.1
 [/feixiaoquan.com/]127.0.0.1
 [/feixiong.tv/]127.0.0.1
+[/feixue666.com/]127.0.0.1
 [/feixuege.com/]127.0.0.1
 [/feixueteam.net/]127.0.0.1
 [/feixunvip.xyz/]127.0.0.1
@@ -41697,6 +41699,7 @@
 [/hzcourse.com/]127.0.0.1
 [/hzcphotonics.com/]127.0.0.1
 [/hzctxh.com/]127.0.0.1
+[/hzcybb.xyz/]127.0.0.1
 [/hzdajiangdong.com/]127.0.0.1
 [/hzddwk.com/]127.0.0.1
 [/hzdgjc.com/]127.0.0.1
@@ -54068,6 +54071,7 @@
 [/lzhdtk.com/]127.0.0.1
 [/lzhean.com/]127.0.0.1
 [/lzhf.com/]127.0.0.1
+[/lzhg.xyz/]127.0.0.1
 [/lzhhuinong.com/]127.0.0.1
 [/lzhjuszs.com/]127.0.0.1
 [/lzhl.online/]127.0.0.1
@@ -57978,6 +57982,7 @@
 [/nanhuangic.com/]127.0.0.1
 [/nanhufund.com/]127.0.0.1
 [/nanhuhr.com/]127.0.0.1
+[/nanhuyt.com/]127.0.0.1
 [/nanjing.com/]127.0.0.1
 [/nanjingchenxi.com/]127.0.0.1
 [/nanjinghuojia.net/]127.0.0.1
@@ -59810,6 +59815,7 @@
 [/nupktsz.com/]127.0.0.1
 [/nuqixi.com/]127.0.0.1
 [/nuqk.com/]127.0.0.1
+[/nuszar.xyz/]127.0.0.1
 [/nutriease.com/]127.0.0.1
 [/nutsbp.com/]127.0.0.1
 [/nutspace.com/]127.0.0.1
@@ -83525,6 +83531,7 @@
 [/xi5jie.com/]127.0.0.1
 [/xia1ge.com/]127.0.0.1
 [/xiaa.net/]127.0.0.1
+[/xiabb.chat/]127.0.0.1
 [/xiabingbao.com/]127.0.0.1
 [/xiabor.com/]127.0.0.1
 [/xiabu.com/]127.0.0.1
@@ -90721,6 +90728,7 @@
 [/yzzx-zk.com/]127.0.0.1
 [/yzzy-online.com/]127.0.0.1
 [/yzzy20-play.com/]127.0.0.1
+[/yzzyimages.com/]127.0.0.1
 [/yzzzn.com/]127.0.0.1
 [/z-bank.com/]127.0.0.1
 [/z-inn.com/]127.0.0.1

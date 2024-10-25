@@ -2541,6 +2541,7 @@
 [/2345download.com/]127.0.0.1
 [/2345ff.com/]127.0.0.1
 [/2345ii.com/]127.0.0.1
+[/2345li.com/]127.0.0.1
 [/2345mbrowser.com/]127.0.0.1
 [/2345soso.com/]127.0.0.1
 [/234du.com/]127.0.0.1
@@ -5554,6 +5555,7 @@
 [/588art.com/]127.0.0.1
 [/588ku.com/]127.0.0.1
 [/589398.com/]127.0.0.1
+[/589465113.com/]127.0.0.1
 [/5898yun.com/]127.0.0.1
 [/58abb.com/]127.0.0.1
 [/58antenna.com/]127.0.0.1
@@ -8962,7 +8964,6 @@
 [/adssap.com/]127.0.0.1
 [/adsspr.com/]127.0.0.1
 [/adstarcharm.com/]127.0.0.1
-[/adsunflower.com/]127.0.0.1
 [/adt100.com/]127.0.0.1
 [/adtaipo.com/]127.0.0.1
 [/adtchrome.com/]127.0.0.1
@@ -12483,6 +12484,7 @@
 [/baocdn.com/]127.0.0.1
 [/baochaojianghu.com/]127.0.0.1
 [/baochenykk.com/]127.0.0.1
+[/baochunyiran.com/]127.0.0.1
 [/baodan100.com/]127.0.0.1
 [/baodan360.com/]127.0.0.1
 [/baodaohealth.com/]127.0.0.1
@@ -12918,6 +12920,7 @@
 [/bdqn666.com/]127.0.0.1
 [/bdqnwh.com/]127.0.0.1
 [/bds-cn.com/]127.0.0.1
+[/bds666.com/]127.0.0.1
 [/bdsagslb.com/]127.0.0.1
 [/bdsagslbtest.com/]127.0.0.1
 [/bdsana.com/]127.0.0.1
@@ -13693,6 +13696,7 @@
 [/bigma.cc/]127.0.0.1
 [/bigniu.com/]127.0.0.1
 [/bignox.com/]127.0.0.1
+[/bigolive.tv/]127.0.0.1
 [/bigops.com/]127.0.0.1
 [/bigplayers.com/]127.0.0.1
 [/bigpt8.com/]127.0.0.1
@@ -19841,6 +19845,7 @@
 [/clouddream.net/]127.0.0.1
 [/cloudencent.com/]127.0.0.1
 [/cloudflare-cn.com/]127.0.0.1
+[/cloudflare.fun/]127.0.0.1
 [/cloudflareanycast.net/]127.0.0.1
 [/cloudflarecn.net/]127.0.0.1
 [/cloudflareglobal.net/]127.0.0.1
@@ -23787,6 +23792,7 @@
 [/devexel.com/]127.0.0.1
 [/devexpresscn.com/]127.0.0.1
 [/devicewell.com/]127.0.0.1
+[/devimages-cdn.apple.com/]127.0.0.1
 [/devio.org/]127.0.0.1
 [/devops-dev.com/]127.0.0.1
 [/devourad.com/]127.0.0.1
@@ -27270,6 +27276,7 @@
 [/emojimobile.com/]127.0.0.1
 [/emots.cc/]127.0.0.1
 [/empornium.me/]127.0.0.1
+[/emqx.cloud/]127.0.0.1
 [/emqx.com/]127.0.0.1
 [/emqx.net/]127.0.0.1
 [/emr-volces.com/]127.0.0.1
@@ -45992,6 +45999,7 @@
 [/jingcaipaint.com/]127.0.0.1
 [/jingchang.tv/]127.0.0.1
 [/jingchengwl.com/]127.0.0.1
+[/jingchi.net/]127.0.0.1
 [/jingchuhao.com/]127.0.0.1
 [/jingchurc.com/]127.0.0.1
 [/jingdajiance.com/]127.0.0.1
@@ -55610,6 +55618,7 @@
 [/metword.co/]127.0.0.1
 [/meu95otw4967t.com/]127.0.0.1
 [/meuicat.com/]127.0.0.1
+[/meutu.com/]127.0.0.1
 [/mew.fun/]127.0.0.1
 [/mewednesday.shop/]127.0.0.1
 [/mewx.art/]127.0.0.1
@@ -58754,6 +58763,7 @@
 [/nikanpian.com/]127.0.0.1
 [/nike-inc.com.tw/]127.0.0.1
 [/nikebiji.com/]127.0.0.1
+[/nikke-global.com/]127.0.0.1
 [/nikkisoft.com/]127.0.0.1
 [/nikkiup2u2.com/]127.0.0.1
 [/nilai.com/]127.0.0.1
@@ -60077,6 +60087,7 @@
 [/oceanplayable.com/]127.0.0.1
 [/ocent.net/]127.0.0.1
 [/ocetest.com/]127.0.0.1
+[/ocic-static.com/]127.0.0.1
 [/ocici.com/]127.0.0.1
 [/ocideal.com/]127.0.0.1
 [/ocimg.com/]127.0.0.1
@@ -60419,6 +60430,7 @@
 [/onein.com/]127.0.0.1
 [/oneinf.com/]127.0.0.1
 [/oneinstack.com/]127.0.0.1
+[/oneitfarm.com/]127.0.0.1
 [/oneiwff.com/]127.0.0.1
 [/onekey.cc/]127.0.0.1
 [/onekeyghost.com/]127.0.0.1
@@ -75505,6 +75517,7 @@
 [/tkhealthcare.com/]127.0.0.1
 [/tkmedicare.com/]127.0.0.1
 [/tkoubei.com/]127.0.0.1
+[/tkpension.com/]127.0.0.1
 [/tkplusemi.com/]127.0.0.1
 [/tkqpggvx.com/]127.0.0.1
 [/tkr55q2oa097dyxe209c.com/]127.0.0.1
@@ -75719,6 +75732,7 @@
 [/tomonline-inc.com/]127.0.0.1
 [/tomotoes.com/]127.0.0.1
 [/tompda.com/]127.0.0.1
+[/tomson-riviera.com/]127.0.0.1
 [/tomujiang.com/]127.0.0.1
 [/tomwx.net/]127.0.0.1
 [/tonbao.com/]127.0.0.1
@@ -76445,6 +76459,7 @@
 [/tt787.com/]127.0.0.1
 [/tt96596.com/]127.0.0.1
 [/ttaidu.com/]127.0.0.1
+[/ttalkai.com/]127.0.0.1
 [/ttbba.com/]127.0.0.1
 [/ttbbss.com/]127.0.0.1
 [/ttbyte.com/]127.0.0.1
@@ -83380,6 +83395,7 @@
 [/xf5z.com/]127.0.0.1
 [/xfabs.com/]127.0.0.1
 [/xfannix.com/]127.0.0.1
+[/xfap.cc/]127.0.0.1
 [/xfaqwlw.com/]127.0.0.1
 [/xfb315.com/]127.0.0.1
 [/xfc888.com/]127.0.0.1
@@ -83739,6 +83755,7 @@
 [/xianruan.com/]127.0.0.1
 [/xianshangzixun.net/]127.0.0.1
 [/xianshiqiba.com/]127.0.0.1
+[/xianshishangmao.com/]127.0.0.1
 [/xianshu.com/]127.0.0.1
 [/xianshua.net/]127.0.0.1
 [/xianshuabao.com/]127.0.0.1
@@ -92046,6 +92063,7 @@
 [/zhicall.com/]127.0.0.1
 [/zhichanli.com/]127.0.0.1
 [/zhichaoxt.com/]127.0.0.1
+[/zhichepai.com/]127.0.0.1
 [/zhichepin.com/]127.0.0.1
 [/zhichi.com/]127.0.0.1
 [/zhichidata.com/]127.0.0.1
@@ -93941,6 +93959,7 @@
 [/ztbeijixing.com/]127.0.0.1
 [/ztbest.com/]127.0.0.1
 [/ztcadx.com/]127.0.0.1
+[/ztcdata.com/]127.0.0.1
 [/ztcexam.com/]127.0.0.1
 [/ztch.ltd/]127.0.0.1
 [/ztcia.com/]127.0.0.1

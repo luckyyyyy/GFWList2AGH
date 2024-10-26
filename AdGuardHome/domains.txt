@@ -9410,7 +9410,6 @@
 [/aifangke.com/]127.0.0.1
 [/aifanyi.net/]127.0.0.1
 [/aifcdn.com/]127.0.0.1
-[/aifei8.net/]127.0.0.1
 [/aifengjie.com/]127.0.0.1
 [/aifenlei.com/]127.0.0.1
 [/aifont.com/]127.0.0.1
@@ -15386,7 +15385,6 @@
 [/bugucn.com/]127.0.0.1
 [/bugukj.com/]127.0.0.1
 [/bugutime.com/]127.0.0.1
-[/bugxia.com/]127.0.0.1
 [/buhuangziben.com/]127.0.0.1
 [/buhuixiao.com/]127.0.0.1
 [/buhuyo.com/]127.0.0.1
@@ -40173,7 +40171,6 @@
 [/hshw.com/]127.0.0.1
 [/hshy.net/]127.0.0.1
 [/hsigus.com/]127.0.0.1
-[/hsiuyang.net/]127.0.0.1
 [/hsjk.com/]127.0.0.1
 [/hsjkaoyan.com/]127.0.0.1
 [/hsjlrhy.com/]127.0.0.1
@@ -51799,7 +51796,6 @@
 [/liaoyuanchats.com/]127.0.0.1
 [/liaoyuanedu.org/]127.0.0.1
 [/liaozhai.tv/]127.0.0.1
-[/lib4d.com/]127.0.0.1
 [/lib520.com/]127.0.0.1
 [/liba.com/]127.0.0.1
 [/liba88.com/]127.0.0.1
@@ -79163,7 +79159,6 @@
 [/vurl.link/]127.0.0.1
 [/vurl3.vip/]127.0.0.1
 [/vutimes.com/]127.0.0.1
-[/vux.li/]127.0.0.1
 [/vuxmpw.com/]127.0.0.1
 [/vuz.me/]127.0.0.1
 [/vv-tool.com/]127.0.0.1

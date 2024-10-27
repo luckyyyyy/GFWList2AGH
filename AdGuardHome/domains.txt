@@ -41951,6 +41951,7 @@
 [/i360mall.com/]127.0.0.1
 [/i3839.com/]127.0.0.1
 [/i3abox.com/]127.0.0.1
+[/i3ciebwk6ixfb.com/]127.0.0.1
 [/i3cilx.com/]127.0.0.1
 [/i3done.com/]127.0.0.1
 [/i3dpworld.com/]127.0.0.1
@@ -55917,6 +55918,7 @@
 [/midust.com/]127.0.0.1
 [/midway.run/]127.0.0.1
 [/midwayjs.org/]127.0.0.1
+[/mieco.net/]127.0.0.1
 [/miecod.com/]127.0.0.1
 [/miemie.la/]127.0.0.1
 [/miercn.com/]127.0.0.1
@@ -84027,6 +84029,7 @@
 [/xiaomingtaiji.cc/]127.0.0.1
 [/xiaomingtaiji.com/]127.0.0.1
 [/xiaomingtaiji.net/]127.0.0.1
+[/xiaominr.com/]127.0.0.1
 [/xiaomiprint.com/]127.0.0.1
 [/xiaomiqiu.com/]127.0.0.1
 [/xiaomiquan.com/]127.0.0.1
@@ -84035,6 +84038,7 @@
 [/xiaomisa.net/]127.0.0.1
 [/xiaomisa.org/]127.0.0.1
 [/xiaomishu.com/]127.0.0.1
+[/xiaomiwear.com/]127.0.0.1
 [/xiaomixiaoai.com/]127.0.0.1
 [/xiaomiyoupin.com/]127.0.0.1
 [/xiaomlove.com/]127.0.0.1

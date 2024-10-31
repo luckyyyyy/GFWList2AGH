@@ -3875,6 +3875,7 @@
 [/3yx.com/]127.0.0.1
 [/3zbsy.com/]127.0.0.1
 [/3zhijk.com/]127.0.0.1
+[/3zhm.com/]127.0.0.1
 [/3zmuseum.com/]127.0.0.1
 [/4-xiang.com/]127.0.0.1
 [/4.biz/]127.0.0.1
@@ -7525,6 +7526,7 @@
 [/9-zhuce.com/]127.0.0.1
 [/9.biz/]127.0.0.1
 [/900.la/]127.0.0.1
+[/900.vc/]127.0.0.1
 [/9000wy.com/]127.0.0.1
 [/900112.com/]127.0.0.1
 [/900501.xyz/]127.0.0.1
@@ -8470,6 +8472,7 @@
 [/9xdb.com/]127.0.0.1
 [/9xgame.com/]127.0.0.1
 [/9xiazaiqi.com/]127.0.0.1
+[/9xic.com/]127.0.0.1
 [/9xiu.com/]127.0.0.1
 [/9xiuzb.com/]127.0.0.1
 [/9xu.com/]127.0.0.1
@@ -10978,6 +10981,7 @@
 [/applex.net/]127.0.0.1
 [/applicationloader.net/]127.0.0.1
 [/applinzi.com/]127.0.0.1
+[/applogcdn.com/]127.0.0.1
 [/applogo.net/]127.0.0.1
 [/applon.net/]127.0.0.1
 [/applysquare.com/]127.0.0.1
@@ -16481,6 +16485,7 @@
 [/cc8.cc/]127.0.0.1
 [/ccabchina.com/]127.0.0.1
 [/ccai.cc/]127.0.0.1
+[/ccall.cc/]127.0.0.1
 [/ccaon.com/]127.0.0.1
 [/ccapbook.com/]127.0.0.1
 [/ccapedu.com/]127.0.0.1
@@ -20524,6 +20529,7 @@
 [/cnipa-tj.com/]127.0.0.1
 [/cnipai.com/]127.0.0.1
 [/cnipr.com/]127.0.0.1
+[/cnirtrade.com/]127.0.0.1
 [/cnisp.org/]127.0.0.1
 [/cnispgroup.com/]127.0.0.1
 [/cnit-research.com/]127.0.0.1
@@ -23374,6 +23380,7 @@
 [/dbywenhua.com/]127.0.0.1
 [/dc-cn.com/]127.0.0.1
 [/dc0792.com/]127.0.0.1
+[/dc16888888.com/]127.0.0.1
 [/dc568.com/]127.0.0.1
 [/dc625.com/]127.0.0.1
 [/dcarapi.com/]127.0.0.1
@@ -36263,6 +36270,7 @@
 [/gz-junan.com/]127.0.0.1
 [/gz-lodihair.com/]127.0.0.1
 [/gz-notary.com/]127.0.0.1
+[/gz-shanguang.com/]127.0.0.1
 [/gz-xinghe.com/]127.0.0.1
 [/gz-xinyu.com/]127.0.0.1
 [/gz.com/]127.0.0.1
@@ -40439,6 +40447,7 @@
 [/huairui59.com/]127.0.0.1
 [/huaisimida.com/]127.0.0.1
 [/huaixin88.com/]127.0.0.1
+[/huajclub.com/]127.0.0.1
 [/huajia.cc/]127.0.0.1
 [/huajiakeji.com/]127.0.0.1
 [/huajialishe.com/]127.0.0.1
@@ -41753,6 +41762,7 @@
 [/hzhongou.com/]127.0.0.1
 [/hzhqdj.com/]127.0.0.1
 [/hzhr.com/]127.0.0.1
+[/hzhstb.com/]127.0.0.1
 [/hzhx.com/]127.0.0.1
 [/hzhyqp.com/]127.0.0.1
 [/hzins.com/]127.0.0.1
@@ -44845,7 +44855,6 @@
 [/jcdd.com/]127.0.0.1
 [/jce8.com/]127.0.0.1
 [/jcedu.org/]127.0.0.1
-[/jcelyj.com/]127.0.0.1
 [/jcf94.com/]127.0.0.1
 [/jcgcn.com/]127.0.0.1
 [/jcgcw.com/]127.0.0.1
@@ -45464,6 +45473,7 @@
 [/jiangongdata.com/]127.0.0.1
 [/jiangongw.com/]127.0.0.1
 [/jiangpaipinpai.com/]127.0.0.1
+[/jiangping.fyi/]127.0.0.1
 [/jiangpinjiangxin.com/]127.0.0.1
 [/jiangqiaomuye.com/]127.0.0.1
 [/jiangqimeixue.com/]127.0.0.1
@@ -45693,6 +45703,7 @@
 [/jiayin618.com/]127.0.0.1
 [/jiayinjd.com/]127.0.0.1
 [/jiayouhaoche.com/]127.0.0.1
+[/jiayoujsq.com/]127.0.0.1
 [/jiayouxueba.com/]127.0.0.1
 [/jiayu.yoga/]127.0.0.1
 [/jiayu0x.com/]127.0.0.1
@@ -53090,6 +53101,7 @@
 [/longxinglong.com/]127.0.0.1
 [/longxingweilai.com/]127.0.0.1
 [/longxinli.com/]127.0.0.1
+[/longxintec.com/]127.0.0.1
 [/longxuan.ren/]127.0.0.1
 [/longygo.com/]127.0.0.1
 [/longyin.net/]127.0.0.1
@@ -61132,6 +61144,7 @@
 [/packtom.com/]127.0.0.1
 [/packty.com/]127.0.0.1
 [/pacmantwo.com/]127.0.0.1
+[/pacs-plus.com/]127.0.0.1
 [/pactera.com/]127.0.0.1
 [/padasuo.net/]127.0.0.1
 [/paddlepaddle.org/]127.0.0.1
@@ -69116,6 +69129,7 @@
 [/shengtian.com/]127.0.0.1
 [/shengtiangroup.com/]127.0.0.1
 [/shengtongedu.com/]127.0.0.1
+[/shengtuanyouxuan.com/]127.0.0.1
 [/shenguang.com/]127.0.0.1
 [/shengweicnc.com/]127.0.0.1
 [/shengwu.store/]127.0.0.1
@@ -76500,6 +76514,7 @@
 [/ttpaihang.com/]127.0.0.1
 [/ttpaper.com/]127.0.0.1
 [/ttpet.com/]127.0.0.1
+[/ttplayer.co/]127.0.0.1
 [/ttplayer.com/]127.0.0.1
 [/ttpod.com/]127.0.0.1
 [/ttpp.com/]127.0.0.1
@@ -82236,6 +82251,7 @@
 [/wubaiyi.net/]127.0.0.1
 [/wubaiyi.vip/]127.0.0.1
 [/wubashangban.com/]127.0.0.1
+[/wubeizi.com/]127.0.0.1
 [/wubiba.com/]127.0.0.1
 [/wubizi.net/]127.0.0.1
 [/wubizigen.net/]127.0.0.1
@@ -84317,6 +84333,7 @@
 [/xietui.com/]127.0.0.1
 [/xiewangfu.net/]127.0.0.1
 [/xiexiaoyuan.com/]127.0.0.1
+[/xiexinbao.com/]127.0.0.1
 [/xiexingcun.com/]127.0.0.1
 [/xieyangzhe.com/]127.0.0.1
 [/xieyimao.com/]127.0.0.1
@@ -85917,6 +85934,7 @@
 [/xuexi365.com/]127.0.0.1
 [/xuexi365.net/]127.0.0.1
 [/xuexi637.com/]127.0.0.1
+[/xuexi863.com/]127.0.0.1
 [/xuexiaodaquan.com/]127.0.0.1
 [/xuexiaozhaopin.com/]127.0.0.1
 [/xuexibao.com/]127.0.0.1
@@ -90490,6 +90508,7 @@
 [/yxlady.com/]127.0.0.1
 [/yxlady.net/]127.0.0.1
 [/yxle.net/]127.0.0.1
+[/yxlele.com/]127.0.0.1
 [/yxlink.com/]127.0.0.1
 [/yxlmdl.net/]127.0.0.1
 [/yxlqge.com/]127.0.0.1

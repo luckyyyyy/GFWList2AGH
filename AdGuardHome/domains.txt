@@ -11602,6 +11602,7 @@
 [/avicsec.com/]127.0.0.1
 [/avicui.com/]127.0.0.1
 [/avivaqueen.com/]127.0.0.1
+[/avjb.com/]127.0.0.1
 [/avl-hitec.com/]127.0.0.1
 [/avlinsight.com/]127.0.0.1
 [/avlsec.com/]127.0.0.1
@@ -19925,6 +19926,7 @@
 [/cloudstencent.com/]127.0.0.1
 [/cloudstudio.net/]127.0.0.1
 [/cloudsuqian.com/]127.0.0.1
+[/cloudswift.cloud/]127.0.0.1
 [/cloudtalkers.com/]127.0.0.1
 [/cloudtangshan.com/]127.0.0.1
 [/cloudtencents.com/]127.0.0.1
@@ -29267,6 +29269,7 @@
 [/fireval.com/]127.0.0.1
 [/firevale.com/]127.0.0.1
 [/firhq.com/]127.0.0.1
+[/firstarpc.com/]127.0.0.1
 [/firstdrs.com/]127.0.0.1
 [/firstfood-cn.com/]127.0.0.1
 [/firstheartbeat.net/]127.0.0.1
@@ -57656,6 +57659,7 @@
 [/mylikechat.com/]127.0.0.1
 [/mylikesz.com/]127.0.0.1
 [/mylikeyk.com/]127.0.0.1
+[/mylinkapp.hk/]127.0.0.1
 [/mylitboy.com/]127.0.0.1
 [/myliwu.net/]127.0.0.1
 [/mylmad.com/]127.0.0.1
@@ -68843,6 +68847,7 @@
 [/shanyuanms.com/]127.0.0.1
 [/shanyue.tech/]127.0.0.1
 [/shanyuechina.com/]127.0.0.1
+[/shanyzx.com/]127.0.0.1
 [/shanzhen.com/]127.0.0.1
 [/shanzhen.me/]127.0.0.1
 [/shanzhildq.com/]127.0.0.1
@@ -73505,6 +73510,7 @@
 [/szthxf.com/]127.0.0.1
 [/sztino.com/]127.0.0.1
 [/sztkc.com/]127.0.0.1
+[/sztljyjt.com/]127.0.0.1
 [/sztmjz.com/]127.0.0.1
 [/sztopbrand.com/]127.0.0.1
 [/sztspi.com/]127.0.0.1
@@ -74357,6 +74363,7 @@
 [/tecbbs.com/]127.0.0.1
 [/tecenet.com/]127.0.0.1
 [/tech-mx.com/]127.0.0.1
+[/tech-sem.com/]127.0.0.1
 [/tech-sonic.net/]127.0.0.1
 [/tech1024.com/]127.0.0.1
 [/tech110.net/]127.0.0.1
@@ -74753,6 +74760,7 @@
 [/thebeijinger.com/]127.0.0.1
 [/thebeijingnews.com/]127.0.0.1
 [/thebird-air.com/]127.0.0.1
+[/theblockbeats.info/]127.0.0.1
 [/thebuddycreative.com/]127.0.0.1
 [/thechois.cc/]127.0.0.1
 [/thecode.me/]127.0.0.1
@@ -75465,6 +75473,7 @@
 [/tkqpggvx.com/]127.0.0.1
 [/tkr55q2oa097dyxe209c.com/]127.0.0.1
 [/tkrlab.com/]127.0.0.1
+[/tktjwhyy.com/]127.0.0.1
 [/tkw.cc/]127.0.0.1
 [/tkwhzf.com/]127.0.0.1
 [/tkww.hk/]127.0.0.1
@@ -82905,6 +82914,7 @@
 [/x431.com/]127.0.0.1
 [/x4dp.com/]127.0.0.1
 [/x5dj.com/]127.0.0.1
+[/x6485f.cc/]127.0.0.1
 [/x64go.com/]127.0.0.1
 [/x64pro.com/]127.0.0.1
 [/x66597.com/]127.0.0.1
@@ -87610,6 +87620,7 @@
 [/yihchina.com/]127.0.0.1
 [/yiheda.com/]127.0.0.1
 [/yihedoors.com/]127.0.0.1
+[/yihke.com/]127.0.0.1
 [/yihong001.com/]127.0.0.1
 [/yihong1718.com/]127.0.0.1
 [/yihshou.com/]127.0.0.1

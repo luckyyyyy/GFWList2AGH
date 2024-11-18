@@ -5062,6 +5062,7 @@
 [/52feijuba.com/]127.0.0.1
 [/52fun.com/]127.0.0.1
 [/52fzwg.com/]127.0.0.1
+[/52gaoge.com/]127.0.0.1
 [/52gg.com/]127.0.0.1
 [/52grz.com/]127.0.0.1
 [/52guixi.com/]127.0.0.1
@@ -7702,6 +7703,7 @@
 [/91suan.com/]127.0.0.1
 [/91suke.com/]127.0.0.1
 [/91taoke.com/]127.0.0.1
+[/91testing.net/]127.0.0.1
 [/91ting.net/]127.0.0.1
 [/91tingge.com/]127.0.0.1
 [/91tm45tzyb.com/]127.0.0.1
@@ -12950,6 +12952,7 @@
 [/beautifullinux.com/]127.0.0.1
 [/beautifulzzzz.com/]127.0.0.1
 [/bebhmongb.com/]127.0.0.1
+[/bebingocard.com/]127.0.0.1
 [/bechangedt.com/]127.0.0.1
 [/beckwai.com/]127.0.0.1
 [/becomingcelia.com/]127.0.0.1
@@ -15947,6 +15950,7 @@
 [/caiguayun.com/]127.0.0.1
 [/caih.com/]127.0.0.1
 [/caihang.com/]127.0.0.1
+[/caihanlin.com/]127.0.0.1
 [/caihcloud.com/]127.0.0.1
 [/caihcom.com/]127.0.0.1
 [/caihdata.com/]127.0.0.1
@@ -19197,6 +19201,7 @@
 [/chukonggame.com/]127.0.0.1
 [/chukou1.com/]127.0.0.1
 [/chule.cc/]127.0.0.1
+[/chuleg.com/]127.0.0.1
 [/chumacdn.com/]127.0.0.1
 [/chumanapp.com/]127.0.0.1
 [/chumenwenwen.com/]127.0.0.1
@@ -23125,6 +23130,7 @@
 [/datathinking.com/]127.0.0.1
 [/datatist.com/]127.0.0.1
 [/datatocn.com/]127.0.0.1
+[/datauseful.com/]127.0.0.1
 [/dataxcrm.com/]127.0.0.1
 [/datayes.com/]127.0.0.1
 [/datazt.com/]127.0.0.1
@@ -28956,6 +28962,7 @@
 [/fengzusw.com/]127.0.0.1
 [/fenha.net/]127.0.0.1
 [/fenjiji.net/]127.0.0.1
+[/fenjj.com/]127.0.0.1
 [/fenking.club/]127.0.0.1
 [/fenlei168.com/]127.0.0.1
 [/fenlei265.com/]127.0.0.1
@@ -31942,6 +31949,7 @@
 [/gibzz.xyz/]127.0.0.1
 [/giccoo.com/]127.0.0.1
 [/gicp.net/]127.0.0.1
+[/gidepay.com/]127.0.0.1
 [/giexya.com/]127.0.0.1
 [/gif5.net/]127.0.0.1
 [/gifcool.com/]127.0.0.1
@@ -36310,6 +36318,7 @@
 [/gznw.com/]127.0.0.1
 [/gznxbank.com/]127.0.0.1
 [/gzpeite.com/]127.0.0.1
+[/gzpeiyou.com/]127.0.0.1
 [/gzpfs.com/]127.0.0.1
 [/gzpg.net/]127.0.0.1
 [/gzpinda.com/]127.0.0.1
@@ -39798,6 +39807,7 @@
 [/houqun.net/]127.0.0.1
 [/houquner.com/]127.0.0.1
 [/hourt-cert.com/]127.0.0.1
+[/hourui-arch.net/]127.0.0.1
 [/house086.com/]127.0.0.1
 [/house178.com/]127.0.0.1
 [/house365.com/]127.0.0.1
@@ -65511,7 +65521,6 @@
 [/ranzhi.org/]127.0.0.1
 [/raobee.com/]127.0.0.1
 [/raoke.net/]127.0.0.1
-[/raolmsc.com/]127.0.0.1
 [/raonie.com/]127.0.0.1
 [/raorao.com/]127.0.0.1
 [/rap-pro.com/]127.0.0.1
@@ -77636,6 +77645,7 @@
 [/uplinux.com/]127.0.0.1
 [/uplookedu.com/]127.0.0.1
 [/uplooking.com/]127.0.0.1
+[/upluck.cc/]127.0.0.1
 [/upos-bstar-mirrorakam.akamaized.net/]127.0.0.1
 [/upos-bstar1-mirrorakam.akamaized.net/]127.0.0.1
 [/upos-hz-mirrorakam.akamaized.net/]127.0.0.1
@@ -77671,6 +77681,7 @@
 [/uqee.com/]127.0.0.1
 [/uqeegame.com/]127.0.0.1
 [/uqiba.com/]127.0.0.1
+[/uqidata.com/]127.0.0.1
 [/uqidong.com/]127.0.0.1
 [/uqidong.net/]127.0.0.1
 [/uqipower.com/]127.0.0.1
@@ -81409,6 +81420,7 @@
 [/wmy-ad.com/]127.0.0.1
 [/wmyqdmm.com/]127.0.0.1
 [/wmzhe.com/]127.0.0.1
+[/wmzkt.com/]127.0.0.1
 [/wmzp.cc/]127.0.0.1
 [/wmzyw.com/]127.0.0.1
 [/wn1998.com/]127.0.0.1
@@ -82710,6 +82722,7 @@
 [/wzzysn.com/]127.0.0.1
 [/x-bull.com/]127.0.0.1
 [/x-cloud.cc/]127.0.0.1
+[/x-cmd.com/]127.0.0.1
 [/x-droners.com/]127.0.0.1
 [/x-jishu.com/]127.0.0.1
 [/x-kicks.com/]127.0.0.1
@@ -83524,6 +83537,7 @@
 [/xianmaiyangsheng.com/]127.0.0.1
 [/xianmeilai.com/]127.0.0.1
 [/xianmeisc.com/]127.0.0.1
+[/xianniu.com/]127.0.0.1
 [/xianniuzu.com/]127.0.0.1
 [/xianousiqi.com/]127.0.0.1
 [/xianpinyun.com/]127.0.0.1
@@ -91065,6 +91079,7 @@
 [/zfw.net/]127.0.0.1
 [/zfwimg.com/]127.0.0.1
 [/zfxz.com/]127.0.0.1
+[/zg-gaoling.com/]127.0.0.1
 [/zg-gyt.com/]127.0.0.1
 [/zg-import.com/]127.0.0.1
 [/zg-imsoft.com/]127.0.0.1
@@ -92786,6 +92801,7 @@
 [/zipadc.com/]127.0.0.1
 [/zipjpg.com/]127.0.0.1
 [/ziqingi.com/]127.0.0.1
+[/ziqoixtv.com/]127.0.0.1
 [/ziquyun.com/]127.0.0.1
 [/zirang.art/]127.0.0.1
 [/ziranren.com/]127.0.0.1
@@ -94189,6 +94205,7 @@
 [/zyip.com/]127.0.0.1
 [/zyixinx.com/]127.0.0.1
 [/zyiz.net/]127.0.0.1
+[/zyjiajiao.com/]127.0.0.1
 [/zyjiajuw.com/]127.0.0.1
 [/zyjoygame.com/]127.0.0.1
 [/zyjthb.com/]127.0.0.1

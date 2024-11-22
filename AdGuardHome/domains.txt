@@ -10520,6 +10520,7 @@
 [/antbuyhot.com/]127.0.0.1
 [/antcloud-miniprogram.com/]127.0.0.1
 [/antcut.com/]127.0.0.1
+[/antdigital.com/]127.0.0.1
 [/antdv.com/]127.0.0.1
 [/antebao.com/]127.0.0.1
 [/antebo.com/]127.0.0.1
@@ -10697,6 +10698,7 @@
 [/aolylcd.com/]127.0.0.1
 [/aomaismoking.com/]127.0.0.1
 [/aomao.com/]127.0.0.1
+[/aomsitf.com/]127.0.0.1
 [/aomygodstatic.com/]127.0.0.1
 [/aonaotu.com/]127.0.0.1
 [/aony-cz.com/]127.0.0.1
@@ -11280,6 +11282,8 @@
 [/asmasm.com/]127.0.0.1
 [/asme.org/]127.0.0.1
 [/asmlc.com/]127.0.0.1
+[/asmr-200.com/]127.0.0.1
+[/asmr.one/]127.0.0.1
 [/asmr.red/]127.0.0.1
 [/asnlab.com/]127.0.0.1
 [/asnlab.org/]127.0.0.1
@@ -13588,6 +13592,7 @@
 [/bidianer.com/]127.0.0.1
 [/bidingxing.com/]127.0.0.1
 [/bidizhaobiao.com/]127.0.0.1
+[/bidjora.com/]127.0.0.1
 [/bidns.net/]127.0.0.1
 [/bidtoolads.com/]127.0.0.1
 [/biduo.cc/]127.0.0.1
@@ -21021,6 +21026,7 @@
 [/coloros.com/]127.0.0.1
 [/coloros.net/]127.0.0.1
 [/colorv.com/]127.0.0.1
+[/coloryr.com/]127.0.0.1
 [/colourfulchina.com/]127.0.0.1
 [/colourlife.com/]127.0.0.1
 [/com-hs-hkdy.com/]127.0.0.1
@@ -22157,6 +22163,7 @@
 [/cusdvs.net/]127.0.0.1
 [/custeel.com/]127.0.0.1
 [/customsapp.com/]127.0.0.1
+[/custouch.com/]127.0.0.1
 [/cut35.com/]127.0.0.1
 [/cuteng.com/]127.0.0.1
 [/cutepet-hk.com/]127.0.0.1
@@ -24547,6 +24554,7 @@
 [/dkewl.com/]127.0.0.1
 [/dkgyw.com/]127.0.0.1
 [/dkhg23.com/]127.0.0.1
+[/dkhwyzv.com/]127.0.0.1
 [/dkjahfkanf.com/]127.0.0.1
 [/dkjiaoyang.com/]127.0.0.1
 [/dkjmy.com/]127.0.0.1
@@ -29830,6 +29838,7 @@
 [/friendship-match.com/]127.0.0.1
 [/fright-tattoo.com/]127.0.0.1
 [/fringe-zero.com/]127.0.0.1
+[/frler.com/]127.0.0.1
 [/froglesson.com/]127.0.0.1
 [/frombyte.com/]127.0.0.1
 [/fromgeek.com/]127.0.0.1
@@ -48928,6 +48937,7 @@
 [/kiijoy.com/]127.0.0.1
 [/kiinii.com/]127.0.0.1
 [/kikitamap.com/]127.0.0.1
+[/kiko-play-niptan.one/]127.0.0.1
 [/kikoplay.fun/]127.0.0.1
 [/kikusuitape.com/]127.0.0.1
 [/kilamanbo.com/]127.0.0.1
@@ -55301,6 +55311,7 @@
 [/meldingcloud.com/]127.0.0.1
 [/melizhi.com/]127.0.0.1
 [/melon-eptc.com/]127.0.0.1
+[/melon.icu/]127.0.0.1
 [/melove.net/]127.0.0.1
 [/memblaze.com/]127.0.0.1
 [/memewan.com/]127.0.0.1
@@ -55703,6 +55714,7 @@
 [/microlz.com/]127.0.0.1
 [/micronetpay.com/]127.0.0.1
 [/microrui.net/]127.0.0.1
+[/microsate.com/]127.0.0.1
 [/microsoft.com/]127.0.0.1
 [/microsoftonline.com/]127.0.0.1
 [/microstern.com/]127.0.0.1
@@ -61936,6 +61948,7 @@
 [/pinpaidadao.com/]127.0.0.1
 [/pinpailiu.com/]127.0.0.1
 [/pinpaime.com/]127.0.0.1
+[/pinpopt.site/]127.0.0.1
 [/pinqugongxiangktv.com/]127.0.0.1
 [/pinqukeji.com/]127.0.0.1
 [/pinshan.com/]127.0.0.1
@@ -62282,6 +62295,7 @@
 [/pondernext.com/]127.0.0.1
 [/ponley.com/]127.0.0.1
 [/pontite.com/]127.0.0.1
+[/pony.ai/]127.0.0.1
 [/ponyai-cn.com/]127.0.0.1
 [/ponycool.com/]127.0.0.1
 [/ponyfk.com/]127.0.0.1
@@ -65458,6 +65472,7 @@
 [/rakinda-aidc.com/]127.0.0.1
 [/rakinda-xm.com/]127.0.0.1
 [/rakpqgk.com/]127.0.0.1
+[/rakutabichina.com/]127.0.0.1
 [/ralf.ren/]127.0.0.1
 [/ramadaplaza-ovwh.com/]127.0.0.1
 [/ramboplay.com/]127.0.0.1
@@ -66387,6 +66402,7 @@
 [/rp76en.com/]127.0.0.1
 [/rpa-cn.com/]127.0.0.1
 [/rpaii.com/]127.0.0.1
+[/rpfbzjam.shop/]127.0.0.1
 [/rpfieldcdn.com/]127.0.0.1
 [/rpg99.com/]127.0.0.1
 [/rpgmoba.com/]127.0.0.1
@@ -77442,7 +77458,6 @@
 [/unicompayment.com/]127.0.0.1
 [/unicompayment.net/]127.0.0.1
 [/unicompayment.org/]127.0.0.1
-[/unicomspeedtest.com/]127.0.0.1
 [/unicomtest.com/]127.0.0.1
 [/unicon-hibar.com/]127.0.0.1
 [/unicornacg.com/]127.0.0.1
@@ -81359,7 +81374,6 @@
 [/wmsjyun.com/]127.0.0.1
 [/wmsub.com/]127.0.0.1
 [/wmszbpw.com/]127.0.0.1
-[/wmton.com/]127.0.0.1
 [/wmupd.com/]127.0.0.1
 [/wmvideo.com/]127.0.0.1
 [/wmviv.com/]127.0.0.1
@@ -83748,6 +83762,7 @@
 [/xiaomastack.com/]127.0.0.1
 [/xiaomaxitong.com/]127.0.0.1
 [/xiaomayi.net/]127.0.0.1
+[/xiaomazhixing.com/]127.0.0.1
 [/xiaomei.cc/]127.0.0.1
 [/xiaomeiti.com/]127.0.0.1
 [/xiaomeng1235.com/]127.0.0.1
@@ -93921,6 +93936,7 @@
 [/zushoushou.com/]127.0.0.1
 [/zutianke.com/]127.0.0.1
 [/zuulee.com/]127.0.0.1
+[/zuwuzhuyi.com/]127.0.0.1
 [/zuxiaoqi.com/]127.0.0.1
 [/zuxiaoyi.com/]127.0.0.1
 [/zuyouzu.com/]127.0.0.1
@@ -94322,6 +94338,7 @@
 [/zzshe.com/]127.0.0.1
 [/zzsiji.com/]127.0.0.1
 [/zzsin.com/]127.0.0.1
+[/zzspider.com/]127.0.0.1
 [/zzsteel.com/]127.0.0.1
 [/zzstep.com/]127.0.0.1
 [/zzt9.com/]127.0.0.1

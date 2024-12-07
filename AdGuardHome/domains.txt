@@ -2443,6 +2443,7 @@
 [/2021.com/]127.0.0.1
 [/202271.xyz/]127.0.0.1
 [/2022cdnpl.com/]127.0.0.1
+[/2023.com/]127.0.0.1
 [/2023game.com/]127.0.0.1
 [/2024789.com/]127.0.0.1
 [/2024qq.com/]127.0.0.1
@@ -4131,6 +4132,7 @@
 [/4006216888.com/]127.0.0.1
 [/4006300457.com/]127.0.0.1
 [/4006339177.com/]127.0.0.1
+[/4006510600.com/]127.0.0.1
 [/4006541828.com/]127.0.0.1
 [/4006631958.com/]127.0.0.1
 [/4006681092.net/]127.0.0.1
@@ -9437,6 +9439,7 @@
 [/adrianaloha.com/]127.0.0.1
 [/ads8.com/]127.0.0.1
 [/adsage.com/]127.0.0.1
+[/adsalecdn.com/]127.0.0.1
 [/adsalecprj.com/]127.0.0.1
 [/adsame.com/]127.0.0.1
 [/adscover.com/]127.0.0.1
@@ -17781,6 +17784,7 @@
 [/cdmcaac.com/]127.0.0.1
 [/cdmddyf.com/]127.0.0.1
 [/cdmfund.org/]127.0.0.1
+[/cdmhwh.com/]127.0.0.1
 [/cdmmlxs.com/]127.0.0.1
 [/cdmoz.org/]127.0.0.1
 [/cdn-cba.com/]127.0.0.1
@@ -25489,6 +25493,7 @@
 [/didctf.com/]127.0.0.1
 [/diddgame.com/]127.0.0.1
 [/didi-food.com/]127.0.0.1
+[/didi-trip.com/]127.0.0.1
 [/didi.xin/]127.0.0.1
 [/didialift.com/]127.0.0.1
 [/didiapp.com/]127.0.0.1
@@ -26836,6 +26841,7 @@
 [/drgou.com/]127.0.0.1
 [/drice.cc/]127.0.0.1
 [/drinkmagazine.asia/]127.0.0.1
+[/drinkpoem.com/]127.0.0.1
 [/drip.im/]127.0.0.1
 [/dripcar.com/]127.0.0.1
 [/driver114.com/]127.0.0.1
@@ -40143,6 +40149,7 @@
 [/hemayx.com/]127.0.0.1
 [/hempelgroup.com/]127.0.0.1
 [/hen360.com/]127.0.0.1
+[/henai.com/]127.0.0.1
 [/henan100.com/]127.0.0.1
 [/henanart.com/]127.0.0.1
 [/henanbojin.com/]127.0.0.1
@@ -52612,6 +52619,7 @@
 [/kunlunwe.com/]127.0.0.1
 [/kunmingbc.com/]127.0.0.1
 [/kunmingkanghui.com/]127.0.0.1
+[/kunpengtn.com/]127.0.0.1
 [/kunpo.cc/]127.0.0.1
 [/kunst-x.com/]127.0.0.1
 [/kuntaihotel.com/]127.0.0.1
@@ -52863,7 +52871,6 @@
 [/kyzyj.com/]127.0.0.1
 [/kz.cc/]127.0.0.1
 [/kz8yx.com/]127.0.0.1
-[/kzepp.com/]127.0.0.1
 [/kzgui.com/]127.0.0.1
 [/kzjtv.com/]127.0.0.1
 [/kzk1.com/]127.0.0.1
@@ -61301,6 +61308,7 @@
 [/ndbzteck.com/]127.0.0.1
 [/ndcimgs.com/]127.0.0.1
 [/ndcpp.com/]127.0.0.1
+[/ndcppx.com/]127.0.0.1
 [/ndcyx.com/]127.0.0.1
 [/nddaily.com/]127.0.0.1
 [/nddnrm.com/]127.0.0.1
@@ -61975,6 +61983,7 @@
 [/njggkyz.com/]127.0.0.1
 [/njgjj.com/]127.0.0.1
 [/njgljy.com/]127.0.0.1
+[/njglyy.com/]127.0.0.1
 [/njgosen.com/]127.0.0.1
 [/njgulan.com/]127.0.0.1
 [/njgzm.com/]127.0.0.1
@@ -64266,6 +64275,7 @@
 [/p3-juejin.byteimg.com/]127.0.0.1
 [/p3-novel.byteimg.com/]127.0.0.1
 [/p33t5y8b97.com/]127.0.0.1
+[/p3q0tt.com/]127.0.0.1
 [/p4-juejin.byteimg.com/]127.0.0.1
 [/p4pfile.com/]127.0.0.1
 [/p4pp.com/]127.0.0.1
@@ -64893,6 +64903,7 @@
 [/pengyihotel.com/]127.0.0.1
 [/pengyou.com/]127.0.0.1
 [/pengyoukan.com/]127.0.0.1
+[/pengyouquan.online/]127.0.0.1
 [/pengyucpa.com/]127.0.0.1
 [/pengyunxin.com/]127.0.0.1
 [/pengyuwei.net/]127.0.0.1
@@ -65849,6 +65860,7 @@
 [/ppduck.com/]127.0.0.1
 [/ppfeng.com/]127.0.0.1
 [/ppfsnzp.com/]127.0.0.1
+[/ppfu3m.com/]127.0.0.1
 [/ppfw.org/]127.0.0.1
 [/ppgallery.com/]127.0.0.1
 [/ppgame.com/]127.0.0.1
@@ -66296,6 +66308,7 @@
 [/pwsz.com/]127.0.0.1
 [/pwypx.com/]127.0.0.1
 [/px0571.com/]127.0.0.1
+[/px0769.com/]127.0.0.1
 [/px1039.com/]127.0.0.1
 [/px5a.com/]127.0.0.1
 [/pxb7.com/]127.0.0.1
@@ -70416,6 +70429,7 @@
 [/rushui.net/]127.0.0.1
 [/russell-star.com/]127.0.0.1
 [/russellluo.com/]127.0.0.1
+[/rustc.cloud/]127.0.0.1
 [/rustfisher.com/]127.0.0.1
 [/rustvnt.com/]127.0.0.1
 [/ruthout.com/]127.0.0.1
@@ -73934,6 +73948,7 @@
 [/sibida.net/]127.0.0.1
 [/siboda-nb.com/]127.0.0.1
 [/sibuzyn.com/]127.0.0.1
+[/sicarrier.com/]127.0.0.1
 [/sicent.com/]127.0.0.1
 [/sicheng.net/]127.0.0.1
 [/sicher-elevator.com/]127.0.0.1
@@ -85038,6 +85053,7 @@
 [/wfiltericf.com/]127.0.0.1
 [/wfilterngf.com/]127.0.0.1
 [/wfits.com/]127.0.0.1
+[/wfjec.com/]127.0.0.1
 [/wfjgzs.com/]127.0.0.1
 [/wfjienuo.com/]127.0.0.1
 [/wfjimg.com/]127.0.0.1
@@ -86811,6 +86827,7 @@
 [/wuxin.info/]127.0.0.1
 [/wuxinban.com/]127.0.0.1
 [/wuxingmu.com/]127.0.0.1
+[/wuxingzuji.com/]127.0.0.1
 [/wuxinhua.com/]127.0.0.1
 [/wuxinmuye.com/]127.0.0.1
 [/wuxitzjx.com/]127.0.0.1
@@ -97839,7 +97856,6 @@
 [/zhxwq.com/]127.0.0.1
 [/zhxww.net/]127.0.0.1
 [/zhxy1z.com/]127.0.0.1
-[/zhy333.com/]127.0.0.1
 [/zhyccw.com/]127.0.0.1
 [/zhycn.com/]127.0.0.1
 [/zhyd.me/]127.0.0.1
@@ -98212,6 +98228,7 @@
 [/zjjsit.com/]127.0.0.1
 [/zjjubao.com/]127.0.0.1
 [/zjjy.com/]127.0.0.1
+[/zjjytyt.com/]127.0.0.1
 [/zjjzxgj.com/]127.0.0.1
 [/zjjzyxh.com/]127.0.0.1
 [/zjkangzh.com/]127.0.0.1

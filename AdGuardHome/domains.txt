@@ -6860,6 +6860,7 @@
 [/72.com/]127.0.0.1
 [/720582.com/]127.0.0.1
 [/720ku.net/]127.0.0.1
+[/720lu.com/]127.0.0.1
 [/720pmovie.com/]127.0.0.1
 [/720static.com/]127.0.0.1
 [/720think.com/]127.0.0.1
@@ -7505,6 +7506,7 @@
 [/8518.com/]127.0.0.1
 [/8521.org/]127.0.0.1
 [/85229666.com/]127.0.0.1
+[/853.com/]127.0.0.1
 [/85335.xyz/]127.0.0.1
 [/85384.com/]127.0.0.1
 [/853lab.com/]127.0.0.1
@@ -9542,6 +9544,7 @@
 [/afy.asia/]127.0.0.1
 [/afzhan.com/]127.0.0.1
 [/ag03.com/]127.0.0.1
+[/ag8.com/]127.0.0.1
 [/agcen.com/]127.0.0.1
 [/agcloudcs.com/]127.0.0.1
 [/agconnect.link/]127.0.0.1
@@ -10862,6 +10865,7 @@
 [/ams.org/]127.0.0.1
 [/amsoveasea.com/]127.0.0.1
 [/amssro.net/]127.0.0.1
+[/amtk.com/]127.0.0.1
 [/amtron-ic.com/]127.0.0.1
 [/amuletj.com/]127.0.0.1
 [/amuletor.com/]127.0.0.1
@@ -12941,6 +12945,7 @@
 [/bamaying.com/]127.0.0.1
 [/bamboo18.com/]127.0.0.1
 [/bambooolab.com/]127.0.0.1
+[/bambu-lab.com/]127.0.0.1
 [/bambulab.com/]127.0.0.1
 [/bamengame.com/]127.0.0.1
 [/bamensq.com/]127.0.0.1
@@ -14365,6 +14370,7 @@
 [/bigbenmeng.com/]127.0.0.1
 [/bigbigai.com/]127.0.0.1
 [/bigbigsun.com/]127.0.0.1
+[/bigbigwon.com/]127.0.0.1
 [/bigbigwork.com/]127.0.0.1
 [/bigbrosci.com/]127.0.0.1
 [/bigcat.com/]127.0.0.1
@@ -14875,6 +14881,7 @@
 [/bjfsmc.com/]127.0.0.1
 [/bjfyw.org/]127.0.0.1
 [/bjgas.com/]127.0.0.1
+[/bjgcl.com/]127.0.0.1
 [/bjggk.com/]127.0.0.1
 [/bjglxf.com/]127.0.0.1
 [/bjglxt.com/]127.0.0.1
@@ -26759,6 +26766,7 @@
 [/drmhoud.com/]127.0.0.1
 [/drockart.com/]127.0.0.1
 [/droi.com/]127.0.0.1
+[/droiapps.com/]127.0.0.1
 [/droibaas.com/]127.0.0.1
 [/droitstock.com/]127.0.0.1
 [/dropbox2go.com/]127.0.0.1
@@ -32911,6 +32919,7 @@
 [/get233.com/]127.0.0.1
 [/getbs.com/]127.0.0.1
 [/getcai.com/]127.0.0.1
+[/getconnectplus.com/]127.0.0.1
 [/getehu.com/]127.0.0.1
 [/getelighting.com/]127.0.0.1
 [/getfeishu.com/]127.0.0.1
@@ -42544,6 +42553,7 @@
 [/huatuowenda.com/]127.0.0.1
 [/huatuoyf.com/]127.0.0.1
 [/huaue.com/]127.0.0.1
+[/huavisa.com/]127.0.0.1
 [/huawan.com/]127.0.0.1
 [/huawangzhixun.com/]127.0.0.1
 [/huawanyun.com/]127.0.0.1
@@ -53293,6 +53303,7 @@
 [/laxmok.com/]127.0.0.1
 [/layaair.com/]127.0.0.1
 [/layabox.com/]127.0.0.1
+[/layleen.com/]127.0.0.1
 [/layoutad.com/]127.0.0.1
 [/laysky.com/]127.0.0.1
 [/layui.com/]127.0.0.1
@@ -55433,6 +55444,7 @@
 [/lnzy-edu.com/]127.0.0.1
 [/lo97.com/]127.0.0.1
 [/loac.cc/]127.0.0.1
+[/loadingbay.com/]127.0.0.1
 [/loansliml.com/]127.0.0.1
 [/local-ip.online/]127.0.0.1
 [/localizecdn.com/]127.0.0.1
@@ -58699,6 +58711,7 @@
 [/mikucdn.com/]127.0.0.1
 [/mikuclub.fun/]127.0.0.1
 [/milaizu2023.com/]127.0.0.1
+[/milan.com/]127.0.0.1
 [/milanshishang.com/]127.0.0.1
 [/milanvip.com/]127.0.0.1
 [/milchips.com/]127.0.0.1
@@ -59413,6 +59426,7 @@
 [/moeid.com/]127.0.0.1
 [/moejam.com/]127.0.0.1
 [/moejp.com/]127.0.0.1
+[/moeking.me/]127.0.0.1
 [/moeli123.com/]127.0.0.1
 [/moemiao.net/]127.0.0.1
 [/moeqy.com/]127.0.0.1
@@ -59562,6 +59576,7 @@
 [/monitoring.qcpp1.net/]127.0.0.1
 [/monitoring.qpdp1.net/]127.0.0.1
 [/monknow.com/]127.0.0.1
+[/monolink.net/]127.0.0.1
 [/monph.com/]127.0.0.1
 [/monsterlin.com/]127.0.0.1
 [/montage-tech.com/]127.0.0.1
@@ -65316,6 +65331,7 @@
 [/player.ioioz.com/]127.0.0.1
 [/player.juyun.tv/]127.0.0.1
 [/player2.juyun.tv/]127.0.0.1
+[/playerinfinite.com/]127.0.0.1
 [/playezu.com/]127.0.0.1
 [/playfifa.com/]127.0.0.1
 [/playgm.cc/]127.0.0.1
@@ -82591,6 +82607,7 @@
 [/vipglobal.hk/]127.0.0.1
 [/vipgs.net/]127.0.0.1
 [/vipgslb.com/]127.0.0.1
+[/vipguanjia.net/]127.0.0.1
 [/viphudong.com/]127.0.0.1
 [/viphxw.com/]127.0.0.1
 [/vipjingdong.com/]127.0.0.1
@@ -87473,6 +87490,7 @@
 [/xdystar.com/]127.0.0.1
 [/xdytuliao.com/]127.0.0.1
 [/xdyy100.com/]127.0.0.1
+[/xdyy8.com/]127.0.0.1
 [/xdzhsw.com/]127.0.0.1
 [/xdzu.net/]127.0.0.1
 [/xed.plus/]127.0.0.1

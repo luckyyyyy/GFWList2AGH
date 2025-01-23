@@ -4460,6 +4460,7 @@
 [/50vm.com/]127.0.0.1
 [/50yc.com/]127.0.0.1
 [/50yin.com/]127.0.0.1
+[/50yu.com/]127.0.0.1
 [/50zera.com/]127.0.0.1
 [/50zw.co/]127.0.0.1
 [/50zw.com/]127.0.0.1
@@ -10233,6 +10234,7 @@
 [/akhy.com/]127.0.0.1
 [/aki-game.com/]127.0.0.1
 [/aki-game.net/]127.0.0.1
+[/aki-game2.com/]127.0.0.1
 [/aki-game2.net/]127.0.0.1
 [/akile.net/]127.0.0.1
 [/akjianding.com/]127.0.0.1
@@ -16327,6 +16329,7 @@
 [/bytefcdnrd.com/]127.0.0.1
 [/bytegecko.com/]127.0.0.1
 [/bytegeckoext.com/]127.0.0.1
+[/bytegle.site/]127.0.0.1
 [/bytegle.tech/]127.0.0.1
 [/bytegoofy.com/]127.0.0.1
 [/bytegqpo.net/]127.0.0.1
@@ -20434,6 +20437,7 @@
 [/claritywallpaper.com/]127.0.0.1
 [/clarivate.com/]127.0.0.1
 [/clashroyaleapp.com/]127.0.0.1
+[/classa-z.com/]127.0.0.1
 [/classcms.com/]127.0.0.1
 [/classinpaas.com/]127.0.0.1
 [/classix-unlimited.co.uk/]127.0.0.1
@@ -24262,6 +24266,7 @@
 [/dcarvod.com/]127.0.0.1
 [/dcatgame.com/]127.0.0.1
 [/dcb123.com/]127.0.0.1
+[/dcccji.com/]127.0.0.1
 [/dcdapp.com/]127.0.0.1
 [/dcdkjx.com/]127.0.0.1
 [/dcdnx.com/]127.0.0.1
@@ -30807,6 +30812,7 @@
 [/fogcloud.io/]127.0.0.1
 [/foguanghui.org/]127.0.0.1
 [/foioo.com/]127.0.0.1
+[/foisonad.com/]127.0.0.1
 [/fojiaonet.com/]127.0.0.1
 [/fojiaoyongpin.com/]127.0.0.1
 [/foldur.com/]127.0.0.1
@@ -34261,6 +34267,7 @@
 [/gouwule.com/]127.0.0.1
 [/gouwuyu.com/]127.0.0.1
 [/gouyoukeji.com/]127.0.0.1
+[/gov-static.tech/]127.0.0.1
 [/govfz.com/]127.0.0.1
 [/govisionox.net/]127.0.0.1
 [/govmade.com/]127.0.0.1
@@ -42497,6 +42504,7 @@
 [/huinongtx.com/]127.0.0.1
 [/huion.com/]127.0.0.1
 [/huiqia.net/]127.0.0.1
+[/huiqianfan.com/]127.0.0.1
 [/huiqiyu.com/]127.0.0.1
 [/huiqk.com/]127.0.0.1
 [/huiqudsp.com/]127.0.0.1
@@ -43376,6 +43384,7 @@
 [/hznetwk.com/]127.0.0.1
 [/hznews.com/]127.0.0.1
 [/hznk91.com/]127.0.0.1
+[/hznkg.com/]127.0.0.1
 [/hznlxs.com/]127.0.0.1
 [/hznsh.com/]127.0.0.1
 [/hzntjt.com/]127.0.0.1
@@ -44001,6 +44010,7 @@
 [/ict361.com/]127.0.0.1
 [/ict88.com/]127.0.0.1
 [/ictcsr.org/]127.0.0.1
+[/ictdns.cloud/]127.0.0.1
 [/ictdns.fun/]127.0.0.1
 [/ictdns.store/]127.0.0.1
 [/ictdns.tech/]127.0.0.1
@@ -64705,6 +64715,7 @@
 [/pksfc.com/]127.0.0.1
 [/pksky.com/]127.0.0.1
 [/pkslow.com/]127.0.0.1
+[/pku-cele.com/]127.0.0.1
 [/pku-hit.com/]127.0.0.1
 [/pku-lvxin.com/]127.0.0.1
 [/pku.tech/]127.0.0.1
@@ -66030,6 +66041,7 @@
 [/qh24.com/]127.0.0.1
 [/qh4321.com/]127.0.0.1
 [/qh6bc.com/]127.0.0.1
+[/qh9y.com/]127.0.0.1
 [/qhangyun.com/]127.0.0.1
 [/qhass.org/]127.0.0.1
 [/qhbtv.com/]127.0.0.1
@@ -72016,6 +72028,7 @@
 [/shewang.net/]127.0.0.1
 [/shewantea.com/]127.0.0.1
 [/sheweikeji.com/]127.0.0.1
+[/shexcloud.com/]127.0.0.1
 [/shexiannet.com/]127.0.0.1
 [/sheying001.net/]127.0.0.1
 [/sheyingtg.com/]127.0.0.1
@@ -73623,6 +73636,7 @@
 [/skinme.cc/]127.0.0.1
 [/skip-links.com/]127.0.0.1
 [/skjcsc.com/]127.0.0.1
+[/skland.com/]127.0.0.1
 [/skldoor.com/]127.0.0.1
 [/sklinux.com/]127.0.0.1
 [/skomart.com/]127.0.0.1
@@ -84718,6 +84732,7 @@
 [/witspring.com/]127.0.0.1
 [/wityx.com/]127.0.0.1
 [/wiwide.com/]127.0.0.1
+[/wiwide.net/]127.0.0.1
 [/wiz03.com/]127.0.0.1
 [/wj-chem.com/]127.0.0.1
 [/wj-hospital.com/]127.0.0.1
@@ -92622,6 +92637,7 @@
 [/youngem.com/]127.0.0.1
 [/youngerfeel.com/]127.0.0.1
 [/youngjoygame.com/]127.0.0.1
+[/youngle.tech/]127.0.0.1
 [/youngor.com/]127.0.0.1
 [/youni.im/]127.0.0.1
 [/younuokeji.cloud/]127.0.0.1

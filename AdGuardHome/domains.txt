@@ -22911,6 +22911,7 @@
 [/cuebzzy.com/]127.0.0.1
 [/cuekit.com/]127.0.0.1
 [/cuelog.com/]127.0.0.1
+[/cueme-api.quark.cn/]127.0.0.1
 [/cufeyk.com/]127.0.0.1
 [/cugala.com/]127.0.0.1
 [/cugstore.com/]127.0.0.1
@@ -66469,6 +66470,7 @@
 [/qingnianwang.com/]127.0.0.1
 [/qingpanduola.com/]127.0.0.1
 [/qingpin.vip/]127.0.0.1
+[/qingping.co/]127.0.0.1
 [/qingqikeji.com/]127.0.0.1
 [/qingqin.com/]127.0.0.1
 [/qingqingmedia.com/]127.0.0.1
@@ -71553,6 +71555,7 @@
 [/sharegog.com/]127.0.0.1
 [/shareinstall.com/]127.0.0.1
 [/shareinstall.net/]127.0.0.1
+[/shareintelli.com/]127.0.0.1
 [/sharejoytech.com/]127.0.0.1
 [/sharejs.com/]127.0.0.1
 [/sharelogis.com/]127.0.0.1
@@ -74820,6 +74823,7 @@
 [/startup-partner.com/]127.0.0.1
 [/starwarschina.com/]127.0.0.1
 [/starway.net/]127.0.0.1
+[/starworldgames.com/]127.0.0.1
 [/starx-w.com/]127.0.0.1
 [/starxiiient.com/]127.0.0.1
 [/starxn.com/]127.0.0.1

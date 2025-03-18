@@ -871,7 +871,6 @@
 [/1008120.com/]127.0.0.1
 [/10086.com/]127.0.0.1
 [/10086.games/]127.0.0.1
-[/1008691.com/]127.0.0.1
 [/10086kuaixiu.com/]127.0.0.1
 [/100883.cc/]127.0.0.1
 [/100883.com/]127.0.0.1
@@ -22774,7 +22773,6 @@
 [/cqrcb.com/]127.0.0.1
 [/cqrcdsc.com/]127.0.0.1
 [/cqrfym.com/]127.0.0.1
-[/cqrjx.com/]127.0.0.1
 [/cqrm.com/]127.0.0.1
 [/cqrmb.com/]127.0.0.1
 [/cqsckj02.com/]127.0.0.1
@@ -48972,7 +48970,6 @@
 [/jjjaaa.com/]127.0.0.1
 [/jjjllk.com/]127.0.0.1
 [/jjjpv.com/]127.0.0.1
-[/jjjx9.com/]127.0.0.1
 [/jjkeq.com/]127.0.0.1
 [/jjkjnet.com/]127.0.0.1
 [/jjkk.org/]127.0.0.1
@@ -52978,7 +52975,6 @@
 [/lacaoshi.com/]127.0.0.1
 [/lacesar.com/]127.0.0.1
 [/lacocrea.com/]127.0.0.1
-[/lacyw.com/]127.0.0.1
 [/ladiyoga.com/]127.0.0.1
 [/ladjzs.com/]127.0.0.1
 [/lady177.com/]127.0.0.1
@@ -55549,6 +55545,7 @@
 [/lnk0.com/]127.0.0.1
 [/lnk8z.com/]127.0.0.1
 [/lnkdjt.com/]127.0.0.1
+[/lnlc2.net/]127.0.0.1
 [/lnlib.net/]127.0.0.1
 [/lnlotto.com/]127.0.0.1
 [/lnmtc.com/]127.0.0.1
@@ -60357,6 +60354,7 @@
 [/mxdmf.com/]127.0.0.1
 [/mxdraw.com/]127.0.0.1
 [/mxdraw3d.com/]127.0.0.1
+[/mxdzlk.com/]127.0.0.1
 [/mxeosbvt.com/]127.0.0.1
 [/mxew.com/]127.0.0.1
 [/mxguan.com/]127.0.0.1
@@ -81097,7 +81095,6 @@
 [/tzsti.com/]127.0.0.1
 [/tzsucai.com/]127.0.0.1
 [/tzswatch.com/]127.0.0.1
-[/tzswll.com/]127.0.0.1
 [/tztrzjt.com/]127.0.0.1
 [/tztusi.com/]127.0.0.1
 [/tzujian.com/]127.0.0.1
@@ -85536,6 +85533,7 @@
 [/withwheat.com/]127.0.0.1
 [/withwinds.com/]127.0.0.1
 [/withzz.com/]127.0.0.1
+[/witintech.com/]127.0.0.1
 [/witmart.net/]127.0.0.1
 [/witnew.net/]127.0.0.1
 [/witontek.com/]127.0.0.1

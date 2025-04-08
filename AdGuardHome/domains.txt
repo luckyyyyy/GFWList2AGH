@@ -13460,6 +13460,7 @@
 [/baidupeixun.com/]127.0.0.1
 [/baidusmartapps.com/]127.0.0.1
 [/baidusobing.com/]127.0.0.1
+[/baidustat.com/]127.0.0.1
 [/baidustatic.com/]127.0.0.1
 [/baidusx.cc/]127.0.0.1
 [/baidusx.com/]127.0.0.1
@@ -16868,6 +16869,7 @@
 [/borenhospital.com/]127.0.0.1
 [/borgmon.adz.google.com/]127.0.0.1
 [/borlonclan.com/]127.0.0.1
+[/born-tw.com/]127.0.0.1
 [/born123.com/]127.0.0.1
 [/borninsummer.com/]127.0.0.1
 [/boroyf.com/]127.0.0.1
@@ -17842,6 +17844,7 @@
 [/bz-e.com/]127.0.0.1
 [/bz01.com/]127.0.0.1
 [/bz55.com/]127.0.0.1
+[/bzayi.baby/]127.0.0.1
 [/bzbgr.com/]127.0.0.1
 [/bzbs.net/]127.0.0.1
 [/bzcjw.com/]127.0.0.1
@@ -24706,6 +24709,7 @@
 [/creationventure.com/]127.0.0.1
 [/creative-micro.com/]127.0.0.1
 [/creator-sh.com/]127.0.0.1
+[/creatreme.com/]127.0.0.1
 [/creavidia.com/]127.0.0.1
 [/crec4.com/]127.0.0.1
 [/crec4mc.com/]127.0.0.1
@@ -37437,6 +37441,7 @@
 [/godweiyang.com/]127.0.0.1
 [/godwolf.com/]127.0.0.1
 [/goeasy.io/]127.0.0.1
+[/goelia1995.com/]127.0.0.1
 [/goepe.com/]127.0.0.1
 [/goertek.com/]127.0.0.1
 [/goetheslz.com/]127.0.0.1
@@ -42562,6 +42567,7 @@
 [/haohanju.com/]127.0.0.1
 [/haohanjx.com/]127.0.0.1
 [/haohanpower.tech/]127.0.0.1
+[/haohanstar.com/]127.0.0.1
 [/haohaomao.com/]127.0.0.1
 [/haohaomy.com/]127.0.0.1
 [/haohaotuan.com/]127.0.0.1
@@ -49786,9 +49792,7 @@
 [/img4me.com/]127.0.0.1
 [/img88391511.cc/]127.0.0.1
 [/img898.com/]127.0.0.1
-[/img8e51zy4bg.com/]127.0.0.1
 [/img8e93zy6bg.com/]127.0.0.1
-[/img8e94zy4bg.com/]127.0.0.1
 [/imgbed.link/]127.0.0.1
 [/imgcdc.com/]127.0.0.1
 [/imgcdn2.com/]127.0.0.1
@@ -54374,7 +54378,6 @@
 [/jrfcg.com/]127.0.0.1
 [/jrgang.com/]127.0.0.1
 [/jrgaofu.com/]127.0.0.1
-[/jrhaigou.com/]127.0.0.1
 [/jrhot.com/]127.0.0.1
 [/jrj.com/]127.0.0.1
 [/jrjiekuan.com/]127.0.0.1
@@ -56387,6 +56390,7 @@
 [/kebango.com/]127.0.0.1
 [/kebenku.com/]127.0.0.1
 [/kebi.biz/]127.0.0.1
+[/kebide.com/]127.0.0.1
 [/kebingzao.com/]127.0.0.1
 [/kebitpiano.com/]127.0.0.1
 [/keboyunxiao.com/]127.0.0.1
@@ -56642,7 +56646,6 @@
 [/keyshot.pro/]127.0.0.1
 [/keytherapharma.com/]127.0.0.1
 [/keytoix.vip/]127.0.0.1
-[/keytui.com/]127.0.0.1
 [/keyu66.com/]127.0.0.1
 [/keyuejiazheng.com/]127.0.0.1
 [/keyueng.com/]127.0.0.1
@@ -74676,7 +74679,6 @@
 [/qqkj66.com/]127.0.0.1
 [/qqkjj.com/]127.0.0.1
 [/qqkkb.com/]127.0.0.1
-[/qqkkpos.com/]127.0.0.1
 [/qqkrmotors.com/]127.0.0.1
 [/qqku.com/]127.0.0.1
 [/qqkuyou.com/]127.0.0.1
@@ -82479,6 +82481,8 @@
 [/so.com/]127.0.0.1
 [/so03290koaq.com/]127.0.0.1
 [/so03300koaq.com/]127.0.0.1
+[/so04060koaq.com/]127.0.0.1
+[/so04061koaq.com/]127.0.0.1
 [/so126.com/]127.0.0.1
 [/so666gslb.com/]127.0.0.1
 [/so8848.com/]127.0.0.1
@@ -88356,7 +88360,6 @@
 [/tp308kaiyuan.vip/]127.0.0.1
 [/tp82.com/]127.0.0.1
 [/tpadx.com/]127.0.0.1
-[/tpbankvn.com/]127.0.0.1
 [/tpbook.com/]127.0.0.1
 [/tpccoo.com/]127.0.0.1
 [/tpcmacao.com/]127.0.0.1
@@ -90158,7 +90161,6 @@
 [/union178.com/]127.0.0.1
 [/union400.com/]127.0.0.1
 [/union555.com/]127.0.0.1
-[/unionbig.com/]127.0.0.1
 [/unioncom.cc/]127.0.0.1
 [/unioncyber.net/]127.0.0.1
 [/unionli.com/]127.0.0.1
@@ -99533,6 +99535,7 @@
 [/xuexi827.com/]127.0.0.1
 [/xuexi828.com/]127.0.0.1
 [/xuexi829.com/]127.0.0.1
+[/xuexi848.com/]127.0.0.1
 [/xuexi851.com/]127.0.0.1
 [/xuexi860.com/]127.0.0.1
 [/xuexi863.com/]127.0.0.1
@@ -100122,6 +100125,7 @@
 [/xyzcdn.net/]127.0.0.1
 [/xyzcn.com/]127.0.0.1
 [/xyzdict.com/]127.0.0.1
+[/xyzdns.xyz/]127.0.0.1
 [/xyzele.com/]127.0.0.1
 [/xyzfm.link/]127.0.0.1
 [/xyzfm.space/]127.0.0.1
@@ -103335,6 +103339,7 @@
 [/youyix.com/]127.0.0.1
 [/youyizhidao.com/]127.0.0.1
 [/youyo88.com/]127.0.0.1
+[/youyogame.com/]127.0.0.1
 [/youyou.com/]127.0.0.1
 [/youyou001.com/]127.0.0.1
 [/youyou234.com/]127.0.0.1

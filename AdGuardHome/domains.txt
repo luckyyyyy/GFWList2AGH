@@ -3630,7 +3630,6 @@
 [/315code.com/]127.0.0.1
 [/315dian.com/]127.0.0.1
 [/315fangwei.com/]127.0.0.1
-[/315gg.com/]127.0.0.1
 [/315hyw.com/]127.0.0.1
 [/315i.com/]127.0.0.1
 [/315img.com/]127.0.0.1
@@ -26715,6 +26714,7 @@
 [/cpitsh.org/]127.0.0.1
 [/cpixe.com/]127.0.0.1
 [/cpjltx.com/]127.0.0.1
+[/cpknj.com/]127.0.0.1
 [/cplamc.com/]127.0.0.1
 [/cplotus.com/]127.0.0.1
 [/cpm1000.com/]127.0.0.1
@@ -31864,6 +31864,14 @@
 [/domaingz.com/]127.0.0.1
 [/domaintescil.com/]127.0.0.1
 [/domengle.com/]127.0.0.1
+[/domesticmedia.cc/]127.0.0.1
+[/domesticmedia.co/]127.0.0.1
+[/domesticmedia.com/]127.0.0.1
+[/domesticmedia.net/]127.0.0.1
+[/domesticmedia.tv/]127.0.0.1
+[/domesticmediagame.co/]127.0.0.1
+[/domesticmediagame.net/]127.0.0.1
+[/domesticmediapay.com/]127.0.0.1
 [/domilight.com/]127.0.0.1
 [/dominoh.com/]127.0.0.1
 [/domob-inc.com/]127.0.0.1
@@ -48157,7 +48165,6 @@
 [/hdschina.com/]127.0.0.1
 [/hdschools.org/]127.0.0.1
 [/hdsdyyy.com/]127.0.0.1
-[/hdsky.me/]127.0.0.1
 [/hdslb.com/]127.0.0.1
 [/hdslb.net/]127.0.0.1
 [/hdslb.org/]127.0.0.1
@@ -49570,7 +49577,6 @@
 [/hjpp.net/]127.0.0.1
 [/hjr-exchange.com/]127.0.0.1
 [/hjren.com/]127.0.0.1
-[/hjshal.com/]127.0.0.1
 [/hjsj.com/]127.0.0.1
 [/hjtag.com/]127.0.0.1
 [/hjunkel.com/]127.0.0.1
@@ -72825,6 +72831,7 @@
 [/moto8.net/]127.0.0.1
 [/motomatu.com/]127.0.0.1
 [/motooy.com/]127.0.0.1
+[/motor-comm.com/]127.0.0.1
 [/motormade.com/]127.0.0.1
 [/motowoo.com/]127.0.0.1
 [/motuo2.com/]127.0.0.1
@@ -73278,7 +73285,6 @@
 [/mushafa.net/]127.0.0.1
 [/music.apple.com/]127.0.0.1
 [/music4x.com/]127.0.0.1
-[/musical.ly/]127.0.0.1
 [/musicchina-expo.com/]127.0.0.1
 [/musiccia.com/]127.0.0.1
 [/musicd.cc/]127.0.0.1
@@ -75009,7 +75015,6 @@
 [/nhzj.com/]127.0.0.1
 [/nhzs.com/]127.0.0.1
 [/ni8.com/]127.0.0.1
-[/ni87.com/]127.0.0.1
 [/ni93.com/]127.0.0.1
 [/nianbin.com/]127.0.0.1
 [/nianchu.net/]127.0.0.1
@@ -79941,7 +79946,6 @@
 [/pobaby.net/]127.0.0.1
 [/pobasoft.com/]127.0.0.1
 [/pochanguanliyanjiu.com/]127.0.0.1
-[/pochengweiyuan.com/]127.0.0.1
 [/pochezu.com/]127.0.0.1
 [/pocketdigi.com/]127.0.0.1
 [/pocketuni.net/]127.0.0.1
@@ -81231,6 +81235,7 @@
 [/qeeniao.com/]127.0.0.1
 [/qeerd.com/]127.0.0.1
 [/qefee.com/]127.0.0.1
+[/qegcdn.com/]127.0.0.1
 [/qekgcdcjr000.fun/]127.0.0.1
 [/qeoagphm.com/]127.0.0.1
 [/qeodns.com/]127.0.0.1
@@ -105965,6 +105970,7 @@
 [/www.gstatic.com/]127.0.0.1
 [/www.htc.com/]127.0.0.1
 [/www.htcsense.com/]127.0.0.1
+[/www.laecloud.com/]127.0.0.1
 [/www.libvideo.com/]127.0.0.1
 [/www.microsoft.com/]127.0.0.1
 [/www.nike.com/]127.0.0.1
@@ -105977,6 +105983,7 @@
 [/www.support.apple.com/]127.0.0.1
 [/www.szmgiptv.com/]127.0.0.1
 [/www.tutorabc.com/]127.0.0.1
+[/www.uz0.xyz/]127.0.0.1
 [/www.viveport.com/]127.0.0.1
 [/www.volvocars.com/]127.0.0.1
 [/www.yxssp.com/]127.0.0.1
@@ -108266,6 +108273,7 @@
 [/xijinfa.com/]127.0.0.1
 [/xijing01.com/]127.0.0.1
 [/xijingufen.com/]127.0.0.1
+[/xikang365.net/]127.0.0.1
 [/xikcloud.com/]127.0.0.1
 [/xikii.com/]127.0.0.1
 [/xikoutourism.com/]127.0.0.1
@@ -108392,7 +108400,6 @@
 [/xinduoad.com/]127.0.0.1
 [/xinenw.com/]127.0.0.1
 [/xiner-membrane.com/]127.0.0.1
-[/xiner.xyz/]127.0.0.1
 [/xineurope.com/]127.0.0.1
 [/xinexpress.com/]127.0.0.1
 [/xinfangsheng.com/]127.0.0.1
@@ -108717,6 +108724,7 @@
 [/xinmizx.com/]127.0.0.1
 [/xinnakj.com/]127.0.0.1
 [/xinnet.com/]127.0.0.1
+[/xinnetdns.com/]127.0.0.1
 [/xinnetvip.com/]127.0.0.1
 [/xinniangjie.com/]127.0.0.1
 [/xinnianhua.com/]127.0.0.1
@@ -113867,7 +113875,6 @@
 [/ynx111.com/]127.0.0.1
 [/ynxcbc.com/]127.0.0.1
 [/ynxdfpr.com/]127.0.0.1
-[/ynxhsy.com/]127.0.0.1
 [/ynxingexinxi.com/]127.0.0.1
 [/ynxinhua.com/]127.0.0.1
 [/ynxinshili.com/]127.0.0.1

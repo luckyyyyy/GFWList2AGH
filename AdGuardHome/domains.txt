@@ -35162,6 +35162,7 @@
 [/eszzxxz.com/]127.0.0.1
 [/et-api.com/]127.0.0.1
 [/et-fine.com/]127.0.0.1
+[/et001.com/]127.0.0.1
 [/et363.com/]127.0.0.1
 [/et59.com/]127.0.0.1
 [/et998.com/]127.0.0.1
@@ -42611,6 +42612,7 @@
 [/guahaowang.com/]127.0.0.1
 [/guaiguai.com/]127.0.0.1
 [/guaihou.com/]127.0.0.1
+[/guaiku.com/]127.0.0.1
 [/guaileicp.com/]127.0.0.1
 [/guaili.org/]127.0.0.1
 [/guailuo.com/]127.0.0.1
@@ -71776,6 +71778,7 @@
 [/mingxingbobbin.com/]127.0.0.1
 [/mingxingku.com/]127.0.0.1
 [/mingxinglai.com/]127.0.0.1
+[/mingxuan.store/]127.0.0.1
 [/mingxuanxz.com/]127.0.0.1
 [/mingya.mobi/]127.0.0.1
 [/mingyafeng.com/]127.0.0.1
@@ -96851,6 +96854,7 @@
 [/timanetworks.com/]127.0.0.1
 [/time-weekly.com/]127.0.0.1
 [/time-year.com/]127.0.0.1
+[/time.amazonaws.cn/]127.0.0.1
 [/time.izatcloud.net/]127.0.0.1
 [/time.xtracloud.net/]127.0.0.1
 [/timecloud.us/]127.0.0.1

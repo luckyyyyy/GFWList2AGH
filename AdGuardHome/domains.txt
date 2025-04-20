@@ -10424,6 +10424,7 @@
 [/abykt.com/]127.0.0.1
 [/abyssdawn.com/]127.0.0.1
 [/abz-sh.com/]127.0.0.1
+[/ac.fun/]127.0.0.1
 [/ac268.com/]127.0.0.1
 [/ac57.com/]127.0.0.1
 [/acabridge.net/]127.0.0.1
@@ -10473,6 +10474,7 @@
 [/acfechina.org/]127.0.0.1
 [/acftu.org/]127.0.0.1
 [/acfun.com/]127.0.0.1
+[/acfun.net/]127.0.0.1
 [/acfun.tv/]127.0.0.1
 [/acfunchina.com/]127.0.0.1
 [/acfunchina.net/]127.0.0.1
@@ -13319,7 +13321,6 @@
 [/applebl.com/]127.0.0.1
 [/appledp.com/]127.0.0.1
 [/appleid.cdn-apple.com/]127.0.0.1
-[/applemdm.corp.google.com/]127.0.0.1
 [/applemei.com/]127.0.0.1
 [/applepopo.com/]127.0.0.1
 [/applethome.com/]127.0.0.1
@@ -18392,7 +18393,6 @@
 [/borderlessbd.com/]127.0.0.1
 [/borenhospital.com/]127.0.0.1
 [/borgheseonline.com/]127.0.0.1
-[/borgmon.adz.google.com/]127.0.0.1
 [/borlonclan.com/]127.0.0.1
 [/born-tw.com/]127.0.0.1
 [/born123.com/]127.0.0.1
@@ -22274,6 +22274,8 @@
 [/cheshipin.com/]127.0.0.1
 [/cheshirex.com/]127.0.0.1
 [/cheshizh.com/]127.0.0.1
+[/chesicc.com/]127.0.0.1
+[/chesicc.net/]127.0.0.1
 [/chesir.com/]127.0.0.1
 [/chesir.net/]127.0.0.1
 [/chestercharles.com/]127.0.0.1
@@ -31556,7 +31558,6 @@
 [/dns-url.com/]127.0.0.1
 [/dns-vip.net/]127.0.0.1
 [/dns.com/]127.0.0.1
-[/dns.corp.google.com/]127.0.0.1
 [/dns.la/]127.0.0.1
 [/dns.pub/]127.0.0.1
 [/dns002.com/]127.0.0.1
@@ -37631,12 +37632,10 @@
 [/fonsview.com/]127.0.0.1
 [/font.im/]127.0.0.1
 [/font6.com/]127.0.0.1
-[/fontfiles.googleadapis.com/]127.0.0.1
 [/fontfiles.googleapis.com/]127.0.0.1
 [/fontke.com/]127.0.0.1
 [/fontong.com/]127.0.0.1
 [/fontoohotels.com/]127.0.0.1
-[/fonts.googleadapis.com/]127.0.0.1
 [/fonts.googleapis.com/]127.0.0.1
 [/fonts.gstatic.com/]127.0.0.1
 [/fonye.com/]127.0.0.1
@@ -38776,7 +38775,6 @@
 [/g32365.com/]127.0.0.1
 [/g3bocaitong.com/]127.0.0.1
 [/g3d.org/]127.0.0.1
-[/g3doc.corp.google.com/]127.0.0.1
 [/g3img.com/]127.0.0.1
 [/g3user.com/]127.0.0.1
 [/g3voip.com/]127.0.0.1
@@ -40146,6 +40144,8 @@
 [/gfan.com/]127.0.0.1
 [/gfanstore.com/]127.0.0.1
 [/gfbk.net/]127.0.0.1
+[/gfbzb.com/]127.0.0.1
+[/gfbzb.net/]127.0.0.1
 [/gfcdn.xyz/]127.0.0.1
 [/gfcity.com/]127.0.0.1
 [/gfcname.com/]127.0.0.1
@@ -41369,7 +41369,6 @@
 [/gmquickapp.com/]127.0.0.1
 [/gmrmyy.com/]127.0.0.1
 [/gmsec.net/]127.0.0.1
-[/gmskiosk-ssl.corp.google.com/]127.0.0.1
 [/gmsolid.com/]127.0.0.1
 [/gmssl.org/]127.0.0.1
 [/gmswl.com/]127.0.0.1
@@ -41801,7 +41800,6 @@
 [/googlenav.com/]127.0.0.1
 [/googleoptimize-cn.com/]127.0.0.1
 [/googleoptimize.com/]127.0.0.1
-[/googleplex.com/]127.0.0.1
 [/googleplus.party/]127.0.0.1
 [/googlesyndication-cn.com/]127.0.0.1
 [/googlesyndication.com/]127.0.0.1
@@ -41849,7 +41847,6 @@
 [/gorebuy.com/]127.0.0.1
 [/goregxa.com/]127.0.0.1
 [/gorichox.com/]127.0.0.1
-[/gorom.corp.google.com/]127.0.0.1
 [/gorouter.info/]127.0.0.1
 [/gorse.com/]127.0.0.1
 [/gortune.com/]127.0.0.1
@@ -41876,8 +41873,6 @@
 [/goto-game.com/]127.0.0.1
 [/goto-game.mobi/]127.0.0.1
 [/goto-game.org/]127.0.0.1
-[/goto.corp.google.com/]127.0.0.1
-[/goto.google.com/]127.0.0.1
 [/gotobath.com/]127.0.0.1
 [/gotocdn.com/]127.0.0.1
 [/gotocoding.com/]127.0.0.1
@@ -51802,6 +51797,7 @@
 [/huaweicloud-dns.net/]127.0.0.1
 [/huaweicloud-dns.org/]127.0.0.1
 [/huaweicloud-idme.com/]127.0.0.1
+[/huaweicloud-koophone.com/]127.0.0.1
 [/huaweicloud-smn.com/]127.0.0.1
 [/huaweicloud-smn.net/]127.0.0.1
 [/huaweicloud.com/]127.0.0.1
@@ -72278,6 +72274,7 @@
 [/modb.cc/]127.0.0.1
 [/modb.pro/]127.0.0.1
 [/modelarts-infer.com/]127.0.0.1
+[/modelarts-maas.com/]127.0.0.1
 [/modelevel.com/]127.0.0.1
 [/modelltd.com/]127.0.0.1
 [/modelones.com/]127.0.0.1
@@ -81115,6 +81112,7 @@
 [/qgyqshz.com/]127.0.0.1
 [/qgysj.org/]127.0.0.1
 [/qgyyzs.net/]127.0.0.1
+[/qgzb.net/]127.0.0.1
 [/qgzxx.com/]127.0.0.1
 [/qgzzz.com/]127.0.0.1
 [/qh-cdn.com/]127.0.0.1
@@ -83799,10 +83797,7 @@
 [/rapidppt.com/]127.0.0.1
 [/rapoo.com/]127.0.0.1
 [/rapospectre.com/]127.0.0.1
-[/rapture-autopush.corp.google.com/]127.0.0.1
 [/rapture-prod.corp.google.com/]127.0.0.1
-[/rapture-test.corp.google.com/]127.0.0.1
-[/rapture.corp.google.com/]127.0.0.1
 [/rarbg.to/]127.0.0.1
 [/rarcbank.com/]127.0.0.1
 [/rarelit.net/]127.0.0.1
@@ -84141,7 +84136,6 @@
 [/regengbaike.com/]127.0.0.1
 [/regexlab.com/]127.0.0.1
 [/regexr-cn.com/]127.0.0.1
-[/regioninfo-pa.googleapis.com/]127.0.0.1
 [/reglogo.net/]127.0.0.1
 [/regltd.com/]127.0.0.1
 [/regtm.com/]127.0.0.1
@@ -92028,7 +92022,6 @@
 [/ssgushi.com/]127.0.0.1
 [/ssgxwq.com/]127.0.0.1
 [/ssgz.com/]127.0.0.1
-[/ssh-relay.corp.google.com/]127.0.0.1
 [/sshce.com/]127.0.0.1
 [/sshr.net/]127.0.0.1
 [/sshzhuangshipin.com/]127.0.0.1
@@ -92166,7 +92159,6 @@
 [/staginfo.com/]127.0.0.1
 [/staging-controlbe.floonet.goog/]127.0.0.1
 [/staging-databe.floonet.goog/]127.0.0.1
-[/staging-regioninfo-pa.googleapis.com/]127.0.0.1
 [/staging.databe.floonet.goog/]127.0.0.1
 [/staidson.com/]127.0.0.1
 [/stanbt.com/]127.0.0.1
@@ -93048,7 +93040,6 @@
 [/support.1ucrs.com/]127.0.0.1
 [/support.amd.com/]127.0.0.1
 [/support.apple.com/]127.0.0.1
-[/supportcenter.corp.google.com/]127.0.0.1
 [/supreme-oe.com/]127.0.0.1
 [/supuvalve.com/]127.0.0.1
 [/supwisdom.com/]127.0.0.1
@@ -95651,7 +95642,6 @@
 [/techshidai.com/]127.0.0.1
 [/techsir.com/]127.0.0.1
 [/techsize.com/]127.0.0.1
-[/techstop.corp.google.com/]127.0.0.1
 [/techtmt.com/]127.0.0.1
 [/techtop.com/]127.0.0.1
 [/techuangyi.com/]127.0.0.1
@@ -99211,14 +99201,8 @@
 [/ubccn.com/]127.0.0.1
 [/ubeethiesemo.com/]127.0.0.1
 [/ubeihai.com/]127.0.0.1
-[/uberproxy-debug.corp.google.com/]127.0.0.1
 [/uberproxy-debug4.corp.google.com/]127.0.0.1
-[/uberproxy-pen-redirect.corp.google.com/]127.0.0.1
-[/uberproxy-with-cn.l.google.com/]127.0.0.1
-[/uberproxy-with-cn4.l.google.com/]127.0.0.1
-[/uberproxy-with-cn6.l.google.com/]127.0.0.1
 [/uberproxy.corp.google.com/]127.0.0.1
-[/uberproxy4.corp.google.com/]127.0.0.1
 [/uberproxy6.corp.google.com/]127.0.0.1
 [/ubersz.com/]127.0.0.1
 [/ubesh.com/]127.0.0.1
@@ -100690,7 +100674,6 @@
 [/vetscloud.com/]127.0.0.1
 [/vevor.net/]127.0.0.1
 [/vevsmize.com/]127.0.0.1
-[/vext.corp.google.com/]127.0.0.1
 [/vez.me/]127.0.0.1
 [/vf5c.com/]127.0.0.1
 [/vfcdnrd.com/]127.0.0.1
@@ -105725,7 +105708,6 @@
 [/www.djivideos.com/]127.0.0.1
 [/www.entrust.cn/]127.0.0.1
 [/www.filmon.com/]127.0.0.1
-[/www.googleadapis.com/]127.0.0.1
 [/www.gov.mo/]127.0.0.1
 [/www.gstatic.com/]127.0.0.1
 [/www.htc.com/]127.0.0.1
@@ -116525,6 +116507,7 @@
 [/zbao.com/]127.0.0.1
 [/zbao56.com/]127.0.0.1
 [/zbbar.net/]127.0.0.1
+[/zbbm.net/]127.0.0.1
 [/zbbus.com/]127.0.0.1
 [/zbc.pub/]127.0.0.1
 [/zbc.wiki/]127.0.0.1

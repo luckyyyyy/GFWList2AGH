@@ -47231,7 +47231,10 @@
 [/hapg-hitachi.com/]127.0.0.1
 [/hapi123.net/]127.0.0.1
 [/hapids.com/]127.0.0.1
+[/hapierxia.com/]127.0.0.1
 [/hapingapp.com/]127.0.0.1
+[/hapipixia.com/]127.0.0.1
+[/hapiyixia.com/]127.0.0.1
 [/hapjs.org/]127.0.0.1
 [/haplat.net/]127.0.0.1
 [/happi123.com/]127.0.0.1
@@ -62006,6 +62009,8 @@
 [/kaimg.com/]127.0.0.1
 [/kaimitech.com/]127.0.0.1
 [/kaipanla.com/]127.0.0.1
+[/kaipuyun.com/]127.0.0.1
+[/kaipuyun.net/]127.0.0.1
 [/kaiqiancq.com/]127.0.0.1
 [/kaiqiu.cc/]127.0.0.1
 [/kaiqsz.com/]127.0.0.1
@@ -63937,6 +63942,7 @@
 [/kuailedo.com/]127.0.0.1
 [/kuailekaishi.com/]127.0.0.1
 [/kuailelunwen.com/]127.0.0.1
+[/kuailepipixia.com/]127.0.0.1
 [/kuailetongyao.com/]127.0.0.1
 [/kuailexs.com/]127.0.0.1
 [/kuailexue.com/]127.0.0.1
@@ -79447,6 +79453,7 @@
 [/pipishu.com/]127.0.0.1
 [/pipiti.com/]127.0.0.1
 [/pipix.com/]127.0.0.1
+[/pipixiaha.com/]127.0.0.1
 [/pipiyo.com/]127.0.0.1
 [/pipsemi.com/]127.0.0.1
 [/pipuda.com/]127.0.0.1
@@ -80101,10 +80108,13 @@
 [/ppwwyyxx.com/]127.0.0.1
 [/ppx520.com/]127.0.0.1
 [/ppxclub.com/]127.0.0.1
+[/ppxhhh.com/]127.0.0.1
 [/ppxiaoshuowang.com/]127.0.0.1
+[/ppximg.com/]127.0.0.1
 [/ppxm.com/]127.0.0.1
 [/ppxmw.com/]127.0.0.1
 [/ppxs.net/]127.0.0.1
+[/ppxstatic.com/]127.0.0.1
 [/ppxsw.co/]127.0.0.1
 [/ppxvod.com/]127.0.0.1
 [/ppxwo.com/]127.0.0.1

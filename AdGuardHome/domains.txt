@@ -31158,6 +31158,7 @@
 [/djiang.net/]127.0.0.1
 [/djiavip.com/]127.0.0.1
 [/djicdn.com/]127.0.0.1
+[/djiits.com/]127.0.0.1
 [/djiops.com/]127.0.0.1
 [/djiservice.org/]127.0.0.1
 [/djjgj.com/]127.0.0.1
@@ -72462,6 +72463,7 @@
 [/mored.com/]127.0.0.1
 [/moredian.com/]127.0.0.1
 [/morefood.com/]127.0.0.1
+[/morefreegame.com/]127.0.0.1
 [/morefun-philippines.com/]127.0.0.1
 [/moregy.com/]127.0.0.1
 [/moreless.io/]127.0.0.1
@@ -107432,6 +107434,7 @@
 [/xiaomeiti.com/]127.0.0.1
 [/xiaomeng1235.com/]127.0.0.1
 [/xiaomi.com/]127.0.0.1
+[/xiaomi.eu/]127.0.0.1
 [/xiaomi.hk/]127.0.0.1
 [/xiaomi.net/]127.0.0.1
 [/xiaomi.org/]127.0.0.1

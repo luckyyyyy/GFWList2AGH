@@ -13860,7 +13860,6 @@
 [/asset-vendor-event.msi.com/]127.0.0.1
 [/asset.msi.com/]127.0.0.1
 [/assets-global.viveport.com/]127.0.0.1
-[/assets.analog.com/]127.0.0.1
 [/assets.uxengine.net/]127.0.0.1
 [/assrt.net/]127.0.0.1
 [/assyrb.com/]127.0.0.1
@@ -107908,7 +107907,6 @@
 [/www-googletagmanager.l.google.com/]127.0.0.1
 [/www.adobe.com/]127.0.0.1
 [/www.amd.com/]127.0.0.1
-[/www.analog.com/]127.0.0.1
 [/www.apple.com/]127.0.0.1
 [/www.apple.com.edgekey.net/]127.0.0.1
 [/www.apple.com.edgekey.net.globalredir.akadns.net/]127.0.0.1

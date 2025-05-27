@@ -30524,10 +30524,17 @@
 [/deweisi.net/]127.0.0.1
 [/dewiqq.asia/]127.0.0.1
 [/dewmobile.net/]127.0.0.1
+[/dewu-inc.com/]127.0.0.1
+[/dewu-inner.com/]127.0.0.1
+[/dewu-inner.net/]127.0.0.1
+[/dewu.co/]127.0.0.1
 [/dewu.com/]127.0.0.1
 [/dewu.net/]127.0.0.1
 [/dewucdn.com/]127.0.0.1
+[/dewuhd.com/]127.0.0.1
+[/dewuhui.com/]127.0.0.1
 [/dewumall.com/]127.0.0.1
+[/dewuyouhui.com/]127.0.0.1
 [/dewx.net/]127.0.0.1
 [/dexejhyxh.com/]127.0.0.1
 [/dexian.mobi/]127.0.0.1
@@ -32927,6 +32934,7 @@
 [/du-xiaomai.com/]127.0.0.1
 [/du7.com/]127.0.0.1
 [/du8.com/]127.0.0.1
+[/du8.ltd/]127.0.0.1
 [/dualaid.com/]127.0.0.1
 [/dualspace.com/]127.0.0.1
 [/dualspacetech.com/]127.0.0.1
@@ -33289,6 +33297,7 @@
 [/dvsadive.com/]127.0.0.1
 [/dvvvs.com/]127.0.0.1
 [/dw-microbiology.com/]127.0.0.1
+[/dw2.co/]127.0.0.1
 [/dw4.co/]127.0.0.1
 [/dwbxg.com/]127.0.0.1
 [/dwdds.com/]127.0.0.1
@@ -33296,6 +33305,7 @@
 [/dwgbj.com/]127.0.0.1
 [/dwgszc.com/]127.0.0.1
 [/dwgwatch.com/]127.0.0.1
+[/dwhhd.com/]127.0.0.1
 [/dwhub.net/]127.0.0.1
 [/dwhut.com/]127.0.0.1
 [/dwidc.com/]127.0.0.1
@@ -41293,6 +41303,8 @@
 [/giffox.com/]127.0.0.1
 [/gifhome.com/]127.0.0.1
 [/gifshow.com/]127.0.0.1
+[/giftatdw.com/]127.0.0.1
+[/giftattoday.com/]127.0.0.1
 [/giftres.com/]127.0.0.1
 [/giftsbeijing.com/]127.0.0.1
 [/gifu-pr.com/]127.0.0.1
@@ -79326,6 +79338,7 @@
 [/pandapaint.net/]127.0.0.1
 [/pandara.xyz/]127.0.0.1
 [/pandaremit.com/]127.0.0.1
+[/pandarzli.com/]127.0.0.1
 [/pandateacher.com/]127.0.0.1
 [/pandatv.com/]127.0.0.1
 [/pandax.wiki/]127.0.0.1
@@ -79884,6 +79897,7 @@
 [/pengyaou.com/]127.0.0.1
 [/pengyihotel.com/]127.0.0.1
 [/pengyou.com/]127.0.0.1
+[/pengyoudewu.com/]127.0.0.1
 [/pengyoukan.com/]127.0.0.1
 [/pengyuanled.com/]127.0.0.1
 [/pengyucpa.com/]127.0.0.1
@@ -80778,7 +80792,11 @@
 [/poinesttia.com/]127.0.0.1
 [/point-memory.com/]127.0.0.1
 [/poiuytw.com/]127.0.0.1
+[/poizon-inner.com/]127.0.0.1
+[/poizon-inner.net/]127.0.0.1
+[/poizon-support.com/]127.0.0.1
 [/poizon.com/]127.0.0.1
+[/poizon.net/]127.0.0.1
 [/poj.org/]127.0.0.1
 [/pojianyunfu.com/]127.0.0.1
 [/poke203.com/]127.0.0.1
@@ -90183,6 +90201,7 @@
 [/shizhihome.com/]127.0.0.1
 [/shizhongruyi.com/]127.0.0.1
 [/shizhuang-inc.com/]127.0.0.1
+[/shizhuang-inc.net/]127.0.0.1
 [/shizhuolin.com/]127.0.0.1
 [/shizhuonet.com/]127.0.0.1
 [/shj6789.com/]127.0.0.1
@@ -106347,6 +106366,7 @@
 [/womeifilm.com/]127.0.0.1
 [/womeimenye.com/]127.0.0.1
 [/women-heart.com/]127.0.0.1
+[/womendedw.com/]127.0.0.1
 [/womenjie.com/]127.0.0.1
 [/wonadea.com/]127.0.0.1
 [/wonder.wiki/]127.0.0.1

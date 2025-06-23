@@ -1658,7 +1658,6 @@
 [/13636.com/]127.0.0.1
 [/1366.com/]127.0.0.1
 [/13667703999.com/]127.0.0.1
-[/1368999.com/]127.0.0.1
 [/136fc.com/]127.0.0.1
 [/136hr.com/]127.0.0.1
 [/136pic.com/]127.0.0.1
@@ -10617,6 +10616,7 @@
 [/adxhome.com/]127.0.0.1
 [/adxiaozi.com/]127.0.0.1
 [/adxliangmei.com/]127.0.0.1
+[/adxmax.com/]127.0.0.1
 [/adxmq.com/]127.0.0.1
 [/adxpand.com/]127.0.0.1
 [/adxqd.com/]127.0.0.1
@@ -24118,7 +24118,6 @@
 [/ciie.org/]127.0.0.1
 [/ciif-expo.com/]127.0.0.1
 [/ciiip.com/]127.0.0.1
-[/ciimg.com/]127.0.0.1
 [/ciiplat.com/]127.0.0.1
 [/cijiasu.com/]127.0.0.1
 [/cijiyun.com/]127.0.0.1
@@ -30882,6 +30881,7 @@
 [/diary365.net/]127.0.0.1
 [/diaxue.com/]127.0.0.1
 [/diazha.com/]127.0.0.1
+[/dibaifang.com/]127.0.0.1
 [/dibang18.com/]127.0.0.1
 [/dibangshou.com/]127.0.0.1
 [/dibaotong.com/]127.0.0.1
@@ -31298,6 +31298,7 @@
 [/djeconomic.com/]127.0.0.1
 [/djf.com/]127.0.0.1
 [/djf313.com/]127.0.0.1
+[/djfensi.com/]127.0.0.1
 [/djfj.net/]127.0.0.1
 [/djfrj.com/]127.0.0.1
 [/djgy.com/]127.0.0.1
@@ -31692,6 +31693,7 @@
 [/dnsis.net/]127.0.0.1
 [/dnsjia.com/]127.0.0.1
 [/dnsjiasu001.com/]127.0.0.1
+[/dnslah.com/]127.0.0.1
 [/dnslin.com/]127.0.0.1
 [/dnslv.com/]127.0.0.1
 [/dnsmeasurement.com/]127.0.0.1
@@ -38604,7 +38606,6 @@
 [/fuwuqu.com/]127.0.0.1
 [/fuxila.com/]127.0.0.1
 [/fuxin-sh.com/]127.0.0.1
-[/fuxin-tech.com/]127.0.0.1
 [/fuxinbank.com/]127.0.0.1
 [/fuxinews.com/]127.0.0.1
 [/fuxinghf.com/]127.0.0.1
@@ -49010,6 +49011,7 @@
 [/heyi.com/]127.0.0.1
 [/heyiguangye.com/]127.0.0.1
 [/heyiguoyuan.com/]127.0.0.1
+[/heyimiao.com/]127.0.0.1
 [/heyingcn.com/]127.0.0.1
 [/heyingedu.com/]127.0.0.1
 [/heyinguanli.com/]127.0.0.1
@@ -59852,6 +59854,7 @@
 [/jjxxk.com/]127.0.0.1
 [/jjxyls.com/]127.0.0.1
 [/jjy118.com/]127.0.0.1
+[/jjycc.cc/]127.0.0.1
 [/jjycw.net/]127.0.0.1
 [/jjydp.com/]127.0.0.1
 [/jjygym.com/]127.0.0.1
@@ -64922,7 +64925,6 @@
 [/kxdao.org/]127.0.0.1
 [/kxdpm.com/]127.0.0.1
 [/kxdw.com/]127.0.0.1
-[/kxhie.com/]127.0.0.1
 [/kxiaoshuo77.com/]127.0.0.1
 [/kxinyk.com/]127.0.0.1
 [/kxji.com/]127.0.0.1
@@ -72725,6 +72727,7 @@
 [/moa06191ju.com/]127.0.0.1
 [/moa06210ju.com/]127.0.0.1
 [/moa06211ju.com/]127.0.0.1
+[/moa06221ju.com/]127.0.0.1
 [/moage.com/]127.0.0.1
 [/mob.com/]127.0.0.1
 [/mob55.com/]127.0.0.1
@@ -77728,7 +77731,6 @@
 [/ok168.com/]127.0.0.1
 [/ok183.com/]127.0.0.1
 [/ok206.com/]127.0.0.1
-[/ok365.com/]127.0.0.1
 [/ok3w.net/]127.0.0.1
 [/ok619.com/]127.0.0.1
 [/ok888883.com/]127.0.0.1
@@ -89782,7 +89784,6 @@
 [/shjsst.com/]127.0.0.1
 [/shjstl.com/]127.0.0.1
 [/shjsxh.com/]127.0.0.1
-[/shjsxx.com/]127.0.0.1
 [/shjt.net/]127.0.0.1
 [/shjtos.com/]127.0.0.1
 [/shjtw.com/]127.0.0.1
@@ -93271,6 +93272,7 @@
 [/steelsearcher.com/]127.0.0.1
 [/stefg.org/]127.0.0.1
 [/stegameskins.com/]127.0.0.1
+[/stelinno.com/]127.0.0.1
 [/stellarplayer.com/]127.0.0.1
 [/stemceltech.com/]127.0.0.1
 [/step-by-step.tech/]127.0.0.1
@@ -95263,7 +95265,6 @@
 [/szltech.com/]127.0.0.1
 [/szltlh.com/]127.0.0.1
 [/szltour.com/]127.0.0.1
-[/szltwl.com/]127.0.0.1
 [/szltwlw.com/]127.0.0.1
 [/szlunhua.com/]127.0.0.1
 [/szluxon.com/]127.0.0.1
@@ -96733,7 +96734,6 @@
 [/telaideyouxue.com/]127.0.0.1
 [/teld.net/]127.0.0.1
 [/telecok.com/]127.0.0.1
-[/telecom-info.com/]127.0.0.1
 [/telecomhb.com/]127.0.0.1
 [/telecomhr.com/]127.0.0.1
 [/telecomjs.com/]127.0.0.1
@@ -99898,8 +99898,6 @@
 [/txga.com/]127.0.0.1
 [/txgirl1.com/]127.0.0.1
 [/txgirl2.com/]127.0.0.1
-[/txhfgwgkwt7.asia/]127.0.0.1
-[/txhfgwgkwt8.asia/]127.0.0.1
 [/txhsya.com/]127.0.0.1
 [/txhy1699.com/]127.0.0.1
 [/txidc.wang/]127.0.0.1
@@ -121606,6 +121604,7 @@
 [/zoular.com/]127.0.0.1
 [/zouming.cc/]127.0.0.1
 [/zoutu.com/]127.0.0.1
+[/zouzhi.world/]127.0.0.1
 [/zouzhiqiang.com/]127.0.0.1
 [/zovps.com/]127.0.0.1
 [/zowoyoo.com/]127.0.0.1

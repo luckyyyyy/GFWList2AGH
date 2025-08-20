@@ -73189,7 +73189,6 @@
 [/mypian.com/]127.0.0.1
 [/mypiao.com/]127.0.0.1
 [/mypiaojia.com/]127.0.0.1
-[/mypikpak.com/]127.0.0.1
 [/mypikpak.net/]127.0.0.1
 [/mypitaya.com/]127.0.0.1
 [/mypity.com/]127.0.0.1
@@ -73467,7 +73466,6 @@
 [/naiveadmin.com/]127.0.0.1
 [/naiveblue.com/]127.0.0.1
 [/naiwch.com/]127.0.0.1
-[/naixi.net/]127.0.0.1
 [/naixuecha.com/]127.0.0.1
 [/naiyouxuexi.com/]127.0.0.1
 [/najingtech.com/]127.0.0.1
@@ -107376,7 +107374,6 @@
 [/xiaomeiti.com/]127.0.0.1
 [/xiaomeng1235.com/]127.0.0.1
 [/xiaomi.com/]127.0.0.1
-[/xiaomi.eu/]127.0.0.1
 [/xiaomi.hk/]127.0.0.1
 [/xiaomi.net/]127.0.0.1
 [/xiaomi.org/]127.0.0.1

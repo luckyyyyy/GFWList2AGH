@@ -73189,7 +73189,6 @@
 [/mypian.com/]127.0.0.1
 [/mypiao.com/]127.0.0.1
 [/mypiaojia.com/]127.0.0.1
-[/mypikpak.net/]127.0.0.1
 [/mypitaya.com/]127.0.0.1
 [/mypity.com/]127.0.0.1
 [/mypiwik.com/]127.0.0.1
@@ -99926,7 +99925,6 @@
 [/ustbtc.com/]127.0.0.1
 [/ustc.edu/]127.0.0.1
 [/ustcers.com/]127.0.0.1
-[/ustclug.org/]127.0.0.1
 [/ustui.com/]127.0.0.1
 [/usuredata.com/]127.0.0.1
 [/usuuu.com/]127.0.0.1

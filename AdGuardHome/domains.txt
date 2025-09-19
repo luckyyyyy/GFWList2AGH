@@ -4966,7 +4966,6 @@
 [/50331.net/]127.0.0.1
 [/5033333.com/]127.0.0.1
 [/503error.com/]127.0.0.1
-[/504pk.com/]127.0.0.1
 [/5054399.com/]127.0.0.1
 [/5054399.net/]127.0.0.1
 [/505gg.com/]127.0.0.1
@@ -7695,7 +7694,6 @@
 [/777sy.com/]127.0.0.1
 [/777xx888kk.com/]127.0.0.1
 [/777yh.am/]127.0.0.1
-[/777zz777zz.com/]127.0.0.1
 [/7788.com/]127.0.0.1
 [/7788js.com/]127.0.0.1
 [/7788sky.com/]127.0.0.1
@@ -9407,7 +9405,6 @@
 [/999xs.com/]127.0.0.1
 [/999xx333kk.com/]127.0.0.1
 [/999xx999kk.com/]127.0.0.1
-[/999zz333zz.com/]127.0.0.1
 [/99aiji.net/]127.0.0.1
 [/99aly.com/]127.0.0.1
 [/99bdf.com/]127.0.0.1
@@ -18494,7 +18491,6 @@
 [/bxdaka.com/]127.0.0.1
 [/bxdlkj.com/]127.0.0.1
 [/bxfish360.net/]127.0.0.1
-[/bxg68.com/]127.0.0.1
 [/bxgcb.com/]127.0.0.1
 [/bxgdl.com/]127.0.0.1
 [/bxgdunhua.com/]127.0.0.1
@@ -32696,6 +32692,7 @@
 [/e-length.com/]127.0.0.1
 [/e-lining.com/]127.0.0.1
 [/e-mallchina.com/]127.0.0.1
+[/e-map.ne.jp/]127.0.0.1
 [/e-nci.com/]127.0.0.1
 [/e-nebula.com/]127.0.0.1
 [/e-net.hk/]127.0.0.1
@@ -34879,6 +34876,7 @@
 [/ezcpt.com/]127.0.0.1
 [/ezcun.com/]127.0.0.1
 [/ezdnscenter.com/]127.0.0.1
+[/ezeeship.com/]127.0.0.1
 [/ezeroshop.com/]127.0.0.1
 [/ezfuns.com/]127.0.0.1
 [/ezhangdan.com/]127.0.0.1
@@ -45338,6 +45336,7 @@
 [/h5tpl.com/]127.0.0.1
 [/h5uc.com/]127.0.0.1
 [/h5util.com/]127.0.0.1
+[/h5video.shop/]127.0.0.1
 [/h5wap.com/]127.0.0.1
 [/h5war.com/]127.0.0.1
 [/h5youxi.com/]127.0.0.1
@@ -55500,6 +55499,7 @@
 [/itruscloud.com/]127.0.0.1
 [/itrusign.com/]127.0.0.1
 [/itry.com/]127.0.0.1
+[/its-mo.com/]127.0.0.1
 [/its114.com/]127.0.0.1
 [/itsapu.com/]127.0.0.1
 [/itsdz.com/]127.0.0.1
@@ -57266,7 +57266,6 @@
 [/jiechuang.com/]127.0.0.1
 [/jiedaibao.com/]127.0.0.1
 [/jiediankeji.com/]127.0.0.1
-[/jiedu.fun/]127.0.0.1
 [/jiefadg.com/]127.0.0.1
 [/jiefanglinli.net/]127.0.0.1
 [/jiefu.com/]127.0.0.1
@@ -57327,7 +57326,6 @@
 [/jierili.com/]127.0.0.1
 [/jieruchaosheng.com/]127.0.0.1
 [/jieruitech.info/]127.0.0.1
-[/jiese.fun/]127.0.0.1
 [/jiese.org/]127.0.0.1
 [/jiesen365.com/]127.0.0.1
 [/jieshangwei.com/]127.0.0.1
@@ -61097,7 +61095,6 @@
 [/kaiyuangroup.cc/]127.0.0.1
 [/kaiyuanhospital.com/]127.0.0.1
 [/kaiyuanhotels.com/]127.0.0.1
-[/kaiyuantp.vip/]127.0.0.1
 [/kaiyuanweilaikeji.com/]127.0.0.1
 [/kaiyuedoors.com/]127.0.0.1
 [/kaiyueyun.com/]127.0.0.1
@@ -64335,6 +64332,7 @@
 [/ldgslb.com/]127.0.0.1
 [/ldhrd.com/]127.0.0.1
 [/ldhxbj.com/]127.0.0.1
+[/ldhy.click/]127.0.0.1
 [/ldj-edujy.com/]127.0.0.1
 [/ldjt-china.com/]127.0.0.1
 [/ldkftz.com/]127.0.0.1
@@ -78619,6 +78617,7 @@
 [/postgresqlchina.com/]127.0.0.1
 [/postjson.com/]127.0.0.1
 [/postpony.com/]127.0.0.1
+[/postxin.com/]127.0.0.1
 [/posyn.com/]127.0.0.1
 [/poszjia.com/]127.0.0.1
 [/potalapalace.com/]127.0.0.1
@@ -90749,6 +90748,7 @@
 [/srgow.com/]127.0.0.1
 [/sriappalam.com/]127.0.0.1
 [/sribs.com/]127.0.0.1
+[/sric.fun/]127.0.0.1
 [/srichina.org/]127.0.0.1
 [/srici.com/]127.0.0.1
 [/sritsoft.com/]127.0.0.1
@@ -106001,6 +106001,7 @@
 [/xiaobu.tech/]127.0.0.1
 [/xiaobu121.com/]127.0.0.1
 [/xiaobuwq.com/]127.0.0.1
+[/xiaocanapp.com/]127.0.0.1
 [/xiaocanhulian.com/]127.0.0.1
 [/xiaocantech.com/]127.0.0.1
 [/xiaocaoo.com/]127.0.0.1

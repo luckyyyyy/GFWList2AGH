@@ -6436,7 +6436,6 @@
 [/58q8.com/]127.0.0.1
 [/58qz.com/]127.0.0.1
 [/58shangban.com/]127.0.0.1
-[/58shuz.com/]127.0.0.1
 [/58supin.com/]127.0.0.1
 [/58tg.com/]127.0.0.1
 [/58trz.com/]127.0.0.1
@@ -7179,7 +7178,6 @@
 [/68u.co/]127.0.0.1
 [/68web.net/]127.0.0.1
 [/68websoft.com/]127.0.0.1
-[/68yscw.com/]127.0.0.1
 [/68zhan.net/]127.0.0.1
 [/69090.com/]127.0.0.1
 [/69260.com/]127.0.0.1
@@ -22427,6 +22425,7 @@
 [/chinanmi.com/]127.0.0.1
 [/chinanrb.com/]127.0.0.1
 [/chinanums.com/]127.0.0.1
+[/chinanwa.com/]127.0.0.1
 [/chinaobp.com/]127.0.0.1
 [/chinaoceanwide.com/]127.0.0.1
 [/chinaoct.com/]127.0.0.1
@@ -29201,6 +29200,7 @@
 [/deemos.com/]127.0.0.1
 [/deep-os.com/]127.0.0.1
 [/deep56.com/]127.0.0.1
+[/deepblog.net/]127.0.0.1
 [/deepc.cc/]127.0.0.1
 [/deepcloudsdp.com/]127.0.0.1
 [/deepcoin.red/]127.0.0.1
@@ -30698,7 +30698,6 @@
 [/dmzzkz.com/]127.0.0.1
 [/dn.com/]127.0.0.1
 [/dn23.com/]127.0.0.1
-[/dn4qoz.com/]127.0.0.1
 [/dn580.com/]127.0.0.1
 [/dn8188.com/]127.0.0.1
 [/dnake-park.com/]127.0.0.1
@@ -36707,6 +36706,7 @@
 [/fonts.googleapis.com/]127.0.0.1
 [/fonts.gstatic.com/]127.0.0.1
 [/fontsfile.com/]127.0.0.1
+[/fontshow.com/]127.0.0.1
 [/fontvip.com/]127.0.0.1
 [/fontyi.com/]127.0.0.1
 [/fonye.com/]127.0.0.1
@@ -37711,7 +37711,6 @@
 [/fygsoft.com/]127.0.0.1
 [/fyigou.com/]127.0.0.1
 [/fyjsz.net/]127.0.0.1
-[/fyjyhm.com/]127.0.0.1
 [/fyjzyxh.com/]127.0.0.1
 [/fylcg.com/]127.0.0.1
 [/fyleasing.com/]127.0.0.1
@@ -60450,7 +60449,6 @@
 [/jytech.info/]127.0.0.1
 [/jytek.com/]127.0.0.1
 [/jytjsgyp.com/]127.0.0.1
-[/jytjw.com/]127.0.0.1
 [/jytmachinery.com/]127.0.0.1
 [/jytrump.com/]127.0.0.1
 [/jytwp.com/]127.0.0.1
@@ -62328,6 +62326,7 @@
 [/ks-fag.com/]127.0.0.1
 [/ks-live.com/]127.0.0.1
 [/ks-spring.com/]127.0.0.1
+[/ks-terminals.com/]127.0.0.1
 [/ks-wg.com/]127.0.0.1
 [/ks1688.com/]127.0.0.1
 [/ks321.com/]127.0.0.1
@@ -71842,7 +71841,6 @@
 [/myfans.cc/]127.0.0.1
 [/myfdmg.com/]127.0.0.1
 [/myfhospital.com/]127.0.0.1
-[/myfreshnet.com/]127.0.0.1
 [/myfrfr.com/]127.0.0.1
 [/myfun7.com/]127.0.0.1
 [/myfund.com/]127.0.0.1
@@ -88103,6 +88101,7 @@
 [/shuzhiduo.com/]127.0.0.1
 [/shuzhou.cc/]127.0.0.1
 [/shuzibao.com/]127.0.0.1
+[/shuzifuyu.com/]127.0.0.1
 [/shuzigd.com/]127.0.0.1
 [/shuzigonggao.com/]127.0.0.1
 [/shuziguanxing.com/]127.0.0.1
@@ -91713,7 +91712,6 @@
 [/swsmu.com/]127.0.0.1
 [/swstsg.com/]127.0.0.1
 [/swt0.com/]127.0.0.1
-[/swt207gl1hzc.net/]127.0.0.1
 [/swtpu.com/]127.0.0.1
 [/swts8irvtrtr.com/]127.0.0.1
 [/swufe-online.com/]127.0.0.1
@@ -93540,7 +93538,6 @@
 [/taobao.org/]127.0.0.1
 [/taobao.tw/]127.0.0.1
 [/taobao1111.com/]127.0.0.1
-[/taobao2136.com/]127.0.0.1
 [/taobao92.com/]127.0.0.1
 [/taobaocdn.com/]127.0.0.1
 [/taobaocity.com/]127.0.0.1
@@ -97598,7 +97595,6 @@
 [/tyqian.com/]127.0.0.1
 [/tyqxzx.com/]127.0.0.1
 [/tyr8.com/]127.0.0.1
-[/tyrantdb.com/]127.0.0.1
 [/tyrantg.com/]127.0.0.1
 [/tyrbl.com/]127.0.0.1
 [/tyrbw.com/]127.0.0.1
@@ -109176,6 +109172,7 @@
 [/y1995.com/]127.0.0.1
 [/y2002.com/]127.0.0.1
 [/y2374050fo.com/]127.0.0.1
+[/y3pm.com/]127.0.0.1
 [/y4rwk6v8s41kr.com/]127.0.0.1
 [/y5000.com/]127.0.0.1
 [/y55l6.com/]127.0.0.1
@@ -119628,7 +119625,6 @@
 [/zzairport.com/]127.0.0.1
 [/zzay.net/]127.0.0.1
 [/zzbaike.com/]127.0.0.1
-[/zzbaowen.com/]127.0.0.1
 [/zzbbs.com/]127.0.0.1
 [/zzbd.org/]127.0.0.1
 [/zzboiler.com/]127.0.0.1

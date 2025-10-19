@@ -1387,6 +1387,7 @@
 [/123242.com/]127.0.0.1
 [/123245.com/]127.0.0.1
 [/123254.com/]127.0.0.1
+[/123294.com/]127.0.0.1
 [/123295.com/]127.0.0.1
 [/123326.com/]127.0.0.1
 [/12333.com/]127.0.0.1
@@ -9862,6 +9863,7 @@
 [/accuramed.com/]127.0.0.1
 [/accurate-china.com/]127.0.0.1
 [/accurate520.com/]127.0.0.1
+[/accxiaoheihe.com/]127.0.0.1
 [/acdianyuan.com/]127.0.0.1
 [/ace-info.com/]127.0.0.1
 [/ace-pow.com/]127.0.0.1
@@ -13407,6 +13409,7 @@
 [/autohenan.com/]127.0.0.1
 [/autoho.com/]127.0.0.1
 [/autohome.com/]127.0.0.1
+[/autohome.tel/]127.0.0.1
 [/autohr.org/]127.0.0.1
 [/autohunan.com/]127.0.0.1
 [/autoij.com/]127.0.0.1
@@ -21101,6 +21104,7 @@
 [/chayu.com/]127.0.0.1
 [/chayueshebao.com/]127.0.0.1
 [/chayuqing.com/]127.0.0.1
+[/chaz.fun/]127.0.0.1
 [/chazhengla.com/]127.0.0.1
 [/chazidian.com/]127.0.0.1
 [/chaziyu.com/]127.0.0.1
@@ -23154,6 +23158,7 @@
 [/chuizi.net/]127.0.0.1
 [/chujian.xyz/]127.0.0.1
 [/chujing-electric.com/]127.0.0.1
+[/chujingapp.com/]127.0.0.1
 [/chujuan.net/]127.0.0.1
 [/chujunkeji.com/]127.0.0.1
 [/chukong-inc.com/]127.0.0.1
@@ -41799,6 +41804,7 @@
 [/guazhuan.com/]127.0.0.1
 [/guazi-apps.com/]127.0.0.1
 [/guazi.com/]127.0.0.1
+[/guazi.net/]127.0.0.1
 [/guazipai.com/]127.0.0.1
 [/guazistatic.com/]127.0.0.1
 [/guazixs.com/]127.0.0.1
@@ -53812,6 +53818,8 @@
 [/imcec.org/]127.0.0.1
 [/imchinese.net/]127.0.0.1
 [/imcn.me/]127.0.0.1
+[/imcome.net/]127.0.0.1
+[/imcoming.com/]127.0.0.1
 [/imconlinereg.com/]127.0.0.1
 [/imcq.net/]127.0.0.1
 [/imd-marketing.com/]127.0.0.1
@@ -67346,6 +67354,8 @@
 [/lyd-china.com/]127.0.0.1
 [/lyd6688.com/]127.0.0.1
 [/lydaas.com/]127.0.0.1
+[/lydaas.net/]127.0.0.1
+[/lydass.net/]127.0.0.1
 [/lydezx.net/]127.0.0.1
 [/lydfyy.com/]127.0.0.1
 [/lydhb888.com/]127.0.0.1
@@ -96242,6 +96252,7 @@
 [/towavephone.com/]127.0.0.1
 [/towelltech.com/]127.0.0.1
 [/tower.im/]127.0.0.1
+[/tower0788.com/]127.0.0.1
 [/towinor.com/]127.0.0.1
 [/towmfs.com/]127.0.0.1
 [/towmy.com/]127.0.0.1
@@ -105080,6 +105091,7 @@
 [/xdpjump.com/]127.0.0.1
 [/xdplt.com/]127.0.0.1
 [/xdpvp.com/]127.0.0.1
+[/xdqtech.com/]127.0.0.1
 [/xdrcftv.com/]127.0.0.1
 [/xdressy.com/]127.0.0.1
 [/xdrig.com/]127.0.0.1
@@ -118847,6 +118859,7 @@
 [/ztmao.com/]127.0.0.1
 [/ztmvip.com/]127.0.0.1
 [/ztn.com/]127.0.0.1
+[/ztna-dingtalk.com/]127.0.0.1
 [/ztnews.net/]127.0.0.1
 [/ztno.com/]127.0.0.1
 [/ztnwork.com/]127.0.0.1

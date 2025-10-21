@@ -8521,6 +8521,7 @@
 [/9000wy.com/]127.0.0.1
 [/900112.com/]127.0.0.1
 [/900501.xyz/]127.0.0.1
+[/900cha.com/]127.0.0.1
 [/900php.com/]127.0.0.1
 [/900ppt.com/]127.0.0.1
 [/900yi.com/]127.0.0.1
@@ -54764,6 +54765,7 @@
 [/ips.com/]127.0.0.1
 [/ips8.com/]127.0.0.1
 [/ipsebe.com/]127.0.0.1
+[/ipshu.com/]127.0.0.1
 [/ipshudi.com/]127.0.0.1
 [/ipsmap.com/]127.0.0.1
 [/ipssh.net/]127.0.0.1
@@ -55077,6 +55079,7 @@
 [/istarshine.com/]127.0.0.1
 [/istartsurf.com/]127.0.0.1
 [/istcw.com/]127.0.0.1
+[/istoreos.com/]127.0.0.1
 [/istpei.com/]127.0.0.1
 [/istrongcloud.com/]127.0.0.1
 [/istrongcloud.net/]127.0.0.1
@@ -60327,6 +60330,7 @@
 [/jxpdf.com/]127.0.0.1
 [/jxphone.com/]127.0.0.1
 [/jxphyz.com/]127.0.0.1
+[/jxpp.com/]127.0.0.1
 [/jxpta.com/]127.0.0.1
 [/jxqcw.com/]127.0.0.1
 [/jxqtkj.com/]127.0.0.1
@@ -73036,6 +73040,7 @@
 [/networkesl.com/]127.0.0.1
 [/networklo.com/]127.0.0.1
 [/netzonesoft.com/]127.0.0.1
+[/netzz.net/]127.0.0.1
 [/neu-reality.com/]127.0.0.1
 [/neucrack.com/]127.0.0.1
 [/neuedu.com/]127.0.0.1
@@ -104060,6 +104065,7 @@
 [/wsgeogen.com/]127.0.0.1
 [/wsgjj.com/]127.0.0.1
 [/wsgjp.com/]127.0.0.1
+[/wsglb.com/]127.0.0.1
 [/wsglb.net/]127.0.0.1
 [/wsglb0.com/]127.0.0.1
 [/wsglb0.info/]127.0.0.1
@@ -105607,6 +105613,7 @@
 [/xdsyzzs.com/]127.0.0.1
 [/xdter.com/]127.0.0.1
 [/xdtev.com/]127.0.0.1
+[/xdtool.com/]127.0.0.1
 [/xdtos.com/]127.0.0.1
 [/xduim.com/]127.0.0.1
 [/xduoo.com/]127.0.0.1

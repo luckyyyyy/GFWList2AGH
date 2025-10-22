@@ -24334,6 +24334,7 @@
 [/cn.bing.com/]127.0.0.1
 [/cn.bing.net/]127.0.0.1
 [/cn.download.nvidia.com/]127.0.0.1
+[/cn.eset.com/]127.0.0.1
 [/cn.mm.bing.net/]127.0.0.1
 [/cn.net/]127.0.0.1
 [/cn.online.standardchartered.com/]127.0.0.1
@@ -71395,8 +71396,6 @@
 [/msftonlinelab.com/]127.0.0.1
 [/msgamego.com/]127.0.0.1
 [/msgcarry.com/]127.0.0.1
-[/msgr.dlservice.microsoft.com/]127.0.0.1
-[/msgruser.dlservice.microsoft.com/]127.0.0.1
 [/msgtjj.com/]127.0.0.1
 [/msh2020.com/]127.0.0.1
 [/mshandong.com/]127.0.0.1
@@ -79547,7 +79546,6 @@
 [/qh-dl.com/]127.0.0.1
 [/qh-hospital.org/]127.0.0.1
 [/qh-lb.com/]127.0.0.1
-[/qh.dlservice.microsoft.com/]127.0.0.1
 [/qh24.com/]127.0.0.1
 [/qh4321.com/]127.0.0.1
 [/qh6bc.com/]127.0.0.1
@@ -88593,7 +88591,6 @@
 [/siluke.info/]127.0.0.1
 [/silukex.com/]127.0.0.1
 [/siluwu.com/]127.0.0.1
-[/silverlight.dlservice.microsoft.com/]127.0.0.1
 [/sim800.com/]127.0.0.1
 [/simaek.com/]127.0.0.1
 [/simagic.com/]127.0.0.1
@@ -89408,7 +89405,6 @@
 [/slthxx.com/]127.0.0.1
 [/sltv.net/]127.0.0.1
 [/sltxantonline.com/]127.0.0.1
-[/slupdate.dlservice.microsoft.com/]127.0.0.1
 [/sluyu.com/]127.0.0.1
 [/slwh-dfh.com/]127.0.0.1
 [/slwwedding.com/]127.0.0.1
@@ -103361,7 +103357,6 @@
 [/wkzstencent.com/]127.0.0.1
 [/wkzuche.com/]127.0.0.1
 [/wkzw.me/]127.0.0.1
-[/wl.dlservice.microsoft.com/]127.0.0.1
 [/wl369.com/]127.0.0.1
 [/wl890.com/]127.0.0.1
 [/wlaforum.com/]127.0.0.1
@@ -105345,7 +105340,6 @@
 [/xazyy.com/]127.0.0.1
 [/xazzs.com/]127.0.0.1
 [/xb.app/]127.0.0.1
-[/xb.dlservice.microsoft.com/]127.0.0.1
 [/xb0.cc/]127.0.0.1
 [/xb2s.com/]127.0.0.1
 [/xba123.com/]127.0.0.1

@@ -20596,6 +20596,7 @@
 [/ceyice.net/]127.0.0.1
 [/ceyige.com/]127.0.0.1
 [/cezhu.net/]127.0.0.1
+[/cf-china.info/]127.0.0.1
 [/cf-ns.com/]127.0.0.1
 [/cf-ns.net/]127.0.0.1
 [/cf-ns.site/]127.0.0.1
@@ -65343,6 +65344,7 @@
 [/linglingkaimen.com/]127.0.0.1
 [/linglingmo.site/]127.0.0.1
 [/linglong.dev/]127.0.0.1
+[/linglong.space/]127.0.0.1
 [/linglongart.com/]127.0.0.1
 [/linglonglife.com/]127.0.0.1
 [/linglongtech.com/]127.0.0.1

@@ -47465,7 +47465,10 @@
 [/herllamo.com/]127.0.0.1
 [/hermod1.com/]127.0.0.1
 [/hero-geek.com/]127.0.0.1
+[/hero.com/]127.0.0.1
 [/herocoming.com/]127.0.0.1
+[/heroesports.com/]127.0.0.1
+[/herogame.com/]127.0.0.1
 [/herohr.net/]127.0.0.1
 [/heroic-ltd.com/]127.0.0.1
 [/heroje.com/]127.0.0.1
@@ -88283,6 +88286,7 @@
 [/shyuzhai.com/]127.0.0.1
 [/shywly.com/]127.0.0.1
 [/shyx-bio.com/]127.0.0.1
+[/shyxhy.com/]127.0.0.1
 [/shyxi5.com/]127.0.0.1
 [/shyxwz.com/]127.0.0.1
 [/shyy6688.com/]127.0.0.1

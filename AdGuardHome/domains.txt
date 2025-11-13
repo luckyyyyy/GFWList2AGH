@@ -27869,6 +27869,7 @@
 [/cztv.cc/]127.0.0.1
 [/cztv.com/]127.0.0.1
 [/cztv.tv/]127.0.0.1
+[/cztvcdn.com/]127.0.0.1
 [/cztvcloud.com/]127.0.0.1
 [/cztzkg.com/]127.0.0.1
 [/czur.com/]127.0.0.1

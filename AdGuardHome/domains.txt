@@ -26396,6 +26396,7 @@
 [/cqshyzx.com/]127.0.0.1
 [/cqsifang.com/]127.0.0.1
 [/cqsj365.com/]127.0.0.1
+[/cqsjb.com/]127.0.0.1
 [/cqsjbc.com/]127.0.0.1
 [/cqsjky.com/]127.0.0.1
 [/cqsjnzx.com/]127.0.0.1
@@ -105886,6 +105887,7 @@
 [/xhkt.tv/]127.0.0.1
 [/xhlaowu.com/]127.0.0.1
 [/xhlcsl.com/]127.0.0.1
+[/xhlsgs.com/]127.0.0.1
 [/xhma.com/]127.0.0.1
 [/xhmedia.com/]127.0.0.1
 [/xhmwxy.com/]127.0.0.1
@@ -107441,6 +107443,7 @@
 [/xinwenku.com/]127.0.0.1
 [/xinwenlianbo.tv/]127.0.0.1
 [/xinwo.com/]127.0.0.1
+[/xinwuji.com/]127.0.0.1
 [/xinwulan.com/]127.0.0.1
 [/xinxe.com/]127.0.0.1
 [/xinxi28.com/]127.0.0.1
@@ -112395,6 +112398,7 @@
 [/yokacdn.com/]127.0.0.1
 [/yokagames.com/]127.0.0.1
 [/yokaimg.com/]127.0.0.1
+[/yokaverse.com/]127.0.0.1
 [/yokechina.com/]127.0.0.1
 [/yokmob.com/]127.0.0.1
 [/yokong.com/]127.0.0.1

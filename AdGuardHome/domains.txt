@@ -38155,6 +38155,7 @@
 [/gametea.net/]127.0.0.1
 [/gamethk.com/]127.0.0.1
 [/gamett.net/]127.0.0.1
+[/gameviewer.com/]127.0.0.1
 [/gameweibo.com/]127.0.0.1
 [/gamewifi.net/]127.0.0.1
 [/gamexdd.com/]127.0.0.1
@@ -54258,6 +54259,7 @@
 [/infineon-autoeco.com/]127.0.0.1
 [/infini-ai.com/]127.0.0.1
 [/infinisign.com/]127.0.0.1
+[/infiniteborders3kingdoms.com/]127.0.0.1
 [/infinitescript.com/]127.0.0.1
 [/infinity8ball.com/]127.0.0.1
 [/infinitynewtab.com/]127.0.0.1

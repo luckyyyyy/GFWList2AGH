@@ -27251,6 +27251,7 @@
 [/ctaoci.com/]127.0.0.1
 [/ctaweb.org/]127.0.0.1
 [/ctb50.com/]127.0.0.1
+[/ctbcdn.com/]127.0.0.1
 [/ctbcleasing.com/]127.0.0.1
 [/ctbjia888.com/]127.0.0.1
 [/ctbpsp.com/]127.0.0.1
@@ -27263,6 +27264,7 @@
 [/ctcdn.com/]127.0.0.1
 [/ctcdn.net/]127.0.0.1
 [/ctcdn.org/]127.0.0.1
+[/ctcdnov.net/]127.0.0.1
 [/ctce8.com/]127.0.0.1
 [/ctcefive.com/]127.0.0.1
 [/ctcloudmeeting.com/]127.0.0.1
@@ -27276,6 +27278,7 @@
 [/ctcwri.org/]127.0.0.1
 [/ctcxzgs.com/]127.0.0.1
 [/ctdatacare.com/]127.0.0.1
+[/ctdcdn.com/]127.0.0.1
 [/ctdcn.com/]127.0.0.1
 [/ctdisk.com/]127.0.0.1
 [/ctdns.net/]127.0.0.1
@@ -27304,6 +27307,7 @@
 [/ctftools.com/]127.0.0.1
 [/ctfund.com/]127.0.0.1
 [/ctgapp.com/]127.0.0.1
+[/ctgcdn.com/]127.0.0.1
 [/ctghealthy.com/]127.0.0.1
 [/ctghr.com/]127.0.0.1
 [/ctghro.com/]127.0.0.1
@@ -27358,9 +27362,11 @@
 [/ctoclub.com/]127.0.0.1
 [/ctongonline.com/]127.0.0.1
 [/ctoutiao.com/]127.0.0.1
+[/ctovcdn.com/]127.0.0.1
 [/ctpdd.com/]127.0.0.1
 [/ctracer.net/]127.0.0.1
 [/ctrcw.net/]127.0.0.1
+[/ctrender.com/]127.0.0.1
 [/ctrip-ttd.hk/]127.0.0.1
 [/ctrip.co.id/]127.0.0.1
 [/ctrip.co.kr/]127.0.0.1
@@ -27409,6 +27415,7 @@
 [/ctxcdn.net/]127.0.0.1
 [/ctxcollect.com/]127.0.0.1
 [/ctxcpa.com/]127.0.0.1
+[/ctxirang.com/]127.0.0.1
 [/cty9.com/]127.0.0.1
 [/ctycdn.com/]127.0.0.1
 [/ctycdn.net/]127.0.0.1
@@ -27419,6 +27426,9 @@
 [/ctyun.online/]127.0.0.1
 [/ctyuncdn.com/]127.0.0.1
 [/ctyuncdn.net/]127.0.0.1
+[/ctyuninner.com/]127.0.0.1
+[/ctyunwaf.com/]127.0.0.1
+[/ctyunwaf1.com/]127.0.0.1
 [/ctzb.com/]127.0.0.1
 [/ctzcdn.com/]127.0.0.1
 [/ctzcdn.net/]127.0.0.1

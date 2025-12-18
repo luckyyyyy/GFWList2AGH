@@ -703,6 +703,7 @@
 [/0756tong.com/]127.0.0.1
 [/0756zx.com/]127.0.0.1
 [/0757fc.com/]127.0.0.1
+[/0757info.com/]127.0.0.1
 [/0757p.com/]127.0.0.1
 [/0757rc.com/]127.0.0.1
 [/0758net.com/]127.0.0.1
@@ -9627,6 +9628,7 @@
 [/a5b.cc/]127.0.0.1
 [/a5idc.com/]127.0.0.1
 [/a5idc.net/]127.0.0.1
+[/a5j.cc/]127.0.0.1
 [/a5lt.com/]127.0.0.1
 [/a5xiazai.com/]127.0.0.1
 [/a5y.net/]127.0.0.1
@@ -13616,6 +13618,7 @@
 [/awsdns-cn-38.net/]127.0.0.1
 [/awsdns-cn-39.biz/]127.0.0.1
 [/awsdns-cn-39.com/]127.0.0.1
+[/awsdns-cn-39.net/]127.0.0.1
 [/awsdns-cn-40.biz/]127.0.0.1
 [/awsdns-cn-40.com/]127.0.0.1
 [/awsdns-cn-40.net/]127.0.0.1
@@ -14692,6 +14695,7 @@
 [/baosteel.info/]127.0.0.1
 [/baosteelpackaging.com/]127.0.0.1
 [/baostock.com/]127.0.0.1
+[/baotadns.com/]127.0.0.1
 [/baotaiclad.com/]127.0.0.1
 [/baotaikonggu.com/]127.0.0.1
 [/baotang5.com/]127.0.0.1
@@ -23258,7 +23262,6 @@
 [/chunyuyisheng.com/]127.0.0.1
 [/chunzuo.com/]127.0.0.1
 [/chuolitech.com/]127.0.0.1
-[/chupl.icu/]127.0.0.1
 [/chuquan.me/]127.0.0.1
 [/churenjixie.com/]127.0.0.1
 [/churuisy.com/]127.0.0.1
@@ -25602,7 +25605,6 @@
 [/comingchina.com/]127.0.0.1
 [/comlan.com/]127.0.0.1
 [/comlbs.com/]127.0.0.1
-[/commander1.com/]127.0.0.1
 [/commandersact.com/]127.0.0.1
 [/commchina.net/]127.0.0.1
 [/commedcell.com/]127.0.0.1
@@ -31755,7 +31757,6 @@
 [/dsfh2.icu/]127.0.0.1
 [/dsfjh.vip/]127.0.0.1
 [/dsfpz.com/]127.0.0.1
-[/dsfsdft4324.xyz/]127.0.0.1
 [/dsfuse.com/]127.0.0.1
 [/dsfzcz.com/]127.0.0.1
 [/dsfzh.com/]127.0.0.1
@@ -33216,6 +33217,7 @@
 [/edgeonevod1.net/]127.0.0.1
 [/edgep.net/]127.0.0.1
 [/edgesrv.com/]127.0.0.1
+[/edgetls.xyz/]127.0.0.1
 [/edhic.com/]127.0.0.1
 [/edi198.com/]127.0.0.1
 [/edianda.com/]127.0.0.1
@@ -33929,6 +33931,7 @@
 [/enjoying3d.com/]127.0.0.1
 [/enjoykorea.net/]127.0.0.1
 [/enjoymeet.com/]127.0.0.1
+[/enjoynowapp.com/]127.0.0.1
 [/enjoyor.net/]127.0.0.1
 [/enjoyyue.com/]127.0.0.1
 [/enjoyz.com/]127.0.0.1
@@ -47001,6 +47004,7 @@
 [/hdabc.com/]127.0.0.1
 [/hdanc.com/]127.0.0.1
 [/hdanheng.com/]127.0.0.1
+[/hdarea.club/]127.0.0.1
 [/hdavchina.com/]127.0.0.1
 [/hdb.com/]127.0.0.1
 [/hdbaichuan.com/]127.0.0.1
@@ -47502,6 +47506,7 @@
 [/henanxinjiang.com/]127.0.0.1
 [/henanyikayi.com/]127.0.0.1
 [/henanyixue.com/]127.0.0.1
+[/henanzhida.com/]127.0.0.1
 [/henanzhulongjx.com/]127.0.0.1
 [/henanzsb.com/]127.0.0.1
 [/henau.net/]127.0.0.1
@@ -54456,6 +54461,7 @@
 [/initialview.com/]127.0.0.1
 [/initjj.com/]127.0.0.1
 [/initkk.com/]127.0.0.1
+[/initnn.com/]127.0.0.1
 [/initpp.com/]127.0.0.1
 [/initqq.com/]127.0.0.1
 [/initroot.com/]127.0.0.1
@@ -62781,6 +62787,7 @@
 [/kuaidi.com/]127.0.0.1
 [/kuaidi100.com/]127.0.0.1
 [/kuaidi321.com/]127.0.0.1
+[/kuaidihe.com/]127.0.0.1
 [/kuaidihelp.com/]127.0.0.1
 [/kuaidihome.com/]127.0.0.1
 [/kuaidilab.com/]127.0.0.1
@@ -65647,6 +65654,7 @@
 [/linmujianghome.com/]127.0.0.1
 [/linni.com/]127.0.0.1
 [/linnsea.com/]127.0.0.1
+[/linnxin.com/]127.0.0.1
 [/linnyou.com/]127.0.0.1
 [/linouo.com/]127.0.0.1
 [/linovel.net/]127.0.0.1
@@ -68261,6 +68269,7 @@
 [/magadanryba.com/]127.0.0.1
 [/magaoedu.com/]127.0.0.1
 [/magcloud.net/]127.0.0.1
+[/magecorn.com/]127.0.0.1
 [/magedu.com/]127.0.0.1
 [/magentochina.org/]127.0.0.1
 [/magewell.com/]127.0.0.1
@@ -69966,6 +69975,7 @@
 [/mi1.cc/]127.0.0.1
 [/mi72.net/]127.0.0.1
 [/mia.com/]127.0.0.1
+[/miaibox.com/]127.0.0.1
 [/mian520.com/]127.0.0.1
 [/mianbao.com/]127.0.0.1
 [/miancp.com/]127.0.0.1
@@ -70090,7 +70100,6 @@
 [/microdiag.com/]127.0.0.1
 [/microdreams.com/]127.0.0.1
 [/microesim.com/]127.0.0.1
-[/microfog.me/]127.0.0.1
 [/microfotos.com/]127.0.0.1
 [/microfountain.com/]127.0.0.1
 [/microlz.com/]127.0.0.1
@@ -71050,6 +71059,7 @@
 [/moetuji.com/]127.0.0.1
 [/moeub.com/]127.0.0.1
 [/moeworld.tech/]127.0.0.1
+[/moex.ink/]127.0.0.1
 [/moeyuuko.com/]127.0.0.1
 [/moeyy.xyz/]127.0.0.1
 [/moezx.cc/]127.0.0.1
@@ -73718,6 +73728,7 @@
 [/niuap.com/]127.0.0.1
 [/niubalun.com/]127.0.0.1
 [/niubb.net/]127.0.0.1
+[/niubibsn.com/]127.0.0.1
 [/niubilai.com/]127.0.0.1
 [/niubilety.com/]127.0.0.1
 [/niubixia.com/]127.0.0.1
@@ -76196,6 +76207,7 @@
 [/openssw.com/]127.0.0.1
 [/opentrust.net/]127.0.0.1
 [/openuc.com/]127.0.0.1
+[/openvela.com/]127.0.0.1
 [/openwbs.com/]127.0.0.1
 [/openwrt.ai/]127.0.0.1
 [/openwrt.pro/]127.0.0.1
@@ -76250,6 +76262,7 @@
 [/optimix.asia/]127.0.0.1
 [/optimized-ai.com/]127.0.0.1
 [/optinetchina.com/]127.0.0.1
+[/optiondoma.com/]127.0.0.1
 [/optmv.com/]127.0.0.1
 [/optol.net/]127.0.0.1
 [/optomedic.com/]127.0.0.1
@@ -90301,6 +90314,7 @@
 [/sonhoo.com/]127.0.0.1
 [/sonhoshin.com/]127.0.0.1
 [/sonicmodel.net/]127.0.0.1
+[/sonicrhino.cc/]127.0.0.1
 [/soniu.net/]127.0.0.1
 [/sonkwo.com/]127.0.0.1
 [/sonkwo.hk/]127.0.0.1
@@ -97829,6 +97843,7 @@
 [/turingapi.com/]127.0.0.1
 [/turingbook.com/]127.0.0.1
 [/turingdi.com/]127.0.0.1
+[/turingfraud.net/]127.0.0.1
 [/turinggear.com/]127.0.0.1
 [/turingtopia.com/]127.0.0.1
 [/turnitin.org.in/]127.0.0.1
@@ -99502,6 +99517,8 @@
 [/v5.com/]127.0.0.1
 [/v5.net/]127.0.0.1
 [/v50307shvkaa.art/]127.0.0.1
+[/v51124-3.qpon/]127.0.0.1
+[/v51124.qpon/]127.0.0.1
 [/v5875.com/]127.0.0.1
 [/v5cg.com/]127.0.0.1
 [/v5dun.net/]127.0.0.1
@@ -106683,6 +106700,7 @@
 [/xiaomiflash.com/]127.0.0.1
 [/xiaomiinc.com/]127.0.0.1
 [/xiaomiinc.net/]127.0.0.1
+[/xiaomimimo.com/]127.0.0.1
 [/xiaomimobile.com/]127.0.0.1
 [/xiaominet.com/]127.0.0.1
 [/xiaominfo.com/]127.0.0.1
@@ -115093,6 +115111,7 @@
 [/yzja.com/]127.0.0.1
 [/yzjb.com/]127.0.0.1
 [/yzjdgs88.com/]127.0.0.1
+[/yzjiaozhai.com/]127.0.0.1
 [/yzjj120.com/]127.0.0.1
 [/yzjjw.net/]127.0.0.1
 [/yzjob.net/]127.0.0.1

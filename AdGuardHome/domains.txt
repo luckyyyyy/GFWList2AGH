@@ -22123,6 +22123,7 @@
 [/chinaorff.org/]127.0.0.1
 [/chinaorganicchem.com/]127.0.0.1
 [/chinaorientgroup.com/]127.0.0.1
+[/chinaott.com/]127.0.0.1
 [/chinaott.net/]127.0.0.1
 [/chinapag.com/]127.0.0.1
 [/chinapandi.com/]127.0.0.1
@@ -47673,6 +47674,7 @@
 [/hijin.vip/]127.0.0.1
 [/hijoys.com/]127.0.0.1
 [/hik-cloud.com/]127.0.0.1
+[/hik-express.com/]127.0.0.1
 [/hik-park.com/]127.0.0.1
 [/hikailink.com/]127.0.0.1
 [/hikari-ch.com/]127.0.0.1
@@ -47682,6 +47684,7 @@
 [/hikerfans.com/]127.0.0.1
 [/hikihj.com/]127.0.0.1
 [/hikinginternational.com/]127.0.0.1
+[/hikiot.com/]127.0.0.1
 [/hiklife.com/]127.0.0.1
 [/hikmall.com/]127.0.0.1
 [/hikoon.com/]127.0.0.1

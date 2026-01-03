@@ -2351,7 +2351,6 @@
 [/1998mall.com/]127.0.0.1
 [/1998n.com/]127.0.0.1
 [/1998r.com/]127.0.0.1
-[/1999019.com/]127.0.0.1
 [/1999year.com/]127.0.0.1
 [/199it.com/]127.0.0.1
 [/199u2.com/]127.0.0.1
@@ -6767,7 +6766,6 @@
 [/66152.com/]127.0.0.1
 [/66168.net/]127.0.0.1
 [/6617.com/]127.0.0.1
-[/6617398ccc.com/]127.0.0.1
 [/66173yx.com/]127.0.0.1
 [/662city.com/]127.0.0.1
 [/662p.com/]127.0.0.1
@@ -17379,7 +17377,6 @@
 [/boyaxun.com/]127.0.0.1
 [/boydwang.com/]127.0.0.1
 [/boyi.co/]127.0.0.1
-[/boyi.info/]127.0.0.1
 [/boyikang.com/]127.0.0.1
 [/boying360.com/]127.0.0.1
 [/boyingsj.com/]127.0.0.1
@@ -31187,6 +31184,7 @@
 [/dswqw2025.com/]127.0.0.1
 [/dswx.cc/]127.0.0.1
 [/dswzxh.com/]127.0.0.1
+[/dsx.ac/]127.0.0.1
 [/dsx2020.com/]127.0.0.1
 [/dsxdn.com/]127.0.0.1
 [/dsxliuxue.com/]127.0.0.1
@@ -31219,6 +31217,7 @@
 [/dtlty.com/]127.0.0.1
 [/dtmbw.com/]127.0.0.1
 [/dtmiller.com/]127.0.0.1
+[/dtminds.com/]127.0.0.1
 [/dtmuban.com/]127.0.0.1
 [/dtnews.net/]127.0.0.1
 [/dtq23gl66e.com/]127.0.0.1
@@ -54749,6 +54748,7 @@
 [/iyouhun.com/]127.0.0.1
 [/iyoujia.com/]127.0.0.1
 [/iyoujiao.net/]127.0.0.1
+[/iyouke.com/]127.0.0.1
 [/iyoule.com/]127.0.0.1
 [/iyouman.com/]127.0.0.1
 [/iyouqian.com/]127.0.0.1
@@ -89247,7 +89247,6 @@
 [/srici.com/]127.0.0.1
 [/sritsoft.com/]127.0.0.1
 [/srixon-china.com/]127.0.0.1
-[/srkl.pw/]127.0.0.1
 [/srlfl.com/]127.0.0.1
 [/srlzzp.com/]127.0.0.1
 [/srmyy.com/]127.0.0.1
@@ -97998,7 +97997,6 @@
 [/vdaye.com/]127.0.0.1
 [/vdbet.com/]127.0.0.1
 [/vdfly.com/]127.0.0.1
-[/vdhf042.fun/]127.0.0.1
 [/vdiagnostic.com/]127.0.0.1
 [/vdian.com/]127.0.0.1
 [/vdisk.me/]127.0.0.1
@@ -106531,7 +106529,6 @@
 [/xmsouhu.com/]127.0.0.1
 [/xmsoushu.com/]127.0.0.1
 [/xmspace.net/]127.0.0.1
-[/xmsqz.com/]127.0.0.1
 [/xmssie.com/]127.0.0.1
 [/xmsssyy.com/]127.0.0.1
 [/xmsumi.com/]127.0.0.1

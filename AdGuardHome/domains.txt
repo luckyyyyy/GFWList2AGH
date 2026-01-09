@@ -35987,6 +35987,7 @@
 [/fnkvision.com/]127.0.0.1
 [/fnmobi.com/]127.0.0.1
 [/fnnas.com/]127.0.0.1
+[/fnnas.net/]127.0.0.1
 [/fnnsh.com/]127.0.0.1
 [/fnnspa.com/]127.0.0.1
 [/fnos.net/]127.0.0.1
@@ -92238,6 +92239,7 @@
 [/tapai.com/]127.0.0.1
 [/tapaijiu.com/]127.0.0.1
 [/tapapis.com/]127.0.0.1
+[/tapapks.com/]127.0.0.1
 [/tapas.net/]127.0.0.1
 [/tapbooster.net/]127.0.0.1
 [/tapd-app.com/]127.0.0.1

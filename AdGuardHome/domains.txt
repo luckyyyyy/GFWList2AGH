@@ -62891,6 +62891,7 @@
 [/lbswjt.com/]127.0.0.1
 [/lbszx.com/]127.0.0.1
 [/lbtek.com/]127.0.0.1
+[/lbtp.com/]127.0.0.1
 [/lbu.cc/]127.0.0.1
 [/lbv1.com/]127.0.0.1
 [/lbwbw.com/]127.0.0.1
@@ -72250,11 +72251,8 @@
 [/nikefans.com/]127.0.0.1
 [/niketracking.com/]127.0.0.1
 [/nikke-de.com/]127.0.0.1
-[/nikke-en.com/]127.0.0.1
 [/nikke-fr.com/]127.0.0.1
 [/nikke-global.com/]127.0.0.1
-[/nikke-jp.com/]127.0.0.1
-[/nikke-kr.com/]127.0.0.1
 [/nikke-sea.com/]127.0.0.1
 [/nikkisoft.com/]127.0.0.1
 [/nikkiup2u2.com/]127.0.0.1

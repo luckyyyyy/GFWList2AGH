@@ -80732,6 +80732,7 @@
 [/redmart.com/]127.0.0.1
 [/redmou.com/]127.0.0.1
 [/rednetdns.com/]127.0.0.1
+[/rednotecdn.com/]127.0.0.1
 [/redocn.com/]127.0.0.1
 [/redodopower.com/]127.0.0.1
 [/redoop.com/]127.0.0.1

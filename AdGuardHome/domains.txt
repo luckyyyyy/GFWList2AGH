@@ -9017,6 +9017,7 @@
 [/9377os.com/]127.0.0.1
 [/9377s.com/]127.0.0.1
 [/9377z.com/]127.0.0.1
+[/9378.com/]127.0.0.1
 [/93913.com/]127.0.0.1
 [/939394.xyz/]127.0.0.1
 [/93966.com/]127.0.0.1
@@ -22856,6 +22857,7 @@
 [/chmti.com/]127.0.0.1
 [/chn-cstc.com/]127.0.0.1
 [/chn-das.com/]127.0.0.1
+[/chn-new-9sport.com/]127.0.0.1
 [/chn0769.com/]127.0.0.1
 [/chn112.com/]127.0.0.1
 [/chn168.com/]127.0.0.1
@@ -25823,6 +25825,7 @@
 [/cpeol.net/]127.0.0.1
 [/cpepgc.com/]127.0.0.1
 [/cpfia.org/]127.0.0.1
+[/cpfwzs.com/]127.0.0.1
 [/cpg-motor.com/]127.0.0.1
 [/cphfgg.com/]127.0.0.1
 [/cphiic.com/]127.0.0.1
@@ -26792,6 +26795,7 @@
 [/cs27.com/]127.0.0.1
 [/cs2c.com/]127.0.0.1
 [/cs2ccloud.com/]127.0.0.1
+[/cs2pw.com/]127.0.0.1
 [/cs30.net/]127.0.0.1
 [/cs451.com/]127.0.0.1
 [/cs48.com/]127.0.0.1
@@ -29047,6 +29051,7 @@
 [/dealsmake.com/]127.0.0.1
 [/deansys.com/]127.0.0.1
 [/dear520dear.com/]127.0.0.1
+[/dearclick.com/]127.0.0.1
 [/dearda.com/]127.0.0.1
 [/dearedu.com/]127.0.0.1
 [/dearisland.com/]127.0.0.1
@@ -34434,6 +34439,7 @@
 [/excoino.com/]127.0.0.1
 [/exd.design/]127.0.0.1
 [/exdoll.com/]127.0.0.1
+[/exedus.com.co/]127.0.0.1
 [/exeedcars.com/]127.0.0.1
 [/exexm.com/]127.0.0.1
 [/exezhanqun.com/]127.0.0.1
@@ -49149,6 +49155,7 @@
 [/horosama.com/]127.0.0.1
 [/horou.com/]127.0.0.1
 [/horphoto.com/]127.0.0.1
+[/horsebrowser.com/]127.0.0.1
 [/horsechinaone.com/]127.0.0.1
 [/horti-expo2019.com/]127.0.0.1
 [/hortor-comic.com/]127.0.0.1
@@ -52326,6 +52333,7 @@
 [/ic-ldo.com/]127.0.0.1
 [/ic-leasing.com/]127.0.0.1
 [/ic-mag.com/]127.0.0.1
+[/ic-spic.com/]127.0.0.1
 [/ic-valley.com/]127.0.0.1
 [/ic001.org/]127.0.0.1
 [/ic2china.com/]127.0.0.1
@@ -62482,6 +62490,7 @@
 [/kwaizt.com/]127.0.0.1
 [/kwangfeng.com/]127.0.0.1
 [/kwggroupholdings.com/]127.0.0.1
+[/kwicdn.com/]127.0.0.1
 [/kwimgs.com/]127.0.0.1
 [/kwinbon.com/]127.0.0.1
 [/kwise-log.com/]127.0.0.1
@@ -75893,6 +75902,7 @@
 [/paihang8.com/]127.0.0.1
 [/paihb.com/]127.0.0.1
 [/paihotels.cc/]127.0.0.1
+[/paihuisy.com/]127.0.0.1
 [/paikew.com/]127.0.0.1
 [/paiky.com/]127.0.0.1
 [/paiky.net/]127.0.0.1
@@ -76468,7 +76478,9 @@
 [/peipusci.com/]127.0.0.1
 [/peise.net/]127.0.0.1
 [/peisebiao.com/]127.0.0.1
+[/peiwan.tv/]127.0.0.1
 [/peiwanlu.com/]127.0.0.1
+[/peiwantv.com/]127.0.0.1
 [/peixianedu.com/]127.0.0.1
 [/peixiang.com/]127.0.0.1
 [/peixinbao.com/]127.0.0.1
@@ -93098,6 +93110,7 @@
 [/tdchatvip.us/]127.0.0.1
 [/tdd.la/]127.0.0.1
 [/tddmp.com/]127.0.0.1
+[/tdfsm.com/]127.0.0.1
 [/tdgdy.org/]127.0.0.1
 [/tdgod.com/]127.0.0.1
 [/tdiac.com/]127.0.0.1
@@ -96558,6 +96571,7 @@
 [/tv002.com/]127.0.0.1
 [/tv121.com/]127.0.0.1
 [/tv189.com/]127.0.0.1
+[/tv2-zuqiu.com/]127.0.0.1
 [/tv20806.com/]127.0.0.1
 [/tv373.com/]127.0.0.1
 [/tvandnet.com/]127.0.0.1
@@ -104630,6 +104644,7 @@
 [/xhytd.com/]127.0.0.1
 [/xhyun.vip/]127.0.0.1
 [/xhzysg.com/]127.0.0.1
+[/xi-9.com/]127.0.0.1
 [/xi-soft.com/]127.0.0.1
 [/xi.su/]127.0.0.1
 [/xi5jie.com/]127.0.0.1
@@ -111359,6 +111374,7 @@
 [/yousheyoujia.com/]127.0.0.1
 [/youshibeike.com/]127.0.0.1
 [/youshifu.com/]127.0.0.1
+[/youshihui.cc/]127.0.0.1
 [/youshikoudai.com/]127.0.0.1
 [/youshixiu.com/]127.0.0.1
 [/youshop01.com/]127.0.0.1

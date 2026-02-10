@@ -28964,6 +28964,7 @@
 [/ddcheshi.com/]127.0.0.1
 [/ddchong.com/]127.0.0.1
 [/ddcits.com/]127.0.0.1
+[/ddcorp.net/]127.0.0.1
 [/ddcsjw.com/]127.0.0.1
 [/ddcwl.com/]127.0.0.1
 [/ddd-china.com/]127.0.0.1
@@ -28980,6 +28981,7 @@
 [/ddedush.com/]127.0.0.1
 [/ddfans.com/]127.0.0.1
 [/ddfchina.com/]127.0.0.1
+[/ddfresh.net/]127.0.0.1
 [/ddfzb.com/]127.0.0.1
 [/ddgjjj.com/]127.0.0.1
 [/ddguanhuai.com/]127.0.0.1
@@ -29004,7 +29006,9 @@
 [/ddky.com/]127.0.0.1
 [/ddle.cc/]127.0.0.1
 [/ddlequ.com/]127.0.0.1
+[/ddmaicai.net/]127.0.0.1
 [/ddmap.com/]127.0.0.1
+[/ddmc.mobi/]127.0.0.1
 [/ddmer.com/]127.0.0.1
 [/ddmogo.com/]127.0.0.1
 [/ddnddn.com/]127.0.0.1
@@ -53517,6 +53521,7 @@
 [/imags-google.com/]127.0.0.1
 [/imahui.com/]127.0.0.1
 [/imaibo.net/]127.0.0.1
+[/imaicai.mobi/]127.0.0.1
 [/imaijia.com/]127.0.0.1
 [/imaitu.com/]127.0.0.1
 [/imalljoy.com/]127.0.0.1

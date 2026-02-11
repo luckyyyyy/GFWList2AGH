@@ -104708,6 +104708,7 @@
 [/xhslink.com/]127.0.0.1
 [/xhslw.com/]127.0.0.1
 [/xhsmlt.com/]127.0.0.1
+[/xhsrcdn.com/]127.0.0.1
 [/xhsrmyy.com/]127.0.0.1
 [/xhsxmt.com/]127.0.0.1
 [/xhsyqx.com/]127.0.0.1
@@ -115377,6 +115378,7 @@
 [/zhipianbang.vip/]127.0.0.1
 [/zhipin.com/]127.0.0.1
 [/zhipingke.com/]127.0.0.1
+[/zhipucn.com/]127.0.0.1
 [/zhipuzi.com/]127.0.0.1
 [/zhiqi.info/]127.0.0.1
 [/zhiqiang.org/]127.0.0.1

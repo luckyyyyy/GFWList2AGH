@@ -81682,7 +81682,6 @@
 [/redmart.com/]127.0.0.1
 [/redmou.com/]127.0.0.1
 [/rednetdns.com/]127.0.0.1
-[/rednotecdn.com/]127.0.0.1
 [/redocn.com/]127.0.0.1
 [/redodopower.com/]127.0.0.1
 [/redoop.com/]127.0.0.1
@@ -104708,7 +104707,6 @@
 [/xhslink.com/]127.0.0.1
 [/xhslw.com/]127.0.0.1
 [/xhsmlt.com/]127.0.0.1
-[/xhsrcdn.com/]127.0.0.1
 [/xhsrmyy.com/]127.0.0.1
 [/xhsxmt.com/]127.0.0.1
 [/xhsyqx.com/]127.0.0.1

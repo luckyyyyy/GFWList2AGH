@@ -6570,6 +6570,7 @@
 [/52playgame.com/]127.0.0.1
 [/52pojie.com/]127.0.0.1
 [/52post.com/]127.0.0.1
+[/52ppt.com/]127.0.0.1
 [/52pt.site/]127.0.0.1
 [/52qixiang.com/]127.0.0.1
 [/52qmct.com/]127.0.0.1
@@ -15145,6 +15146,7 @@
 [/badmintoncn.com/]127.0.0.1
 [/badmintone.com/]127.0.0.1
 [/badong.net/]127.0.0.1
+[/badou.com/]127.0.0.1
 [/badouxueyuan.com/]127.0.0.1
 [/badu.com/]127.0.0.1
 [/badudns.cc/]127.0.0.1
@@ -47278,6 +47280,7 @@
 [/haohanpower.tech/]127.0.0.1
 [/haohanstar.com/]127.0.0.1
 [/haohao8888.com/]127.0.0.1
+[/haohaodoc.com/]127.0.0.1
 [/haohaotuan.com/]127.0.0.1
 [/haohaowan.com/]127.0.0.1
 [/haohaowan.net/]127.0.0.1
@@ -65133,6 +65136,7 @@
 [/lazycatmicroserver.com/]127.0.0.1
 [/lazycomposer.com/]127.0.0.1
 [/lazydim.com/]127.0.0.1
+[/lazyer.net/]127.0.0.1
 [/lazymap.com/]127.0.0.1
 [/lazyren.com/]127.0.0.1
 [/lazystones.com/]127.0.0.1
@@ -103285,6 +103289,7 @@
 [/wenjuanshow.com/]127.0.0.1
 [/wenjuntech.com/]127.0.0.1
 [/wenkaoba.com/]127.0.0.1
+[/wenkeju.com/]127.0.0.1
 [/wenku.in/]127.0.0.1
 [/wenku.net/]127.0.0.1
 [/wenku365.com/]127.0.0.1

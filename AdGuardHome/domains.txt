@@ -13159,6 +13159,7 @@
 [/anhuisjx.com/]127.0.0.1
 [/anhuisuya.com/]127.0.0.1
 [/anhuiwine.com/]127.0.0.1
+[/anhuiyun.com/]127.0.0.1
 [/anhuizk.com/]127.0.0.1
 [/ani-sh.com/]127.0.0.1
 [/aniccw.net/]127.0.0.1
@@ -28419,6 +28420,7 @@
 [/ctdisk.com/]127.0.0.1
 [/ctdns.net/]127.0.0.1
 [/ctdns.org/]127.0.0.1
+[/ctdsb.clouddiffuse.xyz/]127.0.0.1
 [/ctdsb.com/]127.0.0.1
 [/ctdsb.net/]127.0.0.1
 [/ctdzsk.com/]127.0.0.1

@@ -13451,6 +13451,7 @@
 [/anysql.net/]127.0.0.1
 [/anystandards.com/]127.0.0.1
 [/anytesting.com/]127.0.0.1
+[/anytocopy.com/]127.0.0.1
 [/anyun100.com/]127.0.0.1
 [/anyunjianzhan.com/]127.0.0.1
 [/anyv.net/]127.0.0.1
@@ -27871,7 +27872,6 @@
 [/crane-net.com/]127.0.0.1
 [/cranewh.com/]127.0.0.1
 [/crash.work/]127.0.0.1
-[/crashlytics.com/]127.0.0.1
 [/crashlyticsreports-pa.googleapis.com/]127.0.0.1
 [/cravatar.com/]127.0.0.1
 [/crazepony.com/]127.0.0.1
@@ -29732,6 +29732,7 @@
 [/daoboime.com/]127.0.0.1
 [/daochen.com/]127.0.0.1
 [/daocloud.io/]127.0.0.1
+[/daocloud.vip/]127.0.0.1
 [/daocloudapp.com/]127.0.0.1
 [/daodao.com/]127.0.0.1
 [/daodaojizhang.com/]127.0.0.1
@@ -39490,6 +39491,7 @@
 [/gamenow.club/]127.0.0.1
 [/gameol.com/]127.0.0.1
 [/gamepingce.com/]127.0.0.1
+[/gamepp.com/]127.0.0.1
 [/gamer520.net/]127.0.0.1
 [/gamerboom.com/]127.0.0.1
 [/gameres.com/]127.0.0.1
@@ -48898,6 +48900,7 @@
 [/hezijia.com/]127.0.0.1
 [/hezimi.com/]127.0.0.1
 [/hezongyy.com/]127.0.0.1
+[/hezuvip.com/]127.0.0.1
 [/hf-alu.com/]127.0.0.1
 [/hf-aw.com/]127.0.0.1
 [/hf-iflysse.com/]127.0.0.1
@@ -77232,6 +77235,7 @@
 [/osakacopyshop.com/]127.0.0.1
 [/osapublishing.org/]127.0.0.1
 [/osase.net/]127.0.0.1
+[/osbdf.com/]127.0.0.1
 [/osbean.com/]127.0.0.1
 [/osbkj.com/]127.0.0.1
 [/osbzr.com/]127.0.0.1
@@ -85867,6 +85871,7 @@
 [/scqy100.com/]127.0.0.1
 [/scraij.com/]127.0.0.1
 [/scrape.center/]127.0.0.1
+[/scratch5.com/]127.0.0.1
 [/scratchmirror.com/]127.0.0.1
 [/scratchmirror.net/]127.0.0.1
 [/scrc168.com/]127.0.0.1
@@ -91182,6 +91187,7 @@
 [/soulapp.me/]127.0.0.1
 [/soulgame.mobi/]127.0.0.1
 [/soulsky.net/]127.0.0.1
+[/soulteary.com/]127.0.0.1
 [/soulu365.com/]127.0.0.1
 [/souluo.net/]127.0.0.1
 [/souluojie.com/]127.0.0.1
@@ -96527,6 +96533,7 @@
 [/tillcn.com/]127.0.0.1
 [/tillglance.com/]127.0.0.1
 [/timanetworks.com/]127.0.0.1
+[/timbrd.com/]127.0.0.1
 [/time-weekly.com/]127.0.0.1
 [/time-year.com/]127.0.0.1
 [/time.amazonaws.cn/]127.0.0.1
@@ -103856,6 +103863,7 @@
 [/wilddog.com/]127.0.0.1
 [/wilddream.net/]127.0.0.1
 [/wildfire.work/]127.0.0.1
+[/wildfirechat.net/]127.0.0.1
 [/wildgun.net/]127.0.0.1
 [/wildhorde.com/]127.0.0.1
 [/wildto.com/]127.0.0.1

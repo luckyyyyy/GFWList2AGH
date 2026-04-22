@@ -38388,7 +38388,6 @@
 [/fluke-ig.com/]127.0.0.1
 [/flumatic.com/]127.0.0.1
 [/flutterchina.club/]127.0.0.1
-[/flv.drs.tv.yatv.tv/]127.0.0.1
 [/flvcd.com/]127.0.0.1
 [/flvlog.com/]127.0.0.1
 [/flvpw.com/]127.0.0.1
@@ -51859,7 +51858,6 @@
 [/httpcanary.com/]127.0.0.1
 [/httpcn.com/]127.0.0.1
 [/httpdns.pro/]127.0.0.1
-[/httpdvb.slave.ttcatv.tv/]127.0.0.1
 [/httpsok.com/]127.0.0.1
 [/httpssl.com/]127.0.0.1
 [/htucloud.com/]127.0.0.1
@@ -67455,7 +67453,6 @@
 [/live.hnzzzzzdst.com/]127.0.0.1
 [/live.lxzc.net/]127.0.0.1
 [/live.ntdimg.com/]127.0.0.1
-[/live.qinyangtv.com/]127.0.0.1
 [/live.sccxtv.com/]127.0.0.1
 [/live.sichuanmianning.com/]127.0.0.1
 [/live.streamingfast.net/]127.0.0.1
@@ -69559,14 +69556,7 @@
 [/m3guo.com/]127.0.0.1
 [/m3kaiye.com/]127.0.0.1
 [/m3mk7nyo17.com/]127.0.0.1
-[/m3u8.channel.luzhoubs.com/]127.0.0.1
-[/m3u8.channel.yatv.tv/]127.0.0.1
 [/m3u8.file.leshantv.net/]127.0.0.1
-[/m3u8.lschannel.yatv.tv/]127.0.0.1
-[/m3u8.mschannel.yatv.tv/]127.0.0.1
-[/m3u8.smchannel.yatv.tv/]127.0.0.1
-[/m3u8.ycchannel.yatv.tv/]127.0.0.1
-[/m3u8.yjchannel.yatv.tv/]127.0.0.1
 [/m3u8channel-bx.wuxianyaan.com/]127.0.0.1
 [/m3u8channel-ms.wuxianyaan.com/]127.0.0.1
 [/m3u8channel-sm.wuxianyaan.com/]127.0.0.1
@@ -92655,10 +92645,8 @@
 [/stream.rcs.revma.com/]127.0.0.1
 [/stream.slave.jxtvnet.tv/]127.0.0.1
 [/stream.superfm99-1.com.tw/]127.0.0.1
-[/stream.sxsztv.com/]127.0.0.1
 [/stream.wbez.org/]127.0.0.1
 [/stream.xctv.news/]127.0.0.1
-[/stream.ysbtv.net/]127.0.0.1
 [/stream.zhystv.com/]127.0.0.1
 [/stream.zzgd.tv/]127.0.0.1
 [/stream0.tv41.ru/]127.0.0.1
@@ -101702,7 +101690,6 @@
 [/vod-qcloud.com/]127.0.0.1
 [/vod-test.com/]127.0.0.1
 [/vod-upload.com/]127.0.0.1
-[/vod.qhdcm.com/]127.0.0.1
 [/vodapis.com/]127.0.0.1
 [/vodapisbk.com/]127.0.0.1
 [/vodasafe.com/]127.0.0.1

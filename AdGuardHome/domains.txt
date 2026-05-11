@@ -13834,7 +13834,6 @@
 [/asset-vendor-event.msi.com/]127.0.0.1
 [/asset.msi.com/]127.0.0.1
 [/assets-global.viveport.com/]127.0.0.1
-[/assets.uxengine.net/]127.0.0.1
 [/assrt.net/]127.0.0.1
 [/assyrb.com/]127.0.0.1
 [/astbbs.com/]127.0.0.1
@@ -14743,7 +14742,6 @@
 [/baidu-wenxue.com/]127.0.0.1
 [/baidu.cc/]127.0.0.1
 [/baidu.com/]127.0.0.1
-[/baidu.hk/]127.0.0.1
 [/baidu.mobi/]127.0.0.1
 [/baidu120.cc/]127.0.0.1
 [/baidu123.com/]127.0.0.1
@@ -66978,6 +66976,7 @@
 [/maiyadi.com/]127.0.0.1
 [/maiyanju.com/]127.0.0.1
 [/maiyaole.com/]127.0.0.1
+[/maiyatian.com/]127.0.0.1
 [/maiyayk.com/]127.0.0.1
 [/maiyuesoft.com/]127.0.0.1
 [/maiyuren.com/]127.0.0.1
@@ -82139,7 +82138,6 @@
 [/safetyvod.com/]127.0.0.1
 [/safround.com/]127.0.0.1
 [/sagepub.com/]127.0.0.1
-[/sagetrc.com/]127.0.0.1
 [/sagewc-exp.com/]127.0.0.1
 [/sagigame.net/]127.0.0.1
 [/sagsaas.com/]127.0.0.1
@@ -84817,7 +84815,6 @@
 [/shendatong.com/]127.0.0.1
 [/shendiaoqzj.com/]127.0.0.1
 [/shendoow.com/]127.0.0.1
-[/shendu.cc/]127.0.0.1
 [/shendu.com/]127.0.0.1
 [/shendu123.com/]127.0.0.1
 [/shendugho.com/]127.0.0.1
@@ -95224,7 +95221,6 @@
 [/tv20806.com/]127.0.0.1
 [/tv373.com/]127.0.0.1
 [/tvandnet.com/]127.0.0.1
-[/tvants.com/]127.0.0.1
 [/tvapk.com/]127.0.0.1
 [/tvapk.net/]127.0.0.1
 [/tvbbj.com/]127.0.0.1
@@ -100633,7 +100629,6 @@
 [/wk2.com/]127.0.0.1
 [/wk515.com/]127.0.0.1
 [/wk78.com/]127.0.0.1
-[/wka8.com/]127.0.0.1
 [/wkai.cc/]127.0.0.1
 [/wkandian.com/]127.0.0.1
 [/wkanx.com/]127.0.0.1
@@ -108326,7 +108321,6 @@
 [/yinsha.com/]127.0.0.1
 [/yinshenxia.com/]127.0.0.1
 [/yinshua.cc/]127.0.0.1
-[/yinshuahangyewang.mobi/]127.0.0.1
 [/yinshuiyu.com/]127.0.0.1
 [/yinsuwl.com/]127.0.0.1
 [/yintai.com/]127.0.0.1

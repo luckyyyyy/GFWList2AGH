@@ -27466,6 +27466,7 @@
 [/ctgapp.com/]127.0.0.1
 [/ctgcdn.biz/]127.0.0.1
 [/ctgcdn.com/]127.0.0.1
+[/ctgcdn.info/]127.0.0.1
 [/ctghealthy.com/]127.0.0.1
 [/ctghr.com/]127.0.0.1
 [/ctghro.com/]127.0.0.1
@@ -47447,7 +47448,6 @@
 [/hid98ys.com/]127.0.0.1
 [/hidery.com/]127.0.0.1
 [/hidesigncloud.com/]127.0.0.1
-[/hidist.com/]127.0.0.1
 [/hiditie.com/]127.0.0.1
 [/hidna.net/]127.0.0.1
 [/hidreamai.com/]127.0.0.1

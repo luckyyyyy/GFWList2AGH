@@ -52052,6 +52052,7 @@
 [/ichinaenergy.com/]127.0.0.1
 [/ichong123.com/]127.0.0.1
 [/ichongdao.com/]127.0.0.1
+[/ichongqing.info/]127.0.0.1
 [/ichtcm.com/]127.0.0.1
 [/ichuanglan.com/]127.0.0.1
 [/ichuangye.com/]127.0.0.1
@@ -60759,6 +60760,7 @@
 [/knewbi.com/]127.0.0.1
 [/knewone.com/]127.0.0.1
 [/knewsmart.com/]127.0.0.1
+[/knfastpic.com/]127.0.0.1
 [/knfeco.com/]127.0.0.1
 [/knight-un.com/]127.0.0.1
 [/knightedge.com/]127.0.0.1
@@ -78437,6 +78439,7 @@
 [/qnqcdn.net/]127.0.0.1
 [/qnsdk.com/]127.0.0.1
 [/qnssl.com/]127.0.0.1
+[/qnvip.com/]127.0.0.1
 [/qnvipmall.com/]127.0.0.1
 [/qnvipxd.com/]127.0.0.1
 [/qnydns.com/]127.0.0.1

@@ -18435,6 +18435,7 @@
 [/btei6pis99.com/]127.0.0.1
 [/btgame.com/]127.0.0.1
 [/btgcjs.com/]127.0.0.1
+[/btghotels.com/]127.0.0.1
 [/btgljt.com/]127.0.0.1
 [/btgtravel.com/]127.0.0.1
 [/bth.vip/]127.0.0.1
@@ -33046,6 +33047,7 @@
 [/edgeonevod1.com/]127.0.0.1
 [/edgeonevod1.net/]127.0.0.1
 [/edgep.net/]127.0.0.1
+[/edgescloud.cloud/]127.0.0.1
 [/edgesrv.com/]127.0.0.1
 [/edgetls.xyz/]127.0.0.1
 [/edhic.com/]127.0.0.1
@@ -44527,6 +44529,7 @@
 [/h5no1.com/]127.0.0.1
 [/h5pack.com/]127.0.0.1
 [/h5po.com/]127.0.0.1
+[/h5qy75o.vip/]127.0.0.1
 [/h5shuo.com/]127.0.0.1
 [/h5taotao.com/]127.0.0.1
 [/h5tpl.com/]127.0.0.1
@@ -44559,6 +44562,7 @@
 [/habbygames.com/]127.0.0.1
 [/habctv.com/]127.0.0.1
 [/habwjc.com/]127.0.0.1
+[/hacg.site/]127.0.0.1
 [/hach-hanna.com/]127.0.0.1
 [/hachicnc.com/]127.0.0.1
 [/hacjkq.com/]127.0.0.1
@@ -56233,6 +56237,7 @@
 [/jinjiang.tv/]127.0.0.1
 [/jinjianghotels.com/]127.0.0.1
 [/jinjianginns.com/]127.0.0.1
+[/jinjiangonline.net/]127.0.0.1
 [/jinjiangwater.com/]127.0.0.1
 [/jinjiaomh.com/]127.0.0.1
 [/jinjie.tech/]127.0.0.1
@@ -68232,6 +68237,7 @@
 [/mingpian.net/]127.0.0.1
 [/mingqi.co/]127.0.0.1
 [/mingqu.xyz/]127.0.0.1
+[/mingque.com/]127.0.0.1
 [/mingr.com/]127.0.0.1
 [/mingren888.com/]127.0.0.1
 [/mingrsoft.com/]127.0.0.1
@@ -73200,6 +73206,7 @@
 [/oemsoc.download.prss.microsoft.com/]127.0.0.1
 [/oemsocuat.download.prss.microsoft.com/]127.0.0.1
 [/oemssl.cn.cdn.cloudflare.net/]127.0.0.1
+[/oemxitong.com/]127.0.0.1
 [/oeob.net/]127.0.0.1
 [/oepamvxq.com/]127.0.0.1
 [/oepkgs.net/]127.0.0.1
@@ -74919,6 +74926,7 @@
 [/peekpipai.com/]127.0.0.1
 [/peento.com/]127.0.0.1
 [/peepic.com/]127.0.0.1
+[/peer.as/]127.0.0.1
 [/peerkennel.com/]127.0.0.1
 [/pegbiocq.com/]127.0.0.1
 [/peidibrand.com/]127.0.0.1
@@ -75549,7 +75557,6 @@
 [/pj62049.com/]127.0.0.1
 [/pj73.com/]127.0.0.1
 [/pjbest.com/]127.0.0.1
-[/pjcn.org/]127.0.0.1
 [/pjf.name/]127.0.0.1
 [/pjgear.com/]127.0.0.1
 [/pjgjg.com/]127.0.0.1
@@ -79566,6 +79573,7 @@
 [/rationalwh.com/]127.0.0.1
 [/ratogh.com/]127.0.0.1
 [/ratoo.net/]127.0.0.1
+[/rauqa.net/]127.0.0.1
 [/rauto.com/]127.0.0.1
 [/ravenna0943.xyz/]127.0.0.1
 [/raverstern.site/]127.0.0.1
@@ -89116,7 +89124,6 @@
 [/syhzdj.net/]127.0.0.1
 [/syhzx.com/]127.0.0.1
 [/syhzzf.com/]127.0.0.1
-[/syiae.com/]127.0.0.1
 [/syiptv.com/]127.0.0.1
 [/syitgz.com/]127.0.0.1
 [/syjcly.com/]127.0.0.1
@@ -89182,6 +89189,7 @@
 [/syrc.org/]127.0.0.1
 [/syrcb.net/]127.0.0.1
 [/syrczpw.com/]127.0.0.1
+[/syrds.pro/]127.0.0.1
 [/syreads.com/]127.0.0.1
 [/syrecovery.com/]127.0.0.1
 [/syrhkj.com/]127.0.0.1
@@ -96209,6 +96217,7 @@
 [/videougc.com/]127.0.0.1
 [/videoxiaoyouxi.com/]127.0.0.1
 [/videoyx.com/]127.0.0.1
+[/vidhash.net/]127.0.0.1
 [/vidmate.mobi/]127.0.0.1
 [/vidmate.net/]127.0.0.1
 [/vidmatefilm.org/]127.0.0.1
@@ -105069,7 +105078,6 @@
 [/xxxfeng.com/]127.0.0.1
 [/xxxhhh.com/]127.0.0.1
 [/xxxmeng.com/]127.0.0.1
-[/xxxx68xxxx.com/]127.0.0.1
 [/xxxx88xxxx.com/]127.0.0.1
 [/xxxx92xxxx.com/]127.0.0.1
 [/xxxx96xxxx.com/]127.0.0.1

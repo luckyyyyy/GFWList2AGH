@@ -10977,6 +10977,7 @@
 [/ahceisc.com/]127.0.0.1
 [/ahcfrc.com/]127.0.0.1
 [/ahchanye.com/]127.0.0.1
+[/ahcjw.com/]127.0.0.1
 [/ahcnb.com/]127.0.0.1
 [/ahcoating.com/]127.0.0.1
 [/ahcsdz.com/]127.0.0.1
@@ -43378,6 +43379,7 @@
 [/gxxlzyc.com/]127.0.0.1
 [/gxxmglzx.com/]127.0.0.1
 [/gxxmjjs.com/]127.0.0.1
+[/gxxmt.com/]127.0.0.1
 [/gxxmyjs.com/]127.0.0.1
 [/gxxqsm.com/]127.0.0.1
 [/gxxrf.com/]127.0.0.1
@@ -53679,6 +53681,7 @@
 [/ishenping.com/]127.0.0.1
 [/ishenyou.com/]127.0.0.1
 [/ishijing.com/]127.0.0.1
+[/ishijue.com/]127.0.0.1
 [/ishipoffshore.com/]127.0.0.1
 [/ishouhong.com/]127.0.0.1
 [/ishouka.com/]127.0.0.1
@@ -61643,6 +61646,7 @@
 [/landed.cc/]127.0.0.1
 [/landhonor.com/]127.0.0.1
 [/landi.com/]127.0.0.1
+[/landian.news/]127.0.0.1
 [/landian.vip/]127.0.0.1
 [/landian.xyz/]127.0.0.1
 [/landiannews.com/]127.0.0.1
@@ -70986,6 +70990,7 @@
 [/nfmrtfv.com/]127.0.0.1
 [/nfnews.com/]127.0.0.1
 [/nfoservers.com/]127.0.0.1
+[/nfpeople.com/]127.0.0.1
 [/nfqbyp.com/]127.0.0.1
 [/nfs-china.com/]127.0.0.1
 [/nfschina.com/]127.0.0.1
@@ -72446,6 +72451,7 @@
 [/nprnat-i.akamaihd.net/]127.0.0.1
 [/npsdyyy.com/]127.0.0.1
 [/npsel.com/]127.0.0.1
+[/npsv6.com/]127.0.0.1
 [/nptpark.com/]127.0.0.1
 [/nptparking.com/]127.0.0.1
 [/nptwedding.com/]127.0.0.1
@@ -94614,6 +94620,7 @@
 [/ucpaas.com/]127.0.0.1
 [/ucpchina.com/]127.0.0.1
 [/ucpopo.com/]127.0.0.1
+[/ucppt.com/]127.0.0.1
 [/ucren.com/]127.0.0.1
 [/ucsanya.com/]127.0.0.1
 [/ucss.ninja/]127.0.0.1
@@ -95703,6 +95710,7 @@
 [/vcd.io/]127.0.0.1
 [/vcdnga.com/]127.0.0.1
 [/vcg.com/]127.0.0.1
+[/vcgapi.com/]127.0.0.1
 [/vchangyi.com/]127.0.0.1
 [/vcimg.com/]127.0.0.1
 [/vcinchina.com/]127.0.0.1

@@ -100623,6 +100623,7 @@
 [/www.nike.com/]127.0.0.1
 [/www.pxcc.com/]127.0.0.1
 [/www.pxitv.com/]127.0.0.1
+[/www.recaptcha-cn.net/]127.0.0.1
 [/www.recaptcha.net/]127.0.0.1
 [/www.redhat.com/]127.0.0.1
 [/www.samsung.com/]127.0.0.1

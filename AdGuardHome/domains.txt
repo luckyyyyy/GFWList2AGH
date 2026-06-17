@@ -10073,6 +10073,7 @@
 [/9yuntu.com/]127.0.0.1
 [/9yuonline.com/]127.0.0.1
 [/9yz.com/]127.0.0.1
+[/9zadx.com/]127.0.0.1
 [/9zas5.com/]127.0.0.1
 [/9zhen.com/]127.0.0.1
 [/9znet.com/]127.0.0.1
@@ -11939,6 +11940,7 @@
 [/aliddmall.com/]127.0.0.1
 [/alidns.com/]127.0.0.1
 [/alidns.net/]127.0.0.1
+[/alidnsv4.com/]127.0.0.1
 [/alidz.net/]127.0.0.1
 [/aliedge.com/]127.0.0.1
 [/aliensidea.com/]127.0.0.1
@@ -15252,6 +15254,7 @@
 [/bb3a14ca57af4d81.com/]127.0.0.1
 [/bb52e27c75560d3f.com/]127.0.0.1
 [/bb730b04b6cc8c57.com/]127.0.0.1
+[/bb888xx999.com/]127.0.0.1
 [/bbanp.com/]127.0.0.1
 [/bbaod.com/]127.0.0.1
 [/bbaqw.com/]127.0.0.1
@@ -17027,6 +17030,7 @@
 [/bjhwxy.com/]127.0.0.1
 [/bjhx110.com/]127.0.0.1
 [/bjhxqh.com/]127.0.0.1
+[/bjhxwl.xyz/]127.0.0.1
 [/bjhxzlyy.com/]127.0.0.1
 [/bjhytjxjg.com/]127.0.0.1
 [/bjhzzs.com/]127.0.0.1
@@ -31652,6 +31656,7 @@
 [/dumi0898.com/]127.0.0.1
 [/dumpapp.com/]127.0.0.1
 [/dun.la/]127.0.0.1
+[/dun222.com/]127.0.0.1
 [/dun555.com/]127.0.0.1
 [/dun599.com/]127.0.0.1
 [/dunan.net/]127.0.0.1
@@ -34794,7 +34799,6 @@
 [/fangpaiwang.com/]127.0.0.1
 [/fangqk.com/]127.0.0.1
 [/fangrun.com/]127.0.0.1
-[/fangshan.us/]127.0.0.1
 [/fangshanzi.com/]127.0.0.1
 [/fangsheji.com/]127.0.0.1
 [/fangshengaxle.com/]127.0.0.1
@@ -42627,6 +42631,7 @@
 [/gxlecheng.com/]127.0.0.1
 [/gxlek.com/]127.0.0.1
 [/gxlelin.com/]127.0.0.1
+[/gxlepanjun.com/]127.0.0.1
 [/gxlfzl.com/]127.0.0.1
 [/gxlgwl.com/]127.0.0.1
 [/gxlgxx.com/]127.0.0.1
@@ -50162,10 +50167,8 @@
 [/hupujrs.com/]127.0.0.1
 [/hupun.com/]127.0.0.1
 [/hur05100kns.com/]127.0.0.1
-[/hur05101kns.com/]127.0.0.1
 [/hur05111kns.com/]127.0.0.1
 [/hur05120kns.com/]127.0.0.1
-[/hur05121kns.com/]127.0.0.1
 [/hurom.vip/]127.0.0.1
 [/hurricane618.me/]127.0.0.1
 [/hurricanechip.com/]127.0.0.1
@@ -52121,6 +52124,7 @@
 [/igenetech.com/]127.0.0.1
 [/igengmei.com/]127.0.0.1
 [/igeshui.com/]127.0.0.1
+[/igetcool.com/]127.0.0.1
 [/igetget.com/]127.0.0.1
 [/igetmall.net/]127.0.0.1
 [/igetui.com/]127.0.0.1
@@ -59804,6 +59808,7 @@
 [/khqihuo.com/]127.0.0.1
 [/khruiming.com/]127.0.0.1
 [/khs1994.com/]127.0.0.1
+[/khvle.com/]127.0.0.1
 [/khysct.com/]127.0.0.1
 [/ki-pa.com/]127.0.0.1
 [/kiaic.com/]127.0.0.1
@@ -61034,6 +61039,7 @@
 [/kuocaidns.com/]127.0.0.1
 [/kuocaiyun.com/]127.0.0.1
 [/kuoo8.com/]127.0.0.1
+[/kuos.xyz/]127.0.0.1
 [/kuosheng.com/]127.0.0.1
 [/kuosheng.net/]127.0.0.1
 [/kuotu.com/]127.0.0.1
@@ -63211,6 +63217,7 @@
 [/linfeicloud.com/]127.0.0.1
 [/linfen365.com/]127.0.0.1
 [/linfeng.tech/]127.0.0.1
+[/linfengnet.com/]127.0.0.1
 [/linfenwater.net/]127.0.0.1
 [/ling-shi.com/]127.0.0.1
 [/lingangholding.com/]127.0.0.1
@@ -65605,6 +65612,7 @@
 [/lzolm.com/]127.0.0.1
 [/lzorient.com/]127.0.0.1
 [/lzpfei.com/]127.0.0.1
+[/lzpipi.com/]127.0.0.1
 [/lzpmia.com/]127.0.0.1
 [/lzppt.com/]127.0.0.1
 [/lzprocess.com/]127.0.0.1
@@ -77090,7 +77098,6 @@
 [/qihanbio.com/]127.0.0.1
 [/qihangcrrc.com/]127.0.0.1
 [/qihaoip.com/]127.0.0.1
-[/qihaoqu.com/]127.0.0.1
 [/qihaxiaoshuo.com/]127.0.0.1
 [/qihejy.com/]127.0.0.1
 [/qihepaimai.com/]127.0.0.1
@@ -80668,6 +80675,7 @@
 [/ruvar.com/]127.0.0.1
 [/ruwen5.org/]127.0.0.1
 [/ruxiaoyi.com/]127.0.0.1
+[/ruyi.ai/]127.0.0.1
 [/ruyig.com/]127.0.0.1
 [/ruyigou.com/]127.0.0.1
 [/ruyile.com/]127.0.0.1
@@ -86656,6 +86664,7 @@
 [/sooauto.com/]127.0.0.1
 [/soochowchem.com/]127.0.0.1
 [/soocor.com/]127.0.0.1
+[/sood6.com/]127.0.0.1
 [/sooele.com/]127.0.0.1
 [/soofel.com/]127.0.0.1
 [/soogf.com/]127.0.0.1
@@ -88689,6 +88698,7 @@
 [/syjcly.com/]127.0.0.1
 [/syjcxh.com/]127.0.0.1
 [/syjiancai.com/]127.0.0.1
+[/syjiaotong.mobi/]127.0.0.1
 [/syjkqzw.com/]127.0.0.1
 [/syjlp.com/]127.0.0.1
 [/syjsq.com/]127.0.0.1
@@ -91240,6 +91250,7 @@
 [/tgtianshanga.com/]127.0.0.1
 [/tgxuwgdi.com/]127.0.0.1
 [/tgzhz.com/]127.0.0.1
+[/th-music.com/]127.0.0.1
 [/th-sjy.com/]127.0.0.1
 [/th-tencentclb.cloud/]127.0.0.1
 [/th-tencentclb.com/]127.0.0.1
@@ -94334,6 +94345,7 @@
 [/uccbikes.com/]127.0.0.1
 [/uccpd.com/]127.0.0.1
 [/ucdchina.com/]127.0.0.1
+[/ucdns7.com/]127.0.0.1
 [/ucdok.com/]127.0.0.1
 [/ucdrs.net/]127.0.0.1
 [/ucfly.com/]127.0.0.1
@@ -100548,7 +100560,6 @@
 [/wxshuku.la/]127.0.0.1
 [/wxskysy.com/]127.0.0.1
 [/wxslzf.com/]127.0.0.1
-[/wxsohu.com/]127.0.0.1
 [/wxsswgs.com/]127.0.0.1
 [/wxsteed.com/]127.0.0.1
 [/wxstztg.com/]127.0.0.1
@@ -101872,6 +101883,7 @@
 [/xiaoe-tech.com/]127.0.0.1
 [/xiaoe-tools.com/]127.0.0.1
 [/xiaoecloud.com/]127.0.0.1
+[/xiaoedata.com/]127.0.0.1
 [/xiaoeeye.com/]127.0.0.1
 [/xiaoeknow.com/]127.0.0.1
 [/xiaoenai.com/]127.0.0.1
@@ -103764,6 +103776,7 @@
 [/xqblog.com/]127.0.0.1
 [/xqbssj.com/]127.0.0.1
 [/xqce.com/]127.0.0.1
+[/xqdaolove.com/]127.0.0.1
 [/xqdgroup.com/]127.0.0.1
 [/xqdjkwz.com/]127.0.0.1
 [/xqfunds.com/]127.0.0.1
@@ -109328,6 +109341,7 @@
 [/yuqiao.com/]127.0.0.1
 [/yuqiaolong.com/]127.0.0.1
 [/yuqinpin.com/]127.0.0.1
+[/yuqncloud.com/]127.0.0.1
 [/yuquanhosp.com/]127.0.0.1
 [/yuque.com/]127.0.0.1
 [/yur09130og.com/]127.0.0.1

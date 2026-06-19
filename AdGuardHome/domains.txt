@@ -2711,6 +2711,7 @@
 [/1gow.net/]127.0.0.1
 [/1haigtm.com/]127.0.0.1
 [/1haitao.com/]127.0.0.1
+[/1haitun.com/]127.0.0.1
 [/1hangye.com/]127.0.0.1
 [/1haogu.com/]127.0.0.1
 [/1haosuo.com/]127.0.0.1
@@ -25692,6 +25693,7 @@
 [/coralset.com/]127.0.0.1
 [/corari.com/]127.0.0.1
 [/core-biopharma.com/]127.0.0.1
+[/core-flow.org/]127.0.0.1
 [/corebai.com/]127.0.0.1
 [/coreesports.net/]127.0.0.1
 [/corehalo.com/]127.0.0.1
@@ -31002,6 +31004,7 @@
 [/dotgate.com/]127.0.0.1
 [/dothantech.com/]127.0.0.1
 [/doticloud.com/]127.0.0.1
+[/dotreamexpo.com/]127.0.0.1
 [/dotty-china.com/]127.0.0.1
 [/dotwe.org/]127.0.0.1
 [/dou.bz/]127.0.0.1
@@ -33025,6 +33028,7 @@
 [/efficient.hk/]127.0.0.1
 [/effirst.com/]127.0.0.1
 [/efglobal-gy.com/]127.0.0.1
+[/efindtravel.com/]127.0.0.1
 [/efivestar.com/]127.0.0.1
 [/efl-tech.com/]127.0.0.1
 [/eflagcomm.com/]127.0.0.1
@@ -37588,6 +37592,7 @@
 [/gal3d.info/]127.0.0.1
 [/gala-v.com/]127.0.0.1
 [/galaxix.com/]127.0.0.1
+[/galaxy-adx.com/]127.0.0.1
 [/galaxy-geely.com/]127.0.0.1
 [/galaxy-immi.com/]127.0.0.1
 [/galaxyappstore.com/]127.0.0.1
@@ -43979,6 +43984,7 @@
 [/gzsgczb.com/]127.0.0.1
 [/gzshaudio.com/]127.0.0.1
 [/gzsheraton.com/]127.0.0.1
+[/gzshik.com/]127.0.0.1
 [/gzshiran.com/]127.0.0.1
 [/gzshuangbao.com/]127.0.0.1
 [/gzshuimh.com/]127.0.0.1
@@ -63239,6 +63245,7 @@
 [/lingxigames.com/]127.0.0.1
 [/lingxing.com/]127.0.0.1
 [/lingxingkj.com/]127.0.0.1
+[/lingxingxinli.com/]127.0.0.1
 [/lingxiuwenlv.com/]127.0.0.1
 [/lingxmall.com/]127.0.0.1
 [/lingy.cc/]127.0.0.1
@@ -68452,6 +68459,7 @@
 [/moe.xin/]127.0.0.1
 [/moe123.com/]127.0.0.1
 [/moe123.org/]127.0.0.1
+[/moe233.org/]127.0.0.1
 [/moe321.com/]127.0.0.1
 [/moeclub.org/]127.0.0.1
 [/moedot.net/]127.0.0.1
@@ -80473,6 +80481,7 @@
 [/ruixunidc.com/]127.0.0.1
 [/ruixunidc.net/]127.0.0.1
 [/ruiyang-ra.com/]127.0.0.1
+[/ruiying.online/]127.0.0.1
 [/ruiying3d.com/]127.0.0.1
 [/ruiyingkeji.com/]127.0.0.1
 [/ruiyitech.com/]127.0.0.1
@@ -93984,6 +93993,7 @@
 [/typicalchn.com/]127.0.0.1
 [/typora.net/]127.0.0.1
 [/typrotech.com/]127.0.0.1
+[/typstify.com/]127.0.0.1
 [/tyqian.com/]127.0.0.1
 [/tyqxzx.com/]127.0.0.1
 [/tyrantg.com/]127.0.0.1
@@ -94249,6 +94259,7 @@
 [/uccbikes.com/]127.0.0.1
 [/uccpd.com/]127.0.0.1
 [/ucdchina.com/]127.0.0.1
+[/ucdns22.com/]127.0.0.1
 [/ucdns7.com/]127.0.0.1
 [/ucdok.com/]127.0.0.1
 [/ucdrs.net/]127.0.0.1
@@ -101820,6 +101831,7 @@
 [/xiaohe666.com/]127.0.0.1
 [/xiaoheihegame.com/]127.0.0.1
 [/xiaoheima.com/]127.0.0.1
+[/xiaoheiribao.com/]127.0.0.1
 [/xiaohelive.com/]127.0.0.1
 [/xiaohengmaidan.com/]127.0.0.1
 [/xiaohi.cc/]127.0.0.1
@@ -104567,6 +104579,7 @@
 [/xyhygs.com/]127.0.0.1
 [/xyict.com/]127.0.0.1
 [/xyimg.net/]127.0.0.1
+[/xyingsoft.com/]127.0.0.1
 [/xyj.link/]127.0.0.1
 [/xyj321.com/]127.0.0.1
 [/xyj618.com/]127.0.0.1
@@ -114113,6 +114126,7 @@
 [/zuizhifu.com/]127.0.0.1
 [/zuji360.com/]127.0.0.1
 [/zujiant.com/]127.0.0.1
+[/zujingpai.com/]127.0.0.1
 [/zujuan.com/]127.0.0.1
 [/zujuanku.com/]127.0.0.1
 [/zujuanyi.com/]127.0.0.1

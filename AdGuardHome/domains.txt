@@ -1481,6 +1481,7 @@
 [/113989.com/]127.0.0.1
 [/113dh.com/]127.0.0.1
 [/114-91.com/]127.0.0.1
+[/114.tel/]127.0.0.1
 [/1145858.com/]127.0.0.1
 [/11467.com/]127.0.0.1
 [/11478.com/]127.0.0.1
@@ -10149,7 +10150,6 @@
 [/aa5d.com/]127.0.0.1
 [/aa65535.com/]127.0.0.1
 [/aa6666.com/]127.0.0.1
-[/aa67678156.com/]127.0.0.1
 [/aa6f0397a3cf50d7.com/]127.0.0.1
 [/aa76858896.com/]127.0.0.1
 [/aa77kk.com/]127.0.0.1
@@ -10350,7 +10350,6 @@
 [/acconsys.com/]127.0.0.1
 [/accopower.com/]127.0.0.1
 [/account.htcvive.com/]127.0.0.1
-[/accountboy.com/]127.0.0.1
 [/accr.cc/]127.0.0.1
 [/accsh.org/]127.0.0.1
 [/acctdns.com/]127.0.0.1
@@ -13501,6 +13500,7 @@
 [/asilu.com/]127.0.0.1
 [/asim-emc.com/]127.0.0.1
 [/asimi8.com/]127.0.0.1
+[/asinking.com/]127.0.0.1
 [/asit.cc/]127.0.0.1
 [/asjnu.com/]127.0.0.1
 [/ask.amd.com/]127.0.0.1
@@ -14935,7 +14935,9 @@
 [/bao-hulu.com/]127.0.0.1
 [/bao12333.com/]127.0.0.1
 [/bao369.com/]127.0.0.1
+[/baoanbi.com/]127.0.0.1
 [/baoanchina.com/]127.0.0.1
+[/baoangold.com/]127.0.0.1
 [/baob123.com/]127.0.0.1
 [/baobanli.com/]127.0.0.1
 [/baobao001.com/]127.0.0.1
@@ -22180,6 +22182,7 @@
 [/chinaeinv.com/]127.0.0.1
 [/chinaejiao.com/]127.0.0.1
 [/chinaembassy.at/]127.0.0.1
+[/chinaemd.com/]127.0.0.1
 [/chinaepoxy.com/]127.0.0.1
 [/chinaepu.com/]127.0.0.1
 [/chinaequity.net/]127.0.0.1
@@ -22765,6 +22768,7 @@
 [/chinawr.net/]127.0.0.1
 [/chinaws.net/]127.0.0.1
 [/chinawssdxh.com/]127.0.0.1
+[/chinawu.com/]127.0.0.1
 [/chinawudang.com/]127.0.0.1
 [/chinawulong.com/]127.0.0.1
 [/chinawutong.com/]127.0.0.1
@@ -27607,6 +27611,7 @@
 [/cytuig.com/]127.0.0.1
 [/cyuandao.com/]127.0.0.1
 [/cyudun.net/]127.0.0.1
+[/cyuegame.com/]127.0.0.1
 [/cyuew.com/]127.0.0.1
 [/cyuntech.com/]127.0.0.1
 [/cyvalve.com/]127.0.0.1
@@ -31100,6 +31105,7 @@
 [/douyou100.com/]127.0.0.1
 [/douyu.com/]127.0.0.1
 [/douyu.tv/]127.0.0.1
+[/douyuedui.com/]127.0.0.1
 [/douyuex.com/]127.0.0.1
 [/douyuscdn.com/]127.0.0.1
 [/douyutv.com/]127.0.0.1
@@ -40172,6 +40178,7 @@
 [/goldsunchn.com/]127.0.0.1
 [/goldsunmachinery.com/]127.0.0.1
 [/goldsupplier.com/]127.0.0.1
+[/goldtianyan.com/]127.0.0.1
 [/goldvole.com/]127.0.0.1
 [/goldwaterhk.com/]127.0.0.1
 [/goldwind.com/]127.0.0.1
@@ -44425,6 +44432,8 @@
 [/haimeec.com/]127.0.0.1
 [/haimi.com/]127.0.0.1
 [/haimian.com/]127.0.0.1
+[/haimianbandstatic.com/]127.0.0.1
+[/haimianyinyue.com/]127.0.0.1
 [/haimin.net/]127.0.0.1
 [/haimini.com/]127.0.0.1
 [/haimosic.com/]127.0.0.1
@@ -52828,6 +52837,7 @@
 [/initcc.com/]127.0.0.1
 [/initdd.com/]127.0.0.1
 [/initff.com/]127.0.0.1
+[/initgg.com/]127.0.0.1
 [/initialview.com/]127.0.0.1
 [/initjj.com/]127.0.0.1
 [/initkk.com/]127.0.0.1
@@ -52868,6 +52878,7 @@
 [/inluckcalendar.com/]127.0.0.1
 [/inmeng.net/]127.0.0.1
 [/inmense.site/]127.0.0.1
+[/inmis.com/]127.0.0.1
 [/inmuu.com/]127.0.0.1
 [/inmyshow.com/]127.0.0.1
 [/innatek.com/]127.0.0.1
@@ -63204,6 +63215,7 @@
 [/lingxicloud.com/]127.0.0.1
 [/lingxigames.com/]127.0.0.1
 [/lingxing.com/]127.0.0.1
+[/lingxingerp.com/]127.0.0.1
 [/lingxingkj.com/]127.0.0.1
 [/lingxingxinli.com/]127.0.0.1
 [/lingxiuwenlv.com/]127.0.0.1
@@ -69467,6 +69479,7 @@
 [/myhjw.vip/]127.0.0.1
 [/myhkw.com/]127.0.0.1
 [/myhl-china315.com/]127.0.0.1
+[/myhloli.com/]127.0.0.1
 [/myhm.org/]127.0.0.1
 [/myhomeok.com/]127.0.0.1
 [/myhongzuan.com/]127.0.0.1
@@ -69611,6 +69624,7 @@
 [/mysongktv.com/]127.0.0.1
 [/mysore-yoga.com/]127.0.0.1
 [/myspain.org/]127.0.0.1
+[/mysqil.com/]127.0.0.1
 [/mysql360.com/]127.0.0.1
 [/mysqlab.net/]127.0.0.1
 [/myssl.com/]127.0.0.1
@@ -87345,6 +87359,7 @@
 [/step-by-step.tech/]127.0.0.1
 [/step-motor.com/]127.0.0.1
 [/stepelectric.com/]127.0.0.1
+[/stepfun.com/]127.0.0.1
 [/stepsigriner.com/]127.0.0.1
 [/stereorise.com/]127.0.0.1
 [/steriguardmed.com/]127.0.0.1
@@ -94041,6 +94056,7 @@
 [/tzujian.com/]127.0.0.1
 [/tzvec.com/]127.0.0.1
 [/tzvtc.com/]127.0.0.1
+[/tzwdsoft.com/]127.0.0.1
 [/tzwpco.com/]127.0.0.1
 [/tzxingtang.com/]127.0.0.1
 [/tzxwzx.com/]127.0.0.1
@@ -96143,7 +96159,6 @@
 [/vpgame.com/]127.0.0.1
 [/vpgamecdn.com/]127.0.0.1
 [/vpiaotong.com/]127.0.0.1
-[/vpie.net/]127.0.0.1
 [/vpimg1.com/]127.0.0.1
 [/vpimg2.com/]127.0.0.1
 [/vpimg3.com/]127.0.0.1
@@ -101012,6 +101027,7 @@
 [/xcsc.com/]127.0.0.1
 [/xcstuido.com/]127.0.0.1
 [/xcsyy.com/]127.0.0.1
+[/xcthings.com/]127.0.0.1
 [/xctmr.com/]127.0.0.1
 [/xcukezmr.com/]127.0.0.1
 [/xcultur.com/]127.0.0.1
@@ -102455,6 +102471,7 @@
 [/xinghejoy.com/]127.0.0.1
 [/xinghengedu.com/]127.0.0.1
 [/xingheoa.com/]127.0.0.1
+[/xinghewanglu.com/]127.0.0.1
 [/xinghuaport.com/]127.0.0.1
 [/xinghuazixun.com/]127.0.0.1
 [/xinghuo100.com/]127.0.0.1
@@ -106110,7 +106127,6 @@
 [/yidaomall.com/]127.0.0.1
 [/yidaomobi.com/]127.0.0.1
 [/yidaplay.com/]127.0.0.1
-[/yidaweb.com/]127.0.0.1
 [/yide.com/]127.0.0.1
 [/yideamobile.com/]127.0.0.1
 [/yidejia.com/]127.0.0.1
@@ -109865,6 +109881,8 @@
 [/zac1993.com/]127.0.0.1
 [/zachina.org/]127.0.0.1
 [/zack.asia/]127.0.0.1
+[/zaconad.com/]127.0.0.1
+[/zaconbs.com/]127.0.0.1
 [/zadervice.com/]127.0.0.1
 [/zaduonews.com/]127.0.0.1
 [/zaecu.com/]127.0.0.1

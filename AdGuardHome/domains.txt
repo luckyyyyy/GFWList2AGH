@@ -10679,6 +10679,7 @@
 [/adxmq.com/]127.0.0.1
 [/adxpand.com/]127.0.0.1
 [/adxqd.com/]127.0.0.1
+[/adxsenmeng.com/]127.0.0.1
 [/adxvip.com/]127.0.0.1
 [/adxwork.com/]127.0.0.1
 [/adxyun.com/]127.0.0.1
@@ -11885,6 +11886,7 @@
 [/alidns.com/]127.0.0.1
 [/alidns.net/]127.0.0.1
 [/alidnsv4.com/]127.0.0.1
+[/alidnsv5.com/]127.0.0.1
 [/alidz.net/]127.0.0.1
 [/aliedge.com/]127.0.0.1
 [/aliensidea.com/]127.0.0.1
@@ -82536,6 +82538,7 @@
 [/sf-pay.com/]127.0.0.1
 [/sf-saas.com/]127.0.0.1
 [/sf-zs.net/]127.0.0.1
+[/sf.global/]127.0.0.1
 [/sf007.com/]127.0.0.1
 [/sf024.com/]127.0.0.1
 [/sf2021.com/]127.0.0.1
@@ -90259,6 +90262,7 @@
 [/tcnvmms.com/]127.0.0.1
 [/tcoejox.shop/]127.0.0.1
 [/tcomall.com/]127.0.0.1
+[/tcp-crm.com/]127.0.0.1
 [/tcp.hk/]127.0.0.1
 [/tcp.mk/]127.0.0.1
 [/tcp.pub/]127.0.0.1

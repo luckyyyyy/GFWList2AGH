@@ -33450,6 +33450,7 @@
 [/enterdesk.com/]127.0.0.1
 [/enterdesk.net/]127.0.0.1
 [/enthalpy.space/]127.0.0.1
+[/entitlements-edge.itunes.apple.com/]127.0.0.1
 [/entive.com/]127.0.0.1
 [/entstudy.com/]127.0.0.1
 [/entts.com/]127.0.0.1
@@ -36405,6 +36406,7 @@
 [/fphs.cc/]127.0.0.1
 [/fphs5.com/]127.0.0.1
 [/fpi-inc.com/]127.0.0.1
+[/fpinit.itunes.apple.com/]127.0.0.1
 [/fpliu.com/]127.0.0.1
 [/fpsace.com/]127.0.0.1
 [/fpsjk.com/]127.0.0.1

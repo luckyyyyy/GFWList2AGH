@@ -12857,6 +12857,7 @@
 [/api-vod-qcloud.com/]127.0.0.1
 [/api.alibabacloud.com/]127.0.0.1
 [/api.anythinktech.com/]127.0.0.1
+[/api.blipsandchitz.me/]127.0.0.1
 [/api.crisp.chat/]127.0.0.1
 [/api.so/]127.0.0.1
 [/apiairasia.com/]127.0.0.1
@@ -28657,6 +28658,7 @@
 [/dcyz.com/]127.0.0.1
 [/dcyzq.com/]127.0.0.1
 [/dczcsc.com/]127.0.0.1
+[/dczcy.com/]127.0.0.1
 [/dczkj.com/]127.0.0.1
 [/dczy168.com/]127.0.0.1
 [/dd-advisor.com/]127.0.0.1
@@ -29655,6 +29657,7 @@
 [/didichuxing.com/]127.0.0.1
 [/dididapiao.com/]127.0.0.1
 [/dididi88.com/]127.0.0.1
+[/didifinance.com/]127.0.0.1
 [/didiglobal.com/]127.0.0.1
 [/didimobility.co.jp/]127.0.0.1
 [/didimobility.com/]127.0.0.1
@@ -36682,6 +36685,7 @@
 [/fuca-china.com/]127.0.0.1
 [/fucantec.com/]127.0.0.1
 [/fuchaipower.com/]127.0.0.1
+[/fuchenkj.com/]127.0.0.1
 [/fuchuangyu.com/]127.0.0.1
 [/fucnm.com/]127.0.0.1
 [/fucol.club/]127.0.0.1
@@ -48367,6 +48371,7 @@
 [/hrs100.com/]127.0.0.1
 [/hrsalon.org/]127.0.0.1
 [/hrsay.com/]127.0.0.1
+[/hrsecn.com/]127.0.0.1
 [/hrsee.com/]127.0.0.1
 [/hrsel.com/]127.0.0.1
 [/hrsoft-china.com/]127.0.0.1
@@ -55153,6 +55158,7 @@
 [/jieshui8.com/]127.0.0.1
 [/jieshuitech.com/]127.0.0.1
 [/jieshuwang.com/]127.0.0.1
+[/jietianz.com/]127.0.0.1
 [/jietu365.com/]127.0.0.1
 [/jietuhb.com/]127.0.0.1
 [/jietuosh.com/]127.0.0.1
@@ -81628,6 +81634,7 @@
 [/sdseshealth.com/]127.0.0.1
 [/sdsfjy.com/]127.0.0.1
 [/sdshangya.com/]127.0.0.1
+[/sdshdc.com/]127.0.0.1
 [/sdshgk.com/]127.0.0.1
 [/sdshihua.com/]127.0.0.1
 [/sdshitu.com/]127.0.0.1
@@ -83335,6 +83342,7 @@
 [/shicaizhanlan.com/]127.0.0.1
 [/shicehao.com/]127.0.0.1
 [/shichangbu.com/]127.0.0.1
+[/shicheng6.com/]127.0.0.1
 [/shichengbao.com/]127.0.0.1
 [/shichengyi.com/]127.0.0.1
 [/shichuangsj.com/]127.0.0.1
@@ -94003,6 +94011,7 @@
 [/ulikestatic.com/]127.0.0.1
 [/ulinix.com/]127.0.0.1
 [/ulinix.tv/]127.0.0.1
+[/ulongemg.com/]127.0.0.1
 [/ulpay.com/]127.0.0.1
 [/ultracachenode.com/]127.0.0.1
 [/ultraeda.com/]127.0.0.1
@@ -108901,6 +108910,7 @@
 [/yximgs.com/]127.0.0.1
 [/yxin18.com/]127.0.0.1
 [/yxinbao.com/]127.0.0.1
+[/yxingfan.com/]127.0.0.1
 [/yxintent.com/]127.0.0.1
 [/yxit.net/]127.0.0.1
 [/yxixy.com/]127.0.0.1

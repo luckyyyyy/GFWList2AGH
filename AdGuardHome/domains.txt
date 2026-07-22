@@ -19950,6 +19950,7 @@
 [/cd-zc.com/]127.0.0.1
 [/cd00c44f211031.beer/]127.0.0.1
 [/cd120.com/]127.0.0.1
+[/cd120.info/]127.0.0.1
 [/cd12371.com/]127.0.0.1
 [/cd1958.com/]127.0.0.1
 [/cd20.net/]127.0.0.1
@@ -68092,6 +68093,7 @@
 [/moe321.com/]127.0.0.1
 [/moeclub.org/]127.0.0.1
 [/moedot.net/]127.0.0.1
+[/moedu.com/]127.0.0.1
 [/moeelf.com/]127.0.0.1
 [/moefactory.com/]127.0.0.1
 [/moefantasy.com/]127.0.0.1
@@ -92759,6 +92761,7 @@
 [/tsingpost.com/]127.0.0.1
 [/tsingshang.com/]127.0.0.1
 [/tsingtek.com/]127.0.0.1
+[/tsingtengms.com/]127.0.0.1
 [/tsingtoo.com/]127.0.0.1
 [/tsingtuo.com/]127.0.0.1
 [/tsingyangroup.com/]127.0.0.1
@@ -100605,6 +100608,7 @@
 [/xcxymw.com/]127.0.0.1
 [/xcxzww.com/]127.0.0.1
 [/xcyg.net/]127.0.0.1
+[/xcz.im/]127.0.0.1
 [/xczhmzb.com/]127.0.0.1
 [/xczhsh.com/]127.0.0.1
 [/xczim.com/]127.0.0.1

@@ -90975,6 +90975,8 @@
 [/tj-kingdee.com/]127.0.0.1
 [/tj-model.com/]127.0.0.1
 [/tj-pod1-smp-device.apple.com/]127.0.0.1
+[/tj-pod2-smp-device.apple.com/]127.0.0.1
+[/tj-pod3-smp-device.apple.com/]127.0.0.1
 [/tj-un.com/]127.0.0.1
 [/tj0573.com/]127.0.0.1
 [/tj1-miui-bn-stage01.kscn/]127.0.0.1

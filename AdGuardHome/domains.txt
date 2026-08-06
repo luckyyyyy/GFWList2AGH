@@ -65054,6 +65054,7 @@
 [/madajiefood.com/]127.0.0.1
 [/madaomall.com/]127.0.0.1
 [/madboxi.com/]127.0.0.1
+[/made-in-china.com/]127.0.0.1
 [/madefuns.com/]127.0.0.1
 [/madeinchinastone.com/]127.0.0.1
 [/madewei.com/]127.0.0.1
@@ -66829,6 +66830,7 @@
 [/microxiang.com/]127.0.0.1
 [/microyan.com/]127.0.0.1
 [/microzuji.com/]127.0.0.1
+[/micstatic.com/]127.0.0.1
 [/mictormedical.com/]127.0.0.1
 [/micu.hk/]127.0.0.1
 [/micun.com/]127.0.0.1
@@ -74703,6 +74705,7 @@
 [/powercx.com/]127.0.0.1
 [/powerde.com/]127.0.0.1
 [/powereasy.net/]127.0.0.1
+[/poweremarket.com/]127.0.0.1
 [/powerex1.com/]127.0.0.1
 [/powerflow-tech.com/]127.0.0.1
 [/powerfulchina.com/]127.0.0.1

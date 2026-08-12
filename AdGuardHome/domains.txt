@@ -52535,6 +52535,8 @@
 [/iot688.com/]127.0.0.1
 [/iot889.com/]127.0.0.1
 [/iotachem.com/]127.0.0.1
+[/iotaskyt.com/]127.0.0.1
+[/iotaskyty.com/]127.0.0.1
 [/iotbay.com/]127.0.0.1
 [/iotfair.net/]127.0.0.1
 [/iotku.com/]127.0.0.1
@@ -89281,6 +89283,7 @@
 [/tbbbk.com/]127.0.0.1
 [/tbcache.com/]127.0.0.1
 [/tbcdn.com/]127.0.0.1
+[/tbdesk.com/]127.0.0.1
 [/tbh5.com/]127.0.0.1
 [/tbhcc.com/]127.0.0.1
 [/tbhelper.com/]127.0.0.1

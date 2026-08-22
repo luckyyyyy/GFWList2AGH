@@ -10552,7 +10552,6 @@
 [/afca-asia.org/]127.0.0.1
 [/afca6b82c11032.beer/]127.0.0.1
 [/afcec.com/]127.0.0.1
-[/afcs.dell.com/]127.0.0.1
 [/afdian.com/]127.0.0.1
 [/afdian.net/]127.0.0.1
 [/afdiancdn.com/]127.0.0.1
@@ -23524,7 +23523,6 @@
 [/client51.com/]127.0.0.1
 [/clientflow.apple.com/]127.0.0.1
 [/clientflow.apple.com.akadns.net/]127.0.0.1
-[/clientperipherals.dell.com/]127.0.0.1
 [/clientservices.googleapis.com/]127.0.0.1
 [/clifford-hospital.org/]127.0.0.1
 [/cliffordtrading.com/]127.0.0.1
@@ -27013,7 +27011,6 @@
 [/cusdvs.com/]127.0.0.1
 [/cusdvs.net/]127.0.0.1
 [/custeel.com/]127.0.0.1
-[/customization-cdn.dell.com/]127.0.0.1
 [/customizedfasteners.com/]127.0.0.1
 [/customsapp.com/]127.0.0.1
 [/customskh.org/]127.0.0.1
@@ -28592,7 +28589,6 @@
 [/ddpai.com/]127.0.0.1
 [/ddpoc.com/]127.0.0.1
 [/ddqcw.com/]127.0.0.1
-[/dds.dell.com/]127.0.0.1
 [/ddsaas.com/]127.0.0.1
 [/ddsk.la/]127.0.0.1
 [/ddsm.com/]127.0.0.1
@@ -29919,7 +29915,6 @@
 [/dl-rc.com/]127.0.0.1
 [/dl-vip.pcfaster.baidu.co.th/]127.0.0.1
 [/dl.delivery.mp.microsoft.com/]127.0.0.1
-[/dl.dell.com/]127.0.0.1
 [/dl.google.com/]127.0.0.1
 [/dl.l.google.com/]127.0.0.1
 [/dl0728.com/]127.0.0.1
@@ -31927,9 +31922,6 @@
 [/ea-china.com/]127.0.0.1
 [/ea-retina.com/]127.0.0.1
 [/ea-xing.com/]127.0.0.1
-[/ea2cn-dev-outlet.dell.com/]127.0.0.1
-[/ea2cn-prod-outlet.dell.com/]127.0.0.1
-[/ea2cn-staging-outlet.dell.com/]127.0.0.1
 [/ea360.com/]127.0.0.1
 [/ea3w.com/]127.0.0.1
 [/ea65d2a2f16d6b8c.com/]127.0.0.1
@@ -33008,7 +33000,6 @@
 [/emlog.net/]127.0.0.1
 [/emmmn.com/]127.0.0.1
 [/emodor.com/]127.0.0.1
-[/emoi-cncdn.bing.com/]127.0.0.1
 [/emoji6.com/]127.0.0.1
 [/emojimobile.com/]127.0.0.1
 [/emoriko.com/]127.0.0.1
@@ -34700,7 +34691,6 @@
 [/fcpowerup.com/]127.0.0.1
 [/fcqjc.com/]127.0.0.1
 [/fcrc114.com/]127.0.0.1
-[/fcs.dell.com/]127.0.0.1
 [/fcs1.com/]127.0.0.1
 [/fcsc.com/]127.0.0.1
 [/fcstor.com/]127.0.0.1
@@ -36441,11 +36431,7 @@
 [/ft12.com/]127.0.0.1
 [/ft22.com/]127.0.0.1
 [/ft98.com/]127.0.0.1
-[/fta.dell.com/]127.0.0.1
-[/ftaapj.dell.com/]127.0.0.1
-[/ftaemea.dell.com/]127.0.0.1
 [/ftaro.com/]127.0.0.1
-[/ftasitapj.dell.com/]127.0.0.1
 [/ftbj.net/]127.0.0.1
 [/ftcoaster.com/]127.0.0.1
 [/ftcwifi.com/]127.0.0.1
@@ -37554,8 +37540,6 @@
 [/gbtranswins.com/]127.0.0.1
 [/gbvh.com/]127.0.0.1
 [/gbw114.com/]127.0.0.1
-[/gbxgateway-dev.dell.com/]127.0.0.1
-[/gbxgateway.dell.com/]127.0.0.1
 [/gc-zb.com/]127.0.0.1
 [/gc1616.com/]127.0.0.1
 [/gc39.com/]127.0.0.1
@@ -50563,7 +50547,6 @@
 [/i-xiaohaibao.com/]127.0.0.1
 [/i-xinnuo.com/]127.0.0.1
 [/i-xoron.com/]127.0.0.1
-[/i.dell.com/]127.0.0.1
 [/i.ipinyou.com/]127.0.0.1
 [/i.pki.goog/]127.0.0.1
 [/i0.pub/]127.0.0.1
@@ -69947,7 +69930,6 @@
 [/nextworkshop.net/]127.0.0.1
 [/nextyu.com/]127.0.0.1
 [/nexus-holding.com/]127.0.0.1
-[/nexus.dell.com/]127.0.0.1
 [/nexusedgeio.com/]127.0.0.1
 [/nexushd.org/]127.0.0.1
 [/neyetwatcher.com/]127.0.0.1
@@ -73038,7 +73020,6 @@
 [/p-sig-dom.net/]127.0.0.1
 [/p.biz/]127.0.0.1
 [/p.bstarstatic.com/]127.0.0.1
-[/p.cdn.persaas.dell.com/]127.0.0.1
 [/p00.upd.kaspersky.com/]127.0.0.1
 [/p01.upd.kaspersky.com/]127.0.0.1
 [/p02.upd.kaspersky.com/]127.0.0.1
@@ -80601,7 +80582,6 @@
 [/sceeo.com/]127.0.0.1
 [/sceia.org/]127.0.0.1
 [/scemrq.com/]127.0.0.1
-[/scene7-cdn.dell.com/]127.0.0.1
 [/scengine.com/]127.0.0.1
 [/scenictc.com/]127.0.0.1
 [/scensmart.com/]127.0.0.1
@@ -84124,7 +84104,6 @@
 [/si-era.com/]127.0.0.1
 [/si-in.com/]127.0.0.1
 [/si-win.com/]127.0.0.1
-[/si.cdn.dell.com/]127.0.0.1
 [/sia1995.net/]127.0.0.1
 [/siad-c.com/]127.0.0.1
 [/siaedu.net/]127.0.0.1
@@ -85039,7 +85018,6 @@
 [/sm-check.com/]127.0.0.1
 [/sm-cq.com/]127.0.0.1
 [/sm-main.com/]127.0.0.1
-[/sm.dell.com/]127.0.0.1
 [/sm0.fun/]127.0.0.1
 [/sm160.com/]127.0.0.1
 [/sm160.net/]127.0.0.1
@@ -85340,9 +85318,7 @@
 [/snowkey.com/]127.0.0.1
 [/snowlotusgroup.com/]127.0.0.1
 [/snowyimall.com/]127.0.0.1
-[/snp.cdn.dell.com/]127.0.0.1
 [/snpac.com/]127.0.0.1
-[/snpi.dell.com/]127.0.0.1
 [/snps.tech/]127.0.0.1
 [/snptc.com/]127.0.0.1
 [/snrat.com/]127.0.0.1
@@ -87139,7 +87115,6 @@
 [/support-china.apple-support.akadns.net/]127.0.0.1
 [/support-cn.samsung.com/]127.0.0.1
 [/support.apple.com/]127.0.0.1
-[/supportassist.dell.com/]127.0.0.1
 [/supreme-oe.com/]127.0.0.1
 [/supwisdom.com/]127.0.0.1
 [/supwk.com/]127.0.0.1
@@ -91887,7 +91862,6 @@
 [/toysol.com/]127.0.0.1
 [/tp-data.com/]127.0.0.1
 [/tp-hivi.com/]127.0.0.1
-[/tp.louisvuitton.com/]127.0.0.1
 [/tp82.com/]127.0.0.1
 [/tpadx.com/]127.0.0.1
 [/tpbook.com/]127.0.0.1
@@ -93869,7 +93843,6 @@
 [/upkao.com/]127.0.0.1
 [/upkk.com/]127.0.0.1
 [/upkuajing.com/]127.0.0.1
-[/uplaypc-s-ubisoft.cdn.ubi.com/]127.0.0.1
 [/uplookedu.com/]127.0.0.1
 [/uplooking.com/]127.0.0.1
 [/upluck.cc/]127.0.0.1
@@ -99263,7 +99236,6 @@
 [/wwstat.com/]127.0.0.1
 [/www-666789.com/]127.0.0.1
 [/www-76244.com/]127.0.0.1
-[/www-csb.dell.com/]127.0.0.1
 [/www-google-analytics.l.google.com/]127.0.0.1
 [/www-googletagmanager.l.google.com/]127.0.0.1
 [/www-jabuank-co-jp.net/]127.0.0.1
@@ -99274,7 +99246,6 @@
 [/www.cdnetworks.com/]127.0.0.1
 [/www.cg/]127.0.0.1
 [/www.com.my/]127.0.0.1
-[/www.dell.com/]127.0.0.1
 [/www.destinationurl.com/]127.0.0.1
 [/www.djivideos.com/]127.0.0.1
 [/www.entrust.cn/]127.0.0.1

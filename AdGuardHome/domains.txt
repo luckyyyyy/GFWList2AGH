@@ -7719,7 +7719,6 @@
 [/7755330.com/]127.0.0.1
 [/7755360.com/]127.0.0.1
 [/7756.org/]127.0.0.1
-[/7759.com/]127.0.0.1
 [/776577.com/]127.0.0.1
 [/7766.info/]127.0.0.1
 [/7766.org/]127.0.0.1
@@ -29773,6 +29772,7 @@
 [/djrhf0.com/]127.0.0.1
 [/djserver.center/]127.0.0.1
 [/djsh5.com/]127.0.0.1
+[/djsnm.app/]127.0.0.1
 [/djstechpc.com/]127.0.0.1
 [/djstg.com/]127.0.0.1
 [/djtpf.com/]127.0.0.1
@@ -52492,7 +52492,6 @@
 [/ipeijiu.com/]127.0.0.1
 [/ipengchen.com/]127.0.0.1
 [/ipengtai.com/]127.0.0.1
-[/iper2.com/]127.0.0.1
 [/ipetct.com/]127.0.0.1
 [/ipexp.com/]127.0.0.1
 [/ipfeibiao.com/]127.0.0.1
@@ -67708,6 +67707,7 @@
 [/mono.work/]127.0.0.1
 [/monolink.net/]127.0.0.1
 [/monph.com/]127.0.0.1
+[/monsterhunteroutlanders.com/]127.0.0.1
 [/monsterlin.com/]127.0.0.1
 [/montage-tech.com/]127.0.0.1
 [/monternet.com/]127.0.0.1
@@ -71437,7 +71437,6 @@
 [/nuedcchina.com/]127.0.0.1
 [/nufans.net/]127.0.0.1
 [/nug08011lu.com/]127.0.0.1
-[/nug08031lu.com/]127.0.0.1
 [/nuhcpf.com/]127.0.0.1
 [/nuhighbio.com/]127.0.0.1
 [/nuist.pro/]127.0.0.1
@@ -85596,6 +85595,7 @@
 [/soukuyou.com/]127.0.0.1
 [/soulapp.me/]127.0.0.1
 [/soulgame.mobi/]127.0.0.1
+[/soulharbor.work/]127.0.0.1
 [/soulsky.net/]127.0.0.1
 [/soulteary.com/]127.0.0.1
 [/soulu365.com/]127.0.0.1
@@ -89185,6 +89185,7 @@
 [/tcdnos.com/]127.0.0.1
 [/tcdnos.net/]127.0.0.1
 [/tcdns31.com/]127.0.0.1
+[/tcdns74.com/]127.0.0.1
 [/tcdntip.com/]127.0.0.1
 [/tcdnv3.com/]127.0.0.1
 [/tcdnvod.com/]127.0.0.1
@@ -92517,6 +92518,7 @@
 [/tuputech.com/]127.0.0.1
 [/tuqiangcn.com/]127.0.0.1
 [/tuqou.com/]127.0.0.1
+[/tuquge.com/]127.0.0.1
 [/tuquu.com/]127.0.0.1
 [/turangyq.com/]127.0.0.1
 [/turboes.com/]127.0.0.1
@@ -100045,7 +100047,6 @@
 [/xeeok.com/]127.0.0.1
 [/xefan.com/]127.0.0.1
 [/xege.org/]127.0.0.1
-[/xegnfwkju.com/]127.0.0.1
 [/xegymyb.xyz/]127.0.0.1
 [/xehedu.com/]127.0.0.1
 [/xeknow.com/]127.0.0.1
@@ -104789,6 +104790,7 @@
 [/ygfengshui.com/]127.0.0.1
 [/yggk.net/]127.0.0.1
 [/yghsh.com/]127.0.0.1
+[/yghy123.com/]127.0.0.1
 [/ygibao.com/]127.0.0.1
 [/yginsight.com/]127.0.0.1
 [/ygjctech.com/]127.0.0.1
@@ -109686,6 +109688,7 @@
 [/zhangbj.com/]127.0.0.1
 [/zhangchangfa.com/]127.0.0.1
 [/zhangchi.art/]127.0.0.1
+[/zhangdkl.asia/]127.0.0.1
 [/zhangdongxuan.com/]127.0.0.1
 [/zhangdu.com/]127.0.0.1
 [/zhangdu520.com/]127.0.0.1

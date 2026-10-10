@@ -101083,6 +101083,7 @@
 [/xiaomi.org/]127.0.0.1
 [/xiaomi.tw/]127.0.0.1
 [/xiaomiaozai.com/]127.0.0.1
+[/xiaomiauto.com/]127.0.0.1
 [/xiaomicache.com/]127.0.0.1
 [/xiaomicorp.com/]127.0.0.1
 [/xiaomicorp.net/]127.0.0.1

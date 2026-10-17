@@ -4458,7 +4458,6 @@
 [/3y1.com/]127.0.0.1
 [/3y7h.com/]127.0.0.1
 [/3yakj.com/]127.0.0.1
-[/3ygww.com/]127.0.0.1
 [/3yoqu.com/]127.0.0.1
 [/3yt.com/]127.0.0.1
 [/3yt.la/]127.0.0.1
@@ -9392,6 +9391,7 @@
 [/9fav.com/]127.0.0.1
 [/9fb8d5b6bff66a4d.com/]127.0.0.1
 [/9fbank.com/]127.0.0.1
+[/9fe06a.fyi/]127.0.0.1
 [/9fe3e7d4c10311.beer/]127.0.0.1
 [/9fh5.com/]127.0.0.1
 [/9first.com/]127.0.0.1
@@ -17439,7 +17439,6 @@
 [/bpqwxsh.com/]127.0.0.1
 [/bpsemi.com/]127.0.0.1
 [/bpteach.com/]127.0.0.1
-[/bpuvuun0xg.com/]127.0.0.1
 [/bpxxfw.com/]127.0.0.1
 [/bpxxvo.com/]127.0.0.1
 [/bq04.com/]127.0.0.1
@@ -29298,6 +29297,7 @@
 [/ditiezu.com/]127.0.0.1
 [/ditiezu.net/]127.0.0.1
 [/ditrit.com/]127.0.0.1
+[/dittocdn.com/]127.0.0.1
 [/ditu.live.com/]127.0.0.1
 [/dituhui.com/]127.0.0.1
 [/dituw.net/]127.0.0.1
@@ -29686,6 +29686,7 @@
 [/dns-waf.com/]127.0.0.1
 [/dns.com/]127.0.0.1
 [/dns.la/]127.0.0.1
+[/dns.lat/]127.0.0.1
 [/dns.pub/]127.0.0.1
 [/dns002.com/]127.0.0.1
 [/dns0755.net/]127.0.0.1
@@ -36545,7 +36546,6 @@
 [/g1080.com/]127.0.0.1
 [/g12e.com/]127.0.0.1
 [/g12e.org/]127.0.0.1
-[/g15wt3ci68.com/]127.0.0.1
 [/g188.net/]127.0.0.1
 [/g1c5.com/]127.0.0.1
 [/g1d.net/]127.0.0.1
@@ -39410,7 +39410,6 @@
 [/googletraveladservices.com/]127.0.0.1
 [/googlevads-cn.com/]127.0.0.1
 [/googlevoice.org/]127.0.0.1
-[/googley8rb.com/]127.0.0.1
 [/googleyixia.com/]127.0.0.1
 [/googoc.com/]127.0.0.1
 [/googol-power.com/]127.0.0.1
@@ -39668,6 +39667,7 @@
 [/graueneko.xyz/]127.0.0.1
 [/gravity-engine.com/]127.0.0.1
 [/graz.quest/]127.0.0.1
+[/grboi.com/]127.0.0.1
 [/grcbank.com/]127.0.0.1
 [/grchina.com/]127.0.0.1
 [/great-future.com/]127.0.0.1
@@ -55728,7 +55728,6 @@
 [/johnlz.com/]127.0.0.1
 [/johnmedia.com/]127.0.0.1
 [/johouse.com/]127.0.0.1
-[/joi09110pt.com/]127.0.0.1
 [/joiest.com/]127.0.0.1
 [/joinchitchat.com/]127.0.0.1
 [/joindata.net/]127.0.0.1
@@ -74572,6 +74571,7 @@
 [/pymh.com/]127.0.0.1
 [/pyneo.com/]127.0.0.1
 [/pyou.com/]127.0.0.1
+[/pyquan.com/]127.0.0.1
 [/pyral07m8m.com/]127.0.0.1
 [/pyrc.net/]127.0.0.1
 [/pyshszh.com/]127.0.0.1
@@ -81866,6 +81866,7 @@
 [/shengsci.com/]127.0.0.1
 [/shengshizhicheng.com/]127.0.0.1
 [/shengtai.com/]127.0.0.1
+[/shengtai.cyou/]127.0.0.1
 [/shengtaigroup.net/]127.0.0.1
 [/shengtian.com/]127.0.0.1
 [/shengtiangames.com/]127.0.0.1
@@ -89168,6 +89169,7 @@
 [/tenganxinxi.com/]127.0.0.1
 [/tengbai-it.com/]127.0.0.1
 [/tengbo.cc/]127.0.0.1
+[/tengcanxi.com/]127.0.0.1
 [/tengchangjiancai.com/]127.0.0.1
 [/tengdatumu.com/]127.0.0.1
 [/tengdawl.com/]127.0.0.1
@@ -99542,6 +99544,7 @@
 [/xhjyxxw.com/]127.0.0.1
 [/xhlcsl.com/]127.0.0.1
 [/xhlsgs.com/]127.0.0.1
+[/xhlylx.com/]127.0.0.1
 [/xhma.com/]127.0.0.1
 [/xhmedia.com/]127.0.0.1
 [/xhmwxy.com/]127.0.0.1

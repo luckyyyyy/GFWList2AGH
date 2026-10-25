@@ -12510,6 +12510,7 @@
 [/app-router.com/]127.0.0.1
 [/app-site-association.cdn-apple.com/]127.0.0.1
 [/app-static.com/]127.0.0.1
+[/app.moegirl.org.cn/]127.0.0.1
 [/app.so/]127.0.0.1
 [/app111.com/]127.0.0.1
 [/app111.org/]127.0.0.1
@@ -19771,6 +19772,7 @@
 [/cdqz.net/]127.0.0.1
 [/cdrbs.net/]127.0.0.1
 [/cdrcb.com/]127.0.0.1
+[/cdrcbank.com/]127.0.0.1
 [/cdren.net/]127.0.0.1
 [/cdrich.com/]127.0.0.1
 [/cdrjob.com/]127.0.0.1
@@ -25759,6 +25761,7 @@
 [/cqyygz.com/]127.0.0.1
 [/cqyyjc.com/]127.0.0.1
 [/cqyysx.com/]127.0.0.1
+[/cqyyxc.com/]127.0.0.1
 [/cqyyzy.com/]127.0.0.1
 [/cqyznews.com/]127.0.0.1
 [/cqzbcg.com/]127.0.0.1
@@ -50088,6 +50091,7 @@
 [/ibaizhu.com/]127.0.0.1
 [/ibanana.club/]127.0.0.1
 [/ibanbu.com/]127.0.0.1
+[/ibangbank.com/]127.0.0.1
 [/ibanggo.com/]127.0.0.1
 [/ibangkf.com/]127.0.0.1
 [/ibangtiao.com/]127.0.0.1
@@ -52275,6 +52279,7 @@
 [/isi-gf.com/]127.0.0.1
 [/isiabio.com/]127.0.0.1
 [/isign.ren/]127.0.0.1
+[/isigning.com/]127.0.0.1
 [/isigu.com/]127.0.0.1
 [/isilent.me/]127.0.0.1
 [/isilicontech.com/]127.0.0.1
@@ -66975,7 +66980,6 @@
 [/moefactory.com/]127.0.0.1
 [/moefantasy.com/]127.0.0.1
 [/moefou.org/]127.0.0.1
-[/moegirl.org/]127.0.0.1
 [/moegirl.tw/]127.0.0.1
 [/moehot.com/]127.0.0.1
 [/moehu.org/]127.0.0.1
@@ -68461,6 +68465,7 @@
 [/nannjlnk.com/]127.0.0.1
 [/nanobody-biolab.com/]127.0.0.1
 [/nanochrom.com/]127.0.0.1
+[/nanocorechip.com/]127.0.0.1
 [/nanoeast.net/]127.0.0.1
 [/nanoer.net/]127.0.0.1
 [/nanoinglobal.com/]127.0.0.1
@@ -85651,6 +85656,7 @@
 [/stonexp.com/]127.0.0.1
 [/stor-age.com/]127.0.0.1
 [/stor-helper.com/]127.0.0.1
+[/storage.moegirl.org.cn/]127.0.0.1
 [/storcezon.com/]127.0.0.1
 [/store.apple.com/]127.0.0.1
 [/store.apple.com.edgekey.net/]127.0.0.1

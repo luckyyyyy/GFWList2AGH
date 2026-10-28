@@ -62559,8 +62559,6 @@
 [/longanlaw.com/]127.0.0.1
 [/longau.com/]127.0.0.1
 [/longbenren.com/]127.0.0.1
-[/longbridgeapp.com/]127.0.0.1
-[/longbridgehk.com/]127.0.0.1
 [/longcai.com/]127.0.0.1
 [/longcai027.com/]127.0.0.1
 [/longcat.chat/]127.0.0.1
@@ -80852,7 +80850,9 @@
 [/sh-oca.com/]127.0.0.1
 [/sh-pet.com/]127.0.0.1
 [/sh-pn.com/]127.0.0.1
+[/sh-pod1-smp-device.apple.com/]127.0.0.1
 [/sh-pod2-smp-device.apple.com/]127.0.0.1
+[/sh-pod3-smp-device.apple.com/]127.0.0.1
 [/sh-pp.com/]127.0.0.1
 [/sh-printing.com/]127.0.0.1
 [/sh-prosperity.com/]127.0.0.1

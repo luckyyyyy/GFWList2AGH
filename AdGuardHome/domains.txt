@@ -17714,6 +17714,7 @@
 [/bustoprint.com/]127.0.0.1
 [/bustruckexpo.com/]127.0.0.1
 [/busuanzi.cc/]127.0.0.1
+[/busyming.com/]127.0.0.1
 [/but7.com/]127.0.0.1
 [/butair.com/]127.0.0.1
 [/butao.com/]127.0.0.1
@@ -30069,6 +30070,7 @@
 [/doubanio.com/]127.0.0.1
 [/doubao-dev.com/]127.0.0.1
 [/doubao.com/]127.0.0.1
+[/doubaoapps.com/]127.0.0.1
 [/doubaocdn.com/]127.0.0.1
 [/doubaozhidao.com/]127.0.0.1
 [/doubean.com/]127.0.0.1
@@ -112413,6 +112415,7 @@
 [/zymc1.com/]127.0.0.1
 [/zymkcdn.com/]127.0.0.1
 [/zymkshop.com/]127.0.0.1
+[/zymls.com/]127.0.0.1
 [/zyms8.me/]127.0.0.1
 [/zyoffice.com/]127.0.0.1
 [/zyoo.net/]127.0.0.1

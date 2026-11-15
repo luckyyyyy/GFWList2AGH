@@ -9971,6 +9971,7 @@
 [/adpfm513.com/]127.0.0.1
 [/adplusx.com/]127.0.0.1
 [/adpsh.com/]127.0.0.1
+[/adqiyu.com/]127.0.0.1
 [/adqtt.net/]127.0.0.1
 [/adquan.com/]127.0.0.1
 [/adrkwai.com/]127.0.0.1
@@ -39301,7 +39302,6 @@
 [/googlenav.com/]127.0.0.1
 [/googleoptimize-cn.com/]127.0.0.1
 [/googleoptimize.com/]127.0.0.1
-[/googleplus.party/]127.0.0.1
 [/googleppy.com/]127.0.0.1
 [/googlesyndication-cn.com/]127.0.0.1
 [/googlesyndication.com/]127.0.0.1
@@ -67411,7 +67411,6 @@
 [/mrjjxw.com/]127.0.0.1
 [/mrlian.club/]127.0.0.1
 [/mrlika.com/]127.0.0.1
-[/mrlxc51byo.com/]127.0.0.1
 [/mrmfsc.ltd/]127.0.0.1
 [/mro365.com/]127.0.0.1
 [/mro9.com/]127.0.0.1
@@ -82524,7 +82523,6 @@
 [/shonfer.com/]127.0.0.1
 [/shootmedia.net/]127.0.0.1
 [/shop-isv.com/]127.0.0.1
-[/shop265.com/]127.0.0.1
 [/shop2cn.com/]127.0.0.1
 [/shopbackdrop.com/]127.0.0.1
 [/shopchaoren.com/]127.0.0.1

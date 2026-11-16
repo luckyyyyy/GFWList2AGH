@@ -18685,6 +18685,7 @@
 [/capsuleshanghai.com/]127.0.0.1
 [/captain-cro.com/]127.0.0.1
 [/captainbi.com/]127.0.0.1
+[/captive.apple.com/]127.0.0.1
 [/capturetheflag.fun/]127.0.0.1
 [/capvision.com/]127.0.0.1
 [/capwhale.com/]127.0.0.1
@@ -24737,6 +24738,7 @@
 [/conew.com/]127.0.0.1
 [/configuration.apple.com/]127.0.0.1
 [/configuration.apple.com.akadns.net/]127.0.0.1
+[/configuration.ls.apple.com/]127.0.0.1
 [/confluxrpc.com/]127.0.0.1
 [/conghua.com/]127.0.0.1
 [/congmiqq.com/]127.0.0.1
@@ -67689,6 +67691,7 @@
 [/musiceol.com/]127.0.0.1
 [/musicgw.com/]127.0.0.1
 [/musiclemon.net/]127.0.0.1
+[/musicstatus.itunes.apple.com/]127.0.0.1
 [/musicstatus.music.apple.com/]127.0.0.1
 [/musiness.vip/]127.0.0.1
 [/muslimwww.com/]127.0.0.1
@@ -68258,6 +68261,7 @@
 [/mzsrmyy.com/]127.0.0.1
 [/mzssysmyxgs.com/]127.0.0.1
 [/mzstatic.com/]127.0.0.1
+[/mzstorekit.itunes.apple.com/]127.0.0.1
 [/mzsvn.com/]127.0.0.1
 [/mztgame.com/]127.0.0.1
 [/mztspa.com/]127.0.0.1

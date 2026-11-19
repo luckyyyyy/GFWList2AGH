@@ -61004,6 +61004,7 @@
 [/lenovoconnect.com/]127.0.0.1
 [/lenovoeservice.com/]127.0.0.1
 [/lenovofile.com/]127.0.0.1
+[/lenovofuturecenter.com/]127.0.0.1
 [/lenovogame.com/]127.0.0.1
 [/lenovohci.com/]127.0.0.1
 [/lenovohuishang.com/]127.0.0.1
@@ -76131,6 +76132,7 @@
 [/qpkaifa.com/]127.0.0.1
 [/qplus.com/]127.0.0.1
 [/qplusstatic.com/]127.0.0.1
+[/qpmcn.com/]127.0.0.1
 [/qpmwg68cre9pci.com/]127.0.0.1
 [/qpoc.com/]127.0.0.1
 [/qpstar.com/]127.0.0.1
@@ -109144,6 +109146,7 @@
 [/zhaokuaizhao.com/]127.0.0.1
 [/zhaolaobanla.com/]127.0.0.1
 [/zhaoliangji.com/]127.0.0.1
+[/zhaoliangjipc.com/]127.0.0.1
 [/zhaoliming.net/]127.0.0.1
 [/zhaoming.biz/]127.0.0.1
 [/zhaomishijie.com/]127.0.0.1
